@@ -99,6 +99,7 @@ Monster Infrequents
     Ascendant Hood: increased bonuses to Devastation and Inquisitor Seal to +3
     Ascended Diadem: increased bonuses to Reckless Power and Stormcaller’s Pact to +4. Increased % Offensive and % Defensive Ability modifiers for Stormcaller’s Pact to 6%.
     Bane’Gargoth’s Shard: replaced % Pierce dealt as Fire modifier for Forcewave with 100% of Physical dealt as Fire
+    Bargoll’s Core: added +1 Projectile and 3% Pet Basic Attack damage modifiers for Summon Familiar
     Blaze Herald: increased Aether damage modifier for Word of Pain to 66 and removed its % Aether Resist Reduction modifier
     Bloodbriar’s Thorn: replaced Physical damage modifier for Blitz with -1s Cooldown modifier and increased its % Crit damage modifier to 50%. Replaced Pierce damage modifier for Ring of Steel with -1s Cooldown modifier and increased its % Crit damage modifier to 50%.
     Bloodsworn Codex: replaced Physical damage for pets with % Health for pets. Reduced % Damage Modified modifier for Summon Briarthorn to 30%.
@@ -146,6 +147,7 @@ Monster Infrequents
     Vilgazor’s Heart: replaced % Pierce dealt as Fire Conversion with 10% of Physical dealt as Fire and increased % Pierce dealt as Fire modifier for Pneumatic Burst to 100%
     Viper Hemorrhager: increased Bleed damage modifier for Phantasmal Blades to 144 / 3s
     Voldrak’s Crusher: increased bonus Physical damage to 75
+    Warden’s Judgment: increased Aether damage modifier for Iskandra’s Elemental Exchange to 28 and added 8% Attack Speed modifier for it
     Wendigo Barb: replaced Health and bonus to Nidalla’s Hidden Hand with % Acid damage and +3 to Spectral Binding. Added modifiers for Spectral Binding. Replaced Conversion modifier for Blood of Dreeg with 45% of Vitality dealt as Acid.
     Wendigo Claw: increased bonus to Markovian’s Advantage to +3 and added Bleed damage modifier for it
     Zaria’s Pendant: removed % Attack Speed for pets. Reduced % Damage Modified modifier for Summon Briarthorn to 25%.
@@ -370,6 +372,9 @@ Legendary Set Items
     Ember’s Calling Set: increased % Attack damage Converted to Health modifier for Vindictive Flame to 20%
     Armor of Ember’s Calling: increased Health to 855
     Mask of Ember’s Calling: added 10% Health modifier for Vindictive Flame
+    Ghol’s Malice Set: increased Acid damage bonus for pets to 26
+    Ghol’s Mark: increased Acid damage modifier for Summon Briarthorn to 30 and its Poison damage modifier to 60 / 5s
+    Ghol’s Raiment: increased Acid damage for pets to 10
     Goredrinker Set: increased % Health to 22% and increased Bleed damage modifiers for Cadence and Word of Pain to 210 / 2s and 200 / 1s, respectively
     Goredrinker’s Mantle: increased Health to 660 and Bleed damage to 19 / 3s
     Goredrinker’s Mask: increased Health to 660 and added 38 Defensive Ability
