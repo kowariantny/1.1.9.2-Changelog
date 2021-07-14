@@ -156,6 +156,7 @@ Monster Infrequents
     Wendigo Barb: replaced Health and bonus to Nidalla’s Hidden Hand with % Acid damage and +3 to Spectral Binding. Added modifiers for Spectral Binding. Replaced Conversion modifier for Blood of Dreeg with 45% of Vitality dealt as Acid.
     Wendigo Claw: increased bonus to Markovian’s Advantage to +3 and added Bleed damage modifier for it
     Wendigo Eye: increased Elemental damage modifier for Panetti’s Replicating Missile to 80
+    Wendigo Glare: reduced Physical damage modifier for Shattering Smash to 140
     Zaria’s Pendant: removed % Attack Speed for pets. Reduced % Damage Modified modifier for Summon Briarthorn to 25%.
 
 Epic Items
@@ -284,7 +285,7 @@ Legendary Non-Set Items
     Mythical Consumption of Agrivix: increased Fire damage modifier for Flames of Ignaffar to 55 and increased Burn damage modifier for Callidor’s Tempest to 180 / 4s
     Mythical Crest of Winter Fortitude: added 4% Attack Speed. Increased % Retaliation added to Attack modifier for Blitz to 35% and added 100% of Physical dealt as Cold modifier for it.
     Mythical Crimson Spike: increased % Attack Speed to 20%
-    Mythical Crystallum: replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 410 Health. Replaced bonus to Clarity of Purpose with +3 to Soulfire. Added modifiers for Savagery and Eye of Reckoning.
+    Mythical Crystallum: replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 410 Health. Replaced bonus to Clarity of Purpose with +3 to Ascension. Added modifiers for Savagery and Ascension.
     Mythical Dawnshard Grip: increased Elemental damage to 22 and added 18% Poison Resist
     Mythical Death Omen: increased Vitality damage to 28
     Mythical Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack
@@ -298,7 +299,7 @@ Legendary Non-Set Items
     Mythical Dreadscorcher: increased Aether damage modifier for Flame Touched to 44 and added 6% Physical Resist modifier for it
     Mythical Earthsplitter: increased bonus Physical damage to 33-46
     Mythical Edge of Death: added % Bleed damage. Added 110 bleed / 5s modifiers for Markovian’s Advantage and Reaping Strike and added modifiers for Field Command.
-    Mythical Empyrion’s Mercy: increased bonus to Soulfire to +3 and % Attack Speed to 18%. Increased % Resist Reduction on the granted skill to -12% and replaced its Fire damage with Lightning damage. Increased Lightning damage modifier for Eye of Reckoning to 28-100.
+    Mythical Empyrion’s Mercy: increased bonus to Soulfire to +3 and % Attack Speed to 18%. Increased % Resist Reduction on the granted skill to -12% and replaced its Fire damage with Lightning damage. Increased Lightning damage modifier for Eye of Reckoning to 28-100 and added 100% Fire dealt as Lightning modifier for it.
     Mythical Exonerator: replaced bonus to Fighting Form with +1 to Soldier Skills and increased Lightning damage modifier for Cadence to 100-150
     Mythical Fiendgaze Tome: increased % Offensive Ability for pets to 11%
     Mythical Gavel of Ravenous Souls: increased bonus Physical damage to 30-47. Increased Physical damage modifier for Vire’s Might to 112 and its Internal Trauma damage modifier to 100 / 2s. Increased Physical damage modifier for Soul Siphon 90.
@@ -360,7 +361,7 @@ Legendary Non-Set Items
 
 Legendary Set Items
 
-    Ardor of Octavius Set: added 50 Offensive Ability bonus. Increased Physical damage modifier for Rune of Kalastor to 180.
+    Ardor of Octavius Set: added 50 Offensive Ability bonus. Increased Physical damage modifier for Rune of Kalastor to 180 and increased % Internal Trauma damage modifier for Aegis of Menhir to 500%.
     Bulwark of Octavius: increased Internal Trauma damage to 70 and added 45% of Elemental dealt as Physical. Increased Internal Trauma damage modifiers for Aegis of Menhir and Forcewave to 165 / 3s.
     Pauldrons of Octavius: added 55 Offensive Ability
     Platemail of Octavius: increased Offensive Ability to 60
@@ -449,6 +450,7 @@ Devotion
     Ulzuin’s Torch: added 12-15 Fire damage
     Vire: increased % Physical and % Internal Trauma damage to 120%
     Blades of Wrath: added point-blank damage penalty
+    Maul: increased % Activation Chance to 20% (WARNING: this will cause your skill assignment to reset), increased Radius to 4.5 and Duration to 5s and removed Cooldown
 
 Soldier
 
