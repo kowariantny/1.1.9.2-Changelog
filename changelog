@@ -143,7 +143,7 @@ Monster Infrequents
     Pusquill’s Tail: increased bonuses to Nidalla’s Hidden Hand and Vulnerability to +3. Increased % Acid Resist Reduction modifier for Curse of Frailty to -10% and Poison damage modifier for Belgothian’s Shears to 144 / 5s
     Putrid Necklace: added 8% Crit damage modifier for Iskandra’s Elemental Exchange and increase % Crit damage modifier for Blood of Dreeg to 15%
     Ragrathar’s Horn: fixed missing % Energy Regeneration
-    Rift Scourge Slicer: added 45% of Cold dealt as Acid and increased Acid damage modifier for Shadow Strike to 260
+    Rift Scourge Slicer: added 45% of Cold dealt as Acid and increased Acid damage modifier for Shadow Strike to 220
     Ronaprax’s Sting: increased % Weapon damage modifiers for Aegis of Menhir and Dreeg’s Evil Eye to 90% and 28%, respectively
     Rylok Crest: replaced Physical damage modifier for Savagery with 10% Weapon damage modifier for it
     Salazar’s Sovereign Blade: reduced effectiveness of granted pet’s Resist Reduction debuff and its Nova ability
@@ -154,7 +154,8 @@ Monster Infrequents
     Shambler’s Heart: added 16 Physical damage modifier for Flame Touched
     Slathsarr’s Crest: increased % Weapon damage modifier for Panetti’s Replicating Missile to 20%
     Spectral Crown: increased bonus to Raise Skeletons to +3
-    Spectral Longsword: replaced % Pierce damage with 50% of Pierce dealt as Cold. Replaced modifiers for Shadow Strike with 260 Cold damage and 100% of Physical dealt as Cold modifiers.
+    Spectral Longsword: replaced % Pierce damage with 50% of Pierce dealt as Cold. Replaced modifiers for Shadow Strike with 225 Cold damage and 100% of Physical dealt as Cold modifiers.
+    Spectral War Shield: increased % Retaliation added to Attack modifier for Drain Essence to 7%
     Steward’s Halberd: increased bonus Physical damage to 75
     Ugdenbog Arcaneweaver: removed Elemental damage modifier for Fire Strike
     Ugdenbog Chillstrife: removed Cold damage modifier for Veil of Shadow
@@ -266,6 +267,7 @@ Epic Items
 Legendary Non-Set Items
 
     Belgothian’s Sigil: removed Pierce damage
+    Beronath, Reforged: reduced % Retaliation damage modifier to -16%
     Bladetwister Signet: added 18% Vitality Resist and reduced % Pierce Resist to 22%
     Chilling Grip of Hagarrad: reduced % Attack Speed to 10%
     Cindertouch: increased Lightning damage modifier for Eye of Reckoning to 34-45
@@ -293,10 +295,12 @@ Legendary Non-Set Items
     Mad Queen’s Claw (mythical): added +3 to Whirling Death
     Malakor’s Infusion: increased % Physical dealt as Elemental to 45%
     Misery: reduced Acid damage to 14 and increased Acid damage modifier for Blood of Dreeg to 18
+    Mythical Agony: increased % Retaliation added to Attack modifier for Eye of Reckoning to 7%
     Mythical Arcanor, Blade of the Luminari: removed % Pierce dealt as Elemental modifier for Forcewave
     Mythical Arcanum Sigillis: increased % Weapon damage modifier for Panetti’s Replicating Missile to 26%
     Mythical Beacon of the Winter’s Veil: increased Cold damage modifier for Veil of Shadow to 110
     Mythical Belgothian’s Sigil: reduced Pierce damage to 8
+    Mythical Beronath, Reforged: reduced % Retaliation damage modifier to -16%
     Mythical Black Scourge: increased Offensive Ability to 70 and increased % Attack Speed for pets to 15%
     Mythical Blood Sigil of Ch’Thon: removed Pierce dealt as Chaos modifier for Vire’s Might
     Mythical Bloodsong: increased Bleed damage modifier for Blade Arc to 133 / 3s
@@ -363,6 +367,7 @@ Legendary Non-Set Items
     Mythical Stormreaver: increased Lightning damage modifiers for Cadence and Savagery to 150-250 and 70, respectively and increased Electrocute damage modifier for Savagery to 120 / 3s
     Mythical Stormseer Sapphire: increased Lightning damage modifier for Callidor’s Tempest to 45-110 and its % Fire dealt as Lightning modifier to 100%. Increased % Weapon damage modifier for Storm Spread to 5%.
     Mythical Tome of Names: replaced bonus to Death Sentence with +1 to Inquisitor Skills. Added 60 Elemental damage modifier for Panetti’s Replicating Missile and added modifiers for Flames of Ignaffar.
+    Mythical Turrion’s Reprisal: increased % Retaliation added to Attack modifier for Blackwater Cocktail to 10%
     Mythical Viperfang Grips: increased Poison damage modifier for Aegis of Menhir to 190 / 5s
     Mythical Voidwhisper Band: reduced Chaos damage for pets on the skill proc
     Mythical Vortex of Souls: reduced Aether damage to 37 and reduced base damage
@@ -370,6 +375,7 @@ Legendary Non-Set Items
     Mythical Will of Bysmiel: replaced bonus to Manipulation with +1 to Occultist Skills. Increased Cooldown Reduction modifier for Conjure Primal Spirit to -6s and Projectile modifier for Summon Familiar to +2.
     Mythical Will of the Blade: reduced Pierce damage to 11
     Mythical Witching Hour: increased Chaos damage for pets on the granted skill
+    Mythical Zolhan’s Revenge: increased % Retaliation added to Attack modifier for Zolhan’s Technique to 25%
     Night’s Embrace: reduced Pierce damage to 5-10
     Nightshard: increased Vitality Decay damage to 84 / 3s
     Noctirn: removed bonus to Blade Spirit and % Crit damage modifier for Shadow Strike
@@ -442,6 +448,7 @@ Legendary Set Items
     Mythical Markovian’s Vanguard: increased Physical damage to 14-22
     Mythical Markovian’s Visor: increased Physical damage to 14-22 and increased % Weapon damage modifier for Markovian’s Advantage to 45%
     Mythical Bloodrager’s Cowl: removed % Weapon damage modifier for Savagery
+    Mythical Dawnbreaker’s Sledge: increased % Retaliation added to Attack on the skill proc
     Mythical Demonslayer’s Defense: increased Vitality damage modifier for Blade Spirit to 90
     Mythical Demonslayer’s Hat: increased Vitality damage modifier for Blade Spirit to 80
     Mythical Light’s Defender Epaulets: increased % Armor to 9%
@@ -452,10 +459,9 @@ Legendary Set Items
     Pyran’s Ruminations Set: added 100% of Lightning dealt as Fire modifier for Mortar Trap. Removed cooldown on Granted Skill, values adjusted accordingly.
     Rotgheist Set: increased % Weapon damage modifier for Dreeg’s Evil Eye to 80% and added 8% Attack damage converted to Health for it
     Rotgheist Mask: increased Vitality damage modifier for Primal Strike to 200
-    Shard of Lost Souls: increased % Total Speed for pets to 8%
+    Shepherd of Lost Souls Set: reduced Vitality damage bonus for pets to 40
     Stronghold of the Legion Set: increased bonus to All Skills to +2
     Stronghold Revolver: increased Fire damage to 23 and % Attack Speed to 18%
-    Stoneguard Set: reduced Physical Retaliation on the skill proc
     Stoneguard Pummeler: increased bonus Physical damage to 28-36
     Targo’s Craft Set: increased Physical damage modifiers for Amarasta’s Blade Burst and Blade Arc to 300 and 200, respectively.
     Targo’s Helm: added 18% Bleed Resist and increased Internal Trauma damage to 19 / 5s. Increased Physical damage modifier for Amarasta’s Blade Burst to 90.
@@ -490,12 +496,16 @@ Devotion
     Kraken: increased % Attack Speed to 26% and % Cast Speed to 10%
     Light of Empyrion: increased Physical damage to 10-14
     Magi: increased Defensive Ability to 35
+    Obelisk of Menhir: increased % All Retaliation damage to 100%
     Oleron: increased Physical damage to 16-22, Internal Trauma to 24 / 5s, and % Physical and % Internal Trauma damage to 200%
     Ulzaad: increased Physical damage to 12-16
     Ulzuin’s Torch: added 12-15 Fire damage
     Vire: increased % Physical and % Internal Trauma damage to 120%
     Blades of Wrath: added point-blank damage penalty
+    Fist of Vire: increased base % Retaliation added to Attack by 2%
     Maul: increased % Activation Chance to 20% (WARNING: this will cause your skill assignment to reset), increased Radius to 4.5 and Duration to 5s and removed Cooldown
+    Messenger of War: increased Fire Retaliation damage
+    Trample: increased base % Retaliation added to Attack by 2%
 
 Soldier
 
@@ -534,7 +544,7 @@ Inquisitor
 
 Necromancer
 
-    Raise Skeletons: reduced % Pet Attack damage on skeleton Fireball Nova and Death Bolt
+    Raise Skeletons: reduced % Pet Attack damage on skeleton Fireball Nova, Death Bolt and Undeath Missiles
 
 Oathkeeper
 
