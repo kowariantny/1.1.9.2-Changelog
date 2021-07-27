@@ -29,26 +29,6 @@ V1.1.9.2
 
 [Itemization]
 
-    Faction - Bloodborer: increased Bleed damage to 28 / 3s
-    Faction - Bloodrender: added +3 to Whirling Death
-    Faction - Bloodsurge: increased Physical damage to 28
-    Faction - Bysmiel Defender: increased bonus Physical damage to 42-64
-    Faction - Bysmiel’s Grasp: added 16% Cast Speed
-    Faction - Claw of Hagaraz: increased % Crit damage for pets to 20% and replaced bonus to Summon Hellhound with 10% Physical Resist for pets
-    Faction - Corruptian: increased Physical damage modifier for Ravenous Earth to 122
-    Faction - Coven Protector: increased bonus Aether damage to 39
-    Faction - Dreeg Protector: increased bonus Vitality damage to 39
-    Faction - Heart of Malmouth: added 22 Aether damage modifier for Panetti’s Replicating Missile
-    Faction - Howl of the Wendigo: increased % Attack Speed to 18% and increased Vitality damage modifier for Blade Arc to 115
-    Faction - Mark of the Shadow Queen: increased Aether damage modifier for Panetti’s Replicating Missile to 80
-    Faction - Occulant: increased bonus Acid damage to 84
-    Faction - Redeemer of Malmouth: increased bonus Physical damage to 22-36
-    Faction - Solael’s Devourer: added 6 Energy Regen
-    Faction - Stormbringer of Malmouth: increased % Lightning damage for pets to 260% and added +2 to Raise Skeletons
-    Faction - The Overseer: increased % Crit damage modifiers for Summon Hellhound and Summon Briarthorn to 33%
-    Faction - Wendigo Cleaver: increased bonus Physical damage to 22-33
-    Faction - Wendigo Spiritguard: increased bonus Vitality damage to 39
-    Faction - Wrathguard: increased % Attack Speed to 16%, removed Pierce damage. Increased % Pierce damage on the granted skill to 80%.
     Rare Prefix - Caustic: increased Acid damage
     Rare Prefix - Cutthroat: removed % Attack Speed, reduced % Cunning to 5% on level 82+ versions of the affix
     Rare Prefix - Eldritch (shields): increased Vitality damage
@@ -70,30 +50,53 @@ V1.1.9.2
     Rare Suffix - Torrents (shields): increased Lightning damage
     Rare Suffix - Vengeance: increased Physical damage
     Rare Suffix - Wildfire (shields): increased Fire damage
-    Relics - Replaced % Life Leech Resist crafting bonus for certain Relics with % Petrify Resistance
-    Relic - Avenger: replaced % Elemental damage with 110% Lightning damage and increased Lightning Retaliation to 250-700. Increased % Retaliation added to Attack damage on the skill proc.
-    Relic - Blademaster’s Talisman: further increased % Activation Chance on the granted skill
-    Relic - Bysmiel’s Domination: added 5% Physical Resist and 40 Defensive Ability, removed % All damage and % Chaos damage and removed Chaos damage for the player from the skill proc
-    Relic - Doom: increased Physical damage to 16-24
-    Relic - Eldritch Pact: increased Chaos damage to 8-24 and % Chaos damage to 124%
-    Relic - Honor: reduced % Retaliation added to Attack on the granted skill
-    Relic - Malediction: replaced % Poison Resist with 40% Vitality Resist
-    Relic - Menhir’s Bastion: increased % Heal to 18%
-    Relic - Necrosis: increased Health to 600
-    Relic - Nemesis: removed % Damage to Humans
-    Relic - Oblivion: increased % Chaos damage to 90%
-    Relic - Oleron’s Wrath: increased % Bleed damage to 110%, Physical damage to 15-22, and increased Bleed damage and % Weapon damage on the skill proc
-    Relic - Plunderer’s Talisman: increased Elemental damage to 16-20 and further increased % Activation Chance on the granted skill
-    Relic - Reckoning: increased % Physical damage to 85% and Physical damage to 16-24
-    Relic - Salvation: increased Duration on the skill proc to 10s
-    Relic - Scourge: increased Cold and Vitality damage to 16 and % Spirit and % Physique to 5%. Increased Frostburn and Vitality Decay damage on the granted skill.
-    Relic - Solael’s Decimation: increased Offensive Ability to 90
-    Relic - Uroboruuk’s Reaping: replaced % Aether damage with 50% All damage and reduced % Vitality damage to 80%. Increased Vitality damage and reduced Targets and % Weapon damage on the granted skill. Removed Aether damage on the granted skill.
-    Relic - Vengeance: increased % Defensive Ability to 5% and increased % Chance on Hit for the skill proc to 30% and increased its Cold damage
+    
     Component - Seal of Destruction: removed % Crit damage on the granted skill
     Component - Seal of Night: removed % Crit damage on the granted skill
     Component - Seal of Shadows: removed % Crit damage on the granted skill
     Component - Seal of Skies: removed % Crit damage on the granted skill
+    
+    Bloodborer: increased Bleed damage to 28 / 3s
+    Bloodrender: added +3 to Whirling Death
+    Bloodsurge: increased Physical damage to 28
+    Bysmiel Defender: increased bonus Physical damage to 42-64
+    Bysmiel’s Grasp: added 16% Cast Speed
+    Claw of Hagaraz: increased % Crit damage for pets to 20% and replaced bonus to Summon Hellhound with 10% Physical Resist for pets
+    Corruptian: increased Physical damage modifier for Ravenous Earth to 122
+    Coven Protector: increased bonus Aether damage to 39
+    Dreeg Protector: increased bonus Vitality damage to 39
+    Heart of Malmouth: added 22 Aether damage modifier for Panetti’s Replicating Missile
+    Howl of the Wendigo: increased % Attack Speed to 18% and increased Vitality damage modifier for Blade Arc to 115
+    Mark of the Shadow Queen: increased Aether damage modifier for Panetti’s Replicating Missile to 80
+    Occulant: increased bonus Acid damage to 84
+    Redeemer of Malmouth: increased bonus Physical damage to 22-36
+    Solael’s Devourer: added 6 Energy Regen
+    Stormbringer of Malmouth: increased % Lightning damage for pets to 260% and added +2 to Raise Skeletons
+    The Overseer: increased % Crit damage modifiers for Summon Hellhound and Summon Briarthorn to 33%
+    Wendigo Cleaver: increased bonus Physical damage to 22-33
+    Wendigo Spiritguard: increased bonus Vitality damage to 39
+    Wrathguard: increased % Attack Speed to 16%, removed Pierce damage. Increased % Pierce damage on the granted skill to 80%.
+    
+    Replaced % Life Leech Resist crafting bonus for certain Relics with % Petrify Resistance
+    Avenger: replaced % Elemental damage with 110% Lightning damage and increased Lightning Retaliation to 250-700. Increased % Retaliation added to Attack damage on the skill proc.
+    Blademaster’s Talisman: further increased % Activation Chance on the granted skill
+    Bysmiel’s Domination: added 5% Physical Resist and 40 Defensive Ability, removed % All damage and % Chaos damage and removed Chaos damage for the player from the skill proc
+    Doom: increased Physical damage to 16-24
+    Eldritch Pact: increased Chaos damage to 8-24 and % Chaos damage to 124%
+    Honor: reduced % Retaliation added to Attack on the granted skill
+    Malediction: replaced % Poison Resist with 40% Vitality Resist
+    Menhir’s Bastion: increased % Heal to 18%
+    Necrosis: increased Health to 600
+    Nemesis: removed % Damage to Humans
+    Oblivion: increased % Chaos damage to 90%
+    Oleron’s Wrath: increased % Bleed damage to 110%, Physical damage to 15-22, and increased Bleed damage and % Weapon damage on the skill proc
+    Plunderer’s Talisman: increased Elemental damage to 16-20 and further increased % Activation Chance on the granted skill
+    Reckoning: increased % Physical damage to 85% and Physical damage to 16-24
+    Salvation: increased Duration on the skill proc to 10s
+    Scourge: increased Cold and Vitality damage to 16 and % Spirit and % Physique to 5%. Increased Frostburn and Vitality Decay damage on the granted skill.
+    Solael’s Decimation: increased Offensive Ability to 90
+    Uroboruuk’s Reaping: replaced % Aether damage with 50% All damage and reduced % Vitality damage to 80%. Increased Vitality damage and reduced Targets and % Weapon damage on the granted skill. Removed Aether damage on the granted skill.
+    Vengeance: increased % Defensive Ability to 5% and increased % Chance on Hit for the skill proc to 30% and increased its Cold damage
 
 Monster Infrequents
 
