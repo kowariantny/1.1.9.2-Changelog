@@ -87,7 +87,6 @@ Relics
     Bysmiel’s Domination: added 5% Physical Resist and 40 Defensive Ability, removed % All damage and % Chaos damage and removed Chaos damage for the player from the skill proc
     Doom: increased Physical damage to 16-24
     Eldritch Pact: increased Chaos damage to 8-24 and % Chaos damage to 124%
-    Honor: reduced % Retaliation added to Attack on the granted skill
     Malediction: replaced % Poison Resist with 40% Vitality Resist
     Menhir’s Bastion: increased % Heal to 18%
     Necrosis: increased Health to 600
@@ -176,7 +175,7 @@ Monster Infrequents
     Rift Scourge Slicer: added 45% of Cold dealt as Acid and increased Acid damage modifier for Shadow Strike to 220
     Riftclaw Slicer: replaced bonus to Bone Harvest with +2 to Soul Harvest
     Rolderathis’ Tome: replaced bonus to Rune of Hagarrad with +2 to Aura of Censure
-    Ronaprax’s Sting: increased % Weapon damage modifiers for Aegis of Menhir and Dreeg’s Evil Eye to 90% and 28%, respectively
+    Ronaprax’s Sting: increased % Weapon damage modifiers for Aegis of Menhir and Dreeg’s Evil Eye to 90% and 28%, respectively, and their % Retaliation added to Attack modifiers to 10%
     Rylok Crest: replaced Physical damage modifier for Savagery with 10% Weapon damage modifier for it
     Salazar’s Sovereign Blade: reduced effectiveness of granted pet’s Resist Reduction debuff and its Nova ability
     Sandclaw Slicer: increased bonus Physical damage to 36 and increased bonuses to Laceration and Rebuke to +3. Increased Physical damage modifier for Blade Arc to 132 and added 6% Attack damage Converted to Health modifier for it. Added modifiers for Presence of Virtue.
@@ -344,6 +343,7 @@ Legendary Non-Set Items
     Mythical Agony: increased % Retaliation added to Attack modifier for Eye of Reckoning to 7%
     Mythical Arcanor, Blade of the Luminari: removed % Pierce dealt as Elemental modifier for Forcewave
     Mythical Arcanum Sigillis: increased % Weapon damage modifier for Panetti’s Replicating Missile to 26%
+    Mythical Avatar of Order: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Drain Essence to 10% and 9%, respectively
     Mythical Beacon of the Winter’s Veil: increased Cold damage modifier for Veil of Shadow to 110
     Mythical Belgothian’s Sigil: reduced Pierce damage to 8
     Mythical Beronath, Reforged: reduced % Retaliation damage modifier to -16%
@@ -547,24 +547,29 @@ Legendary Set Items
 Devotion
 
     Attak Seru: increased Elemental damage to 16
+    Autumn Boar: increased % All Retaliation damage to 100%
     Dire Bear: added 14 Physical damage
     Dryad: increased Energy Regeneration to 1.5
     Korvaak: added 2 Energy Regeneration
     Kraken: increased % Attack Speed to 26% and % Cast Speed to 10%
     Light of Empyrion: increased Physical damage to 10-14
     Magi: increased Defensive Ability to 35
-    Obelisk of Menhir: increased % All Retaliation damage to 100%
+    Obelisk of Menhir: increased % All Retaliation damage to 120%
     Oleron: increased Physical damage to 16-22, Internal Trauma to 24 / 5s, and % Physical and % Internal Trauma damage to 200%
+    Rat: increased % All Retaliation damage to 40%
     Raven: increased Energy Regeneration to 1.5
+    Targo: increased % All Retaliation damage to 90% and Physical Retaliation to 150
     Ulzaad: increased Physical damage to 12-16
     Ulzuin’s Torch: added 12-15 Fire damage
-    Vire: increased % Physical and % Internal Trauma damage to 120%
+    Vire: increased % Physical and % Internal Trauma damage to 120%. Increased Physical Retaliation to 120 and % All Retaliation damage to 120%,
+    Wraith: increased Lightning Retaliation to 25-85 and % All Retaliation damage to 30%
     Blades of Wrath: added point-blank damage penalty
-    Fist of Vire: increased base % Retaliation added to Attack by 2%
+    Fist of Vire: increased base % Retaliation added to Attack by 4%
     Hyrian’s Glare: increased base % Retaliation added to Attack by 4%
     Maul: increased % Activation Chance to 20% (WARNING: this will cause your skill assignment to reset), increased Radius to 4.5 and Duration to 5s and removed Cooldown
     Messenger of War: increased Fire Retaliation damage
-    Trample: increased base % Retaliation added to Attack by 2%
+    Targo’s Hammer: increased base % Retaliation added to Attack by 2%
+    Trample: increased base % Retaliation added to Attack by 3%
 
 Soldier
 
@@ -577,6 +582,7 @@ Soldier
 
 Demolitionist
 
+    Searing Strike: increased % Damage Modifier to 15% and % Crit damage to 15%
     Brimstone: reduced Fragments scaling with rank to 5-6 by rank 12, 6-7 by max ultimate rank
     Canister Bomb: reduced Fragments scaling with rank to 9-11 by max ultimate rank
     Shattering Blast: increased % Retaliation added to Attack scaling with rank to 30% by rank 12, 36% by max ultimate rank
