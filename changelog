@@ -367,10 +367,9 @@ Legendary Non-Set Items
     Mythical Crest of Winter Fortitude: added 4% Attack Speed and increased Health to 850. Increased % Retaliation added to Attack modifier for Blitz to 35% and added 100% of Physical dealt as Cold modifier for it.
     Mythical Crimson Spike: increased % Attack Speed to 20%
     Mythical Crystallum: increased Lightning damage to 11-46. Replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 410 Health. Replaced bonus to Clarity of Purpose with +3 to Ascension. Added modifiers for Savagery and Ascension.
-    Mythical Dawnshard Hauberk: increased Lightning damage to 5-30
     Mythical Dawnshard Gaze: increased Health to 722
     Mythical Dawnshard Grip: increased Elemental damage to 22 and added 18% Poison Resist
-    Mythical Dawnshard Hauberk: increased Health to 1280
+    Mythical Dawnshard Hauberk: increased Lightning damage to 5-30 and Health to 1280
     Mythical Dawnshard Pauldron: increased Health to 722
     Mythical Death Omen: increased Vitality damage to 28 and increased Vitality damage modifier for Execution to 200
     Mythical Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack
@@ -453,7 +452,7 @@ Legendary Non-Set Items
     Mythical Will of Bysmiel: replaced bonus to Manipulation with +1 to Occultist Skills. Increased Cooldown Reduction modifier for Conjure Primal Spirit to -6s and Projectile modifier for Summon Familiar to +2.
     Mythical Will of the Blade: reduced Pierce damage to 11
     Mythical Witching Hour: increased Chaos damage for pets on the granted skill
-    Mythical Zolhan’s Revenge: increased % All Retaliation damage to 90% and increased % Retaliation added to Attack modifier for Zolhan’s Technique to 25%
+    Mythical Zolhan’s Revenge: increased % Retaliation added to Attack modifier for Zolhan’s Technique to 18%
     Night’s Embrace: reduced Pierce damage to 5-10
     Nightshard: increased Vitality Decay damage to 84 / 3s
     Noctirn: removed bonus to Blade Spirit and % Crit damage modifier for Shadow Strike
@@ -477,7 +476,7 @@ Legendary Non-Set Items
 
 Legendary Set Items
 
-    Allagast’s Masterpiece Set: increased Lightning damage modifier for Trozan’s Sky Shard to 60-210
+    Allagast’s Masterpiece Set: increased Offensive and Defensive Ability bonuses to 122 and swapped them with their 3-piece set bonuses. Increased Lightning damage modifier for Trozan’s Sky Shard to 60-210. Added 120% Aether damage modifier for Deadly Aim.
     Allagast’s Robe: increased Defensive Ability to 48
     Allagast’s Stormbinder: increased Defensive Ability to 56. Increased Aether damage modifier for Trozan’s Sky Shard to 166. Increased % Aether Resist Reduction modifier for Storm Box of Elgoloth to -12%.
     Ardor of Octavius Set: added 50 Offensive Ability bonus. Increased Physical damage modifier for Rune of Kalastor to 180 and increased % Internal Trauma damage modifier for Aegis of Menhir to 500%.
@@ -514,10 +513,12 @@ Legendary Set Items
     Goredrinker’s Mantle: increased Health to 660 and Bleed damage to 19 / 3s
     Goredrinker’s Mask: increased Health to 660 and added 38 Defensive Ability. Increased Bleed damage modifier for Word of Pain to 156 / 1s
     Goredrinker’s Ward: increased Health to 450 and Bleed damage to 21 / 3s. Increased Bleed damage modifier for Cadence to 130 / 2s
-    Harra’s Artifice Set: increased Cold damage modifier for Callidor’s Tempest to 110 and its Frostburn modifier to 220 / 4s
-    Harra’s Ward: increased % Attack damage Converted to Health modifier for Stun Jacks to 5%
+    Harra’s Artifice Set: increased % Physical Resist bonus to 10%. Increased Cold damage modifier for Callidor’s Tempest to 110 and its Frostburn modifier to 220 / 4s.
+    Harra’s Chestguard: increased Health to 550
+    Harra’s Ward: increased % Attack damage Converted to Health modifier for Stun Jacks to 5% and increased Cold damage modifier for Phantasmal Blades to 33
     Invoker’s Elements Set: increased Fire damage modifier for Panetti’s Replicating Missile to 55 and its Lightning damage modifier to 40
     Iskandra’s Unification Set: increased % Weapon damage modifier for Trozan’s Sky Shard to 40%
+    Mythical Iskandra’s Texts: increased % Elemental Resist Reduction on the skill proc to -18%. Reduced Burn damage modifier for Trozan’s Sky Shard to 60 / 3s and added 60 Frostburn damage / 3s and 60 Electrocute damage / 3s modifiers for it.
     Justicar Guard Set: increased Fire damage modifier for Blitz to 270 and its Burn damage modifier to 210 / 3s
     Korba’s Fury Set: added 100% of Physical dealt as Cold modifier for Savagery
     Krieg’s Armament Set: reduced Aether damage bonus to 25-32 and removed Aether damage modifier for Reckless Power. Added 33 Aether damage modifier for Field Command.
@@ -609,6 +610,7 @@ Devotion
     Wraith: increased Lightning Retaliation to 25-85 and % All Retaliation damage to 30%
     Wretch: increased Acid Retaliation to 44 and Health to 110
     Blades of Wrath: added point-blank damage penalty
+    Fetid Pool: increased base % Retaliation added to Attack by 1%
     Fist of Vire: increased base % Retaliation added to Attack by 4%
     Hyrian’s Glare: increased base % Retaliation added to Attack by 4%
     Maul: increased % Activation Chance to 20% (WARNING: this will cause your skill assignment to reset), increased Radius to 4.5 and Duration to 5s and removed Cooldown
@@ -642,6 +644,11 @@ Nightblade
     Blade Spirit: reduced damage scaling with rank. Innate blade burst ability now has a point-blank damage penalty and reduced Bleed damage.
     Execution: reduced base % Weapon damage by 30%, to 200%
 
+Arcanist
+
+    Trozan’s Sky Shard: increased Cold damage scaling with rank
+    Shattered Star: increased Lightning damage scaling with rank
+
 Shaman
 
     Mogdrogen’s Pact: increased Physical damage scaling with rank
@@ -650,6 +657,7 @@ Shaman
 Inquisitor
 
     Chilling Rounds: increased base % Weapon damage to 55%
+    Lightning Tether: increased Lightning damage scaling with rank, particularly at ultimate ranks
     Ranged Expertise: increased Pierce damage scaling with rank
     Storm Spread: increased base % Weapon damage to 30% and its scaling at ultimate ranks to 40% by max ultimate rank
 
