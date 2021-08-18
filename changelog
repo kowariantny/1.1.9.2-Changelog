@@ -286,6 +286,7 @@ Epic Items
     Mythical Beast Slayer’s Mark: increased Physical damage to 16-22
     Mythical Blazeguard Arbiter: increased bonus Fire damage to 49
     Mythical Bonesnap Gavel: increased bonus Physical damage to 28-56
+    Mythical Bounty Hunter’s Shoulderguards: increased bonus to Ranged Expertise to +3
     Mythical Burrwitch Peacekeeper: increased bonus Physical damage to 30-50
     Mythical Cruel Edge: increased bonus Physical damage to 30-42
     Mythical Devil’s Grin: increased bonus Chaos damage to 28-70
@@ -299,7 +300,7 @@ Epic Items
     Mythical Legionnaire’s Rebuke: increased bonus Physical damage to 42-63
     Mythical Oathbreaker’s Guard: increased bonus Fire damage to 49
     Mythical Outlaw’s Retribution: increased bonus Physical damage to 33-46
-    Mythical Quickdraw Gloves: reduced Pierce damage to 7
+    Mythical Quickdraw Gloves: reduced Pierce damage to 7-11 and increased bonus to Ranged Expertis to +3
     Mythical Runed Topaz of Gillad: added 10% of Physical dealt as Elemental
     Mythical Spinecarver: increased bonus Physical damage to 21-50
     Mythical Spiriteater Bulwark: increased bonus Vitality damage to 49
@@ -334,11 +335,11 @@ Legendary Non-Set Items
     Chilling Grip of Hagarrad: reduced % Attack Speed to 10%
     Cindertouch: increased Lightning damage modifier for Eye of Reckoning to 34-45
     Conduit of Divine Whispers: increased Aether damage modifier for Eye of Reckoning to 100 and its Chaos damage modifier to 100
-    Conduit of Eldritch Whispers: added 25% Crit damage modifier for Summon Familiar. Added 100% of Fire dealt as Chaos modifier for Summon Hellhound and increased its Chaos damage modifier to 110. Increased Chaos damage modifier for Dreeg’s Evil Eye to 110.
+    Conduit of Eldritch Whispers: added 25% Crit damage modifier for Summon Familiar. Added 100% of Fire dealt as Chaos modifier for Summon Hellhound and increased its Chaos damage modifier to 110. Increased Chaos damage modifier for Dreeg’s Evil Eye to 144.
     Conduit of Night Whispers: increased Fire damage modifier for Blade Spirit to 210. Added 100% of Acid dealt as Lightning for Amarasta’s Blade Burst.
     Conduit of Runic Whispers: added 60 Physical damage modifier for Storm Box of Elgoloth
     Conduit of Undying Whispers: added 100% of Physical dealt as Fire modifier for Raise Skeletons and increased its Fire damage modifier to 44. Added 120 Vitality Decay damage / 5s modifier for Summon Blight Fiend.
-    Conduit of Warring Whispers: increased Cold damage modifier for Forcewave to 200 and its Lightning damage modifier to 100-450 and replaced its 100% of Pierce dealt as Lightning modifier with 100% of Physical dealt as Lightning. Removed 100% of Pierce dealt as Cold modifier for Forcewave.
+    Conduit of Warring Whispers: increased Cold damage modifier for Forcewave to 200 and its Lightning damage modifier to 100-450 and replaced its 100% of Pierce dealt as Lightning modifier with 100% of Physical dealt as Lightning. Removed 100% of Pierce dealt as Cold modifier for Forcewave. Increased Aether and Acid modifiers for Cadence to 210.
     Conduit of Wild Whispers: increased Aether damage modifier for Primal Strike to 360 and its Cold damage modifier to 360. Increased Lightning damage modifier for Summon Briarthorn to 122.
     Crystallum: replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 240 Health
     Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack
@@ -361,6 +362,7 @@ Legendary Non-Set Items
     Malakor’s Infusion: increased % Physical dealt as Elemental to 45%
     Misery: reduced Acid damage to 14 and increased Acid damage modifier for Blood of Dreeg to 18. Increased Acid damage modifier for Grasping Vines to 110 and its Poison damage modifier to 180 / 2s.
     Mythical Agony: increased % Retaliation added to Attack modifier for Eye of Reckoning to 7%
+    Mythical Arcane Harmony Leggings: added 15% Trap Resist and 15% Petrify Resist
     Mythical Arcanor, Blade of the Luminari: removed % Pierce dealt as Elemental modifier for Forcewave
     Mythical Arcanum Electrollis: increased % Resist Reduction on the skill proc to -15%
     Mythical Arcanum Sigillis: increased % Weapon damage modifier for Panetti’s Replicating Missile to 26%
@@ -377,7 +379,7 @@ Legendary Non-Set Items
     Mythical Celestial Stone of Halakor: reduced % Crit damage modifier for Mortar Trap to 28%
     Mythical Chilling Grip of Hagarrad: reduced % Attack Speed to 12%
     Mythical Codex of Violent Rifts: increased % Crit damage to 15% and % Cast Speed to 12%
-    Mythical Combustion Band: increased % Attack Speed to 8% and added % Physical damage
+    Mythical Combustion Band: increased % Attack Speed to 8%, Fire damage to 14 and added % Physical damage
     Mythical Consumption of Agrivix: increased Fire damage modifier for Flames of Ignaffar to 55 and increased Burn damage modifier for Callidor’s Tempest to 180 / 4s
     Mythical Crest of Winter Fortitude: added 4% Attack Speed and increased Health to 850. Increased % Retaliation added to Attack modifier for Blitz to 35% and added 100% of Physical dealt as Cold modifier for it.
     Mythical Crimson Spike: increased % Attack Speed to 20%
@@ -423,6 +425,7 @@ Legendary Non-Set Items
     Mythical Inashkor’s Corrupted Head: corrected bonus to Hellfire Mines to be +3 to Spectral Wrath. Increased Physical damage modifier for Doom Bolt to 550.
     Mythical Korvaak’s Brand: increased % Activation Chance on the granted skill to 20% and added 12% Weapon damage modifier for Savagery
     Mythical Korvan Wyrm: replaced % Lightning damage with % Bleed damage and increased Offensive Ability to 122. Increased Physical damage modifier for Primal Strike to 380 and its Internal Trauma damage modifier to 270 / 3s. Added -18% Physical Resist Reduction modifier for Inquisitor Seal and increased its Physical damage modifier to 110.
+    Mythical Korvoran’s Chestguard: increased Health to 680 and Defensive Ability to 60
     Mythical Leviathan: increased Physical damage modifier for Necrotic Edge to 330
     Mythical Malakor’s Infusion: increased % Physical dealt as Elemental to 45% and Elemental damage to 25
     Mythical Mark of Anathema: added 100% of Lightning dealt as Aether modifier for Callidor’s Tempest
@@ -451,6 +454,7 @@ Legendary Non-Set Items
     Mythical Sovereign Ruby of Domination: increased % Crit damage for pets to 18% and increased % Crit damage for pets on the granted skill
     Mythical Spark of Ultos: increased % Weapon damage modifier for Stun Jacks to 9%
     Mythical Speaker for the Dead: increased % Weapon damage modifier for Phantasmal Blades to 14%
+    Mythical Spelldrinker: added 45% of Pierce dealt as Elemental
     Mythical Spellgaze: increased % Weapon damage modifier for Panetti’s Replicating Missile to 20%
     Mythical Starfury Emerald: removed Cold damage modifier for Trozan’s Sky Shard
     Mythical Stonefist Rebuke: increased Physical damage bonus to 108 to 147. Removed % Pierce dealt as Physical modifier for Forcewave.
@@ -458,7 +462,7 @@ Legendary Non-Set Items
     Mythical Stormreaver: increased Lightning damage modifiers for Cadence and Savagery to 150-250 and 88, respectively and increased Electrocute damage modifier for Savagery to 120 / 3s
     Mythical Stormseer Sapphire: increased Lightning damage modifier for Callidor’s Tempest to 45-110 and its % Fire dealt as Lightning modifier to 100%. Increased % Weapon damage modifier for Storm Spread to 5%.
     Mythical Thorn Girdle of the Misty Glade: increased % Health to 8%
-    Mythical Tome of Atonement: added 1s Duration modifier for Blackwater Cocktail. Increased Fire damage modifier for Dreeg’s Evil Eye to 144 and its Burn damage modifier to 280 / 5s.
+    Mythical Tome of Atonement: increased % Fire damage to 173%. Added 1s Duration modifier for Blackwater Cocktail. Increased Fire damage modifier for Dreeg’s Evil Eye to 166 and its Burn damage modifier to 300 / 5s.
     Mythical Tome of Names: replaced bonus to Death Sentence with +1 to Inquisitor Skills. Added 60 Elemental damage modifier for Panetti’s Replicating Missile and added modifiers for Flames of Ignaffar.
     Mythical Turrion’s Reprisal: increased Elemental damage to 77 and % Health to 14%. Increased % Retaliation added to Attack modifier for Blackwater Cocktail to 10%.
     Mythical Venomancer’s Guile: added 50% Weapon damage modifier for Aegis of Menhir
@@ -536,7 +540,7 @@ Legendary Set Items
     Ghol’s Malice Set: increased Acid damage bonus for pets to 26
     Ghol’s Mark: increased Acid damage modifier for Summon Briarthorn to 30 and its Poison damage modifier to 60 / 5s
     Ghol’s Raiment: increased Acid damage for pets to 10
-    Goredrinker Set: increased % Health bonus to 24% and % Attack damage Converted to Health bonus to 14%. Increased Bleed damage modifiers for Cadence and Word of Pain to 210 / 2s and 265 / 1s, respectively. Increased % Bleed Resist Reduction modifier for Word of Pain to -24%.
+    Goredrinker Set: increased % Health bonus to 24% and % Attack damage Converted to Health bonus to 14%. Added 24 Pierce damage bonus. Increased Bleed damage modifiers for Cadence and Word of Pain to 210 / 2s and 265 / 1s, respectively and the Pierce damage modifier for Cadence to 144. Increased % Bleed Resist Reduction modifier for Word of Pain to -24%.
     Goredrinker’s Mantle: increased Health to 660 and Bleed damage to 19 / 3s
     Goredrinker’s Mask: increased Health to 660 and added 38 Defensive Ability. Increased Bleed damage modifier for Word of Pain to 156 / 1s
     Goredrinker’s Ward: increased Health to 450 and Bleed damage to 21 / 3s. Increased Bleed damage modifier for Cadence to 130 / 2s
@@ -580,7 +584,7 @@ Legendary Set Items
     Rotgheist Emblem: increased Vitality damage modifiers for Dreeg’s Evil Eye and Vire’s Might to 90 and 144, respectively and increased their % Attack damage Converted to Health modifiers to 12%
     Rotgheist Mask: increased Vitality damage modifier for Primal Strike to 224 and added +1.5 Radius modifier for Dreeg’s Evil Eye
     Rotgheist Shoulderguard: increased % Offensive Ability to 4% and updated Conversion to 30% of Elemental dealt as Vitality
-    Sentinel of the Three Set: increased % Acid Retaliation damage on the granted skill to 250%. Increased % Heal modifier for Blood of Dreeg to 5%.
+    Sentinel of the Three Set: increased % Acid Retaliation damage on the granted skill to 250%. Increased % Heal modifier for Blood of Dreeg to 5% and increased % Retaliation added to Attack modifier for Vire’s Might to 28%.
     Defender of the Three: increased % Armor to 14%
     Judgment of the Three: increased Health to 540
     Shoulderguard of the Three: increased Health to 760
@@ -621,6 +625,8 @@ Legendary Set Items
     Valguur’s Hunger Set: increased % Health bonus to 16% and increased Vitality damage modifier for Sigil of Consumption to 140
     Valguur’s Focus: increased Vitality damage modifier for Sigil of Consumption to 80
     Valguur’s Gems: reduced Vitality damage modifier for Storm Totem to 35
+    Veilkeeper’s Armor: added 4% Physical resist
+    Veilkeeper’s Mantle: added 28 Health Regeneration
     Veilkeeper’s Mask: added modifiers for Iskandra’s Elemental Exchange
     Virtue’s Light Set: increased % Shield Damage Blocked bonus to 30% and increased Burn damage modifier for Aegis of Menhir to 200 / 3s
     Warborn Bastion Set: added 55% Weapon damage modifier for Cadence
@@ -630,6 +636,7 @@ Legendary Set Items
 [Class & Skills]
 Devotion
 
+    Affliction: increased Vitality damage to 15-18
     Anvil: increased Internal Trauma damage to 12 / 5s and Armor to 45
     Attak Seru: increased Elemental damage to 16
     Autumn Boar: increased % All Retaliation damage to 100%
@@ -641,16 +648,16 @@ Devotion
     Kraken: increased % Attack Speed to 26% and % Cast Speed to 10%
     Light of Empyrion: increased Physical damage to 10-14
     Magi: increased Defensive Ability to 35
-    Obelisk of Menhir: increased % All Retaliation damage to 120%, Armor to 180, % Defensive Ability to 6% and % Shield Damage Blocked to 40%
+    Obelisk of Menhir: increased % All Retaliation damage to 120%, Armor to 210, Defensive Ability to 70, % Defensive Ability to 6% and % Shield Damage Blocked to 40%
     Oleron: increased Physical damage to 16-22, Internal Trauma to 24 / 5s, and % Physical and % Internal Trauma damage to 200%
     Rat: increased % All Retaliation damage to 40%
     Raven: increased Energy Regeneration to 1.5
     Scarab: increased % Armor to 5% and % Shield Damage Blocked to 24%
-    Shieldmaiden: increased % Shield Damage Blocked to 75%
+    Shieldmaiden: increased % Shield Damage Blocked to 90% and Internal Trauma damage to 20 / 5s
     Targo: increased % All Retaliation damage to 90%, Physical Retaliation to 150, % Armor to 15% and % Shield Damage Blocked to 24%
     Ulzaad: increased Physical damage to 12-16 and Health to 260
     Ulzuin’s Torch: added 12-15 Fire damage
-    Vire: increased % Physical and % Internal Trauma damage to 120%. Increased Physical Retaliation to 120 and % All Retaliation damage to 120%,
+    Vire: increased % Physical and % Internal Trauma damage to 120%, Physical Retaliation to 120, % All Retaliation damage to 120% and Armor to 195
     Wraith: increased Lightning Retaliation to 25-85 and % All Retaliation damage to 30%
     Wretch: increased Acid Retaliation to 44 and Health to 110
     Blades of Wrath: added point-blank damage penalty
@@ -660,6 +667,7 @@ Devotion
     Maul: increased % Activation Chance to 20% (WARNING: this will cause your skill assignment to reset), increased Radius to 4.5 and Duration to 5s and removed Cooldown
     Messenger of War: increased Fire Retaliation damage
     Phoenix Fire: fixed an issue where the Absorption effect was not applying
+    Shield Wall: increased base % Armor by 5% and increased % Shield Damage Blocked scaling with rank
     Targo’s Hammer: increased base % Retaliation added to Attack by 2%
     Trample: increased base % Retaliation added to Attack by 3%
 
