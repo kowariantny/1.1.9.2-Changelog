@@ -339,16 +339,16 @@ Legendary Non-Set Items
     Beronath, Reforged: reduced % Retaliation damage modifier to -16%
     Bladetwister Signet: added 18% Vitality Resist and reduced % Pierce Resist to 22%
     Chilling Grip of Hagarrad: reduced % Attack Speed to 10%
-    Cindertouch: increased Lightning damage modifier for Eye of Reckoning to 20-33
+    Cindertouch: increased Lightning damage modifier for Eye of Reckoning to 22-40
     Conduit of Arcane Whispers: increased Acid damage modifier for Trozan’s Sky Shard to 220, its Poison damage modifier to 240 / 5s and its Fire damage modifier to 110. Increased Acid and Cold damage modifiers for Devastation to 150. Increased Vitality damage modifier for Panetti’s Replicating Missile to 166. Increased Cold damage modifier for Albrecht’s Aether Ray to 132. Increased Chaos damage modifier for Callidor’s Tempest to 140.
-    Conduit of Destructive Whispers: increased Aether and Chaos damage modifiers for Stun Jacks to 66. Increased Chaos damage modifier for Canister Bomb to 180. Increased Health Regen modifier for Vindictive Flame to 120. Increased Lightning damage modifier for Blackwater Cocktail to 60
+    Conduit of Destructive Whispers: increased Aether and Chaos damage modifiers for Stun Jacks to 66. Increased Chaos damage modifier for Canister Bomb to 180. Increased Health Regen modifier for Vindictive Flame to 120. Increased Lightning damage modifier for Blackwater Cocktail to 60. Increased Vitality damage modifier for Fire Strike to 80.
     Conduit of Divine Whispers: increased Aether and Chaos damage modifiers for Eye of Reckoning to 132. Increased Vitality damage modifier for Aegis of Menhir to 280, its Vitality Decay damage modifier to 280 / 3s and its Elemental damage modifier to 280. Increased Cold damage modifier for Judgment to 280. Redesigned Ascension variant to instead support Lightning Vire’s Might.
     Conduit of Eldritch Whispers: added 25% Crit damage modifier for Summon Familiar. Added 100% of Fire dealt as Chaos modifier for Summon Hellhound and increased its Chaos damage modifier to 110. Increased Chaos damage modifier for Dreeg’s Evil Eye to 144. Increased Aether damage modifier for Sigil of Consumption to 180. Increased Burn damage modifier for Doom Bolt to 500 / 5s.
     Conduit of Night Whispers: increased Fire damage modifier for Blade Spirit to 210. Added 100% of Acid dealt as Lightning for Amarasta’s Blade Burst. Increased Lightning damage modifier for Shadow Strike to 120-450. Increased Chaos damage modifier for Phantasmal Blades to 55.
     Conduit of Runic Whispers: added 110 Physical damage modifier for Storm Box of Elgoloth. Increased Aether damage modifier for Flames of Ignaffar to 132. Added +1 Projectile modifiers for Rune of Hagarrad and Rune of Kalastor.
     Conduit of Undying Whispers: added 100% of Physical dealt as Fire modifier for Raise Skeletons and increased its Fire damage modifier to 44. Added 120 Vitality Decay damage / 5s modifier for Summon Blight Fiend. Increased Acid damage modifier for Drain Essence to 144. Increased Aether and Chaos damage modifiers for Bone Harvest to 300.
     Conduit of Warring Whispers: increased Cold damage modifier for Forcewave to 200 and its Lightning damage modifier to 100-450 and replaced its 100% of Pierce dealt as Lightning modifier with 100% of Physical dealt as Lightning. Removed 100% of Pierce dealt as Cold modifier for Forcewave. Increased Aether and Acid modifiers for Cadence to 210. Increased Elemental damage modifier for Blitz to 320. Increased Cold and Fire damage modifiers for Blade Arc to 220. Increased Aether damage modifier for Counter Strike to 240 and added +2 Radius modifier for it.
-    Conduit of Wild Whispers: increased Aether damage modifier for Primal Strike to 360 and its Cold damage modifier to 360. Increased Lightning damage modifier for Summon Briarthorn to 122.
+    Conduit of Wild Whispers: increased Aether damage modifier for Primal Strike to 360 and its Cold damage modifier to 360. Increased Lightning damage modifier for Summon Briarthorn to 122. Increased Aether damage modifier for Savagery to 80.
     Crystallum: replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 240 Health
     Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack
     Decree of Malmouth (mythical): added 40 Vitality damage modifier for Storm Totem
@@ -437,7 +437,7 @@ Legendary Non-Set Items
     Mythical Heart of the Sand King: added 10 Physical damage modifier for Mogdrogen’s Pact and increased its Bleed damage modifier to 32 / 3s
     Mythical Herald of Amatok: increased Cold damage modifier for Blade Spirit to 90 and its Frostburn damage modifier to 120 / 2s
     Mythical Herald of the Apocalypse: increased Fire damage modifier for Judgment to 110-184
-    Mythical Iceskorn Talons: replaced % Crit damage modifier for Righteous Fervor with 26 Cold damage modifier for it
+    Mythical Iceskorn Talons: replaced % Crit damage modifier for Righteous Fervor with 34 Cold damage modifier for it
     Mythical Inashkor’s Head: increased Physical damage modifier for Albrecht’s Aether Ray to 122
     Mythical Inashkor’s Corrupted Head: corrected bonus to Hellfire Mines to be +3 to Spectral Wrath. Increased Physical damage modifier for Doom Bolt to 550.
     Mythical Korvaak’s Brand: increased % Activation Chance on the granted skill to 20% and added 12% Weapon damage modifier for Savagery
@@ -498,7 +498,7 @@ Legendary Non-Set Items
     Mythical Wretched Tome of Nar’adin: increased Acid damage modifier for Dreeg’s Evil Eye to 80 and added 100% of Vitality dealt as Acid modifier for it
     Mythical Zolhan’s Revenge: increased % Retaliation added to Attack modifier for Zolhan’s Technique to 18%
     Night’s Embrace: reduced Pierce damage to 5-10
-    Nightclaw: replaced Blade Arc support with +3 to Cadence, +3 to Aura of Conviction and skill modifiers for Cadence and Aura of Conviction
+    Nightclaw: replaced bonus to Circle of Slaughter with +3 to Cadence, +3 to Aura of Conviction and skill modifiers for Cadence and Aura of Conviction. Increased Pierce damage modifier for Blade Arc to 70.
     Nightshard: increased Vitality Decay damage to 84 / 3s
     Noctirn: removed bonus to Blade Spirit and % Crit damage modifier for Shadow Strike
     Outcast’s Secret: added % Elemental damage
@@ -535,7 +535,7 @@ Legendary Set Items
     Pauldrons of Octavius: added 55 Offensive Ability
     Platemail of Octavius: increased Offensive Ability to 60
     Visor of Octavius: increased Internal Trauma damage to 22 / 5s. Increased Internal Trauma damage modifier for Rune of Kalastor to 155 / 2s.
-    Avenger’s Crusher: increased Internal Trauma damage to 126 / 5s. Increased % Weapon damage modifier for Smite to 80%.
+    Avenger’s Crusher: increased Internal Trauma damage to 126 / 5s. Increased % Weapon damage modifier for Smite to 80% and added +5 Targets modifier for it.
     Avenger’s Pauldrons: increased Internal Trauma damage to 19 / 5s
     Barrelsmith’s Destroyers Set: increased All Resist Reduction modifier for Canister Bomb to 22 / 3s
     Mythical Barrelsmith’s Crossfire: increased Lightning damage modifier for Grenado to 200
@@ -574,7 +574,7 @@ Legendary Set Items
     Invoker’s Will Set: increased Offensive and Defensive Ability bonuses to 130. Increased Fire damage modifier for Panetti’s Replicating Missile to 55 and its Lightning damage modifier to 40.
     Iskandra’s Unification Set: increased % Weapon damage modifier for Trozan’s Sky Shard to 40%
     Mythical Iskandra’s Texts: increased % Elemental Resist Reduction on the skill proc to -18%. Reduced Burn damage modifier for Trozan’s Sky Shard to 60 / 3s and added 60 Frostburn damage / 3s and 60 Electrocute damage / 3s modifiers for it.
-    Justicar Guard Set: increased Fire damage modifier for Blitz to 270 and its Burn damage modifier to 210 / 3s. Added 100 Fire damage modifier for Judgment
+    Justicar Guard Set: increased % Physical and % Fire damage bonuses to 200%. Increased Fire damage modifier for Blitz to 270 and its Burn damage modifier to 210 / 3s. Added 100 Fire damage modifier for Judgment.
     Mythical Handguards of Justice: reduced Fire damage modifier for Judgment to 90
     Korba’s Fury Set: added 100% of Physical dealt as Cold modifier for Savagery
     Krieg’s Armament Set: reduced Aether damage bonus to 25-32 and removed Aether damage modifier for Reckless Power. Added 33 Aether damage modifier for Field Command.
@@ -629,6 +629,7 @@ Legendary Set Items
     The Cataclysm Set: increased bonus to All Skills to +2
     The Cyclone Set: increased % Weapon damage modifier for Eye of Reckoning to 6% and reduced Fire damage modifier for Thermite Mine to 160
     Cyclone Mask: increased Fire damage modifier for Eye of Reckoning to 22
+    Cyclone Mantle: added 8-19 Lightning damage
     The Infernal Champion Set: increased % Health bonus to 14% and % Total Speed bonus to 14%
     The Korvan Dunefiend Set: increased % Damage Modified modifier for Shadow Strike to 100%
     Dunefiend’s Blade: increased % Weapon damage modifier for Shadow Strike to 50%
