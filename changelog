@@ -141,7 +141,7 @@ Monster Infrequents
     Fleshwarped Archive: replaced bonus to Summon Blight Fiend with +2 to Ember Claw
     Fleshwarped Casque: increased bonuses to Overload and War Cry to +3
     Fleshwarped Codex: increased Aether damage modifier for Callidor’s Tempest to 60 and added 100% of Fire dealt as Aether modifier for it
-    Fleshwarped Core: increased % Crit damage modifier for Callidor’s Tempest to 50%
+    Fleshwarped Core: increased % Crit damage modifier for Menhir’s Bulwark to 20%, added 10% Physical Resist modifier for Menhir’s Will and replaced % Crit damage modifier for Callidor’s Tempest with 140 Aether damage modifier for it
     Fleshwarped Incinerator: added modifiers for Rune of Kalastor
     Fleshwarped Tome: added 80 Aether damage modifier for Sigil of Consumption
     Gargoyle Gaze: increased Acid and Cold damage modifiers for Amarasta’s Blade Burst to 90 and added 140 Frostburn / 3s modifier for Rune of Hagarrad
@@ -164,7 +164,7 @@ Monster Infrequents
     Korvan Storm Halberd: added modifiers for Vindictive Flame
     Kymon’s Badge: increased Lightning damage modifier for Callidor’s Tempest to 28-82 and its % Fire dealt as Lightning modifier to 100%
     Kymon’s Sanctified Blade: increased bonus to Soulfire to +3. Increased % Weapon damage modifier for Eye of Reckoning to 12%. Added modifiers for Mirror of Ereoctes.
-    Kyzogg’s Skull: increased % Crit damage modifier for Callidor’s Tempest to 35% and added 100% of Lightning dealt as Fire modifier for it
+    Kyzogg’s Skull: increased % Crit damage modifier for Callidor’s Tempest to 50% and added 100% of Lightning dealt as Fire modifier for it
     Lagoth’Ak’s Voidbinding: replaced bonus to Aegis of Menhir with +3 to Avenging Shield
     Leafmane Horn: added modifiers for Dreeg’s Evil Eye
     Leafmane Trophy: added modifiers for Drain Essence
@@ -393,7 +393,7 @@ Legendary Non-Set Items
     Mythical Chilling Grip of Hagarrad: reduced % Attack Speed to 12%
     Mythical Codex of Violent Rifts: increased % Crit damage to 15% and % Cast Speed to 12%
     Mythical Combustion Band: increased % Attack Speed to 8%, Fire damage to 14 and added % Physical damage
-    Mythical Consumption of Agrivix: increased Fire damage modifiers for Callidor’s Tempest and Flames of Ignaffar to 55 and increased Burn damage modifier for Callidor’s Tempest to 180 / 4s
+    Mythical Consumption of Agrivix: increased Fire damage modifier for Flames of Ignaffar to 70. Increased fire damage modifier for Callidor’s Tempest to 76, its Burn damage modifier to 180 / 4s and its % Retaliation added to Attack modifier to 8%.
     Mythical Crest of Winter Fortitude: added 4% Attack Speed and increased Health to 850. Increased % Retaliation added to Attack modifier for Blitz to 35% and added 100% of Physical dealt as Cold modifier for it.
     Mythical Crimson Spike: increased % Attack Speed to 20%
     Mythical Crystallum: increased Lightning damage to 11-46. Replaced % Stun Resist and % Lightning Resist with 50% Petrify Resist and 410 Health. Replaced bonus to Clarity of Purpose with +3 to Ascension. Added modifiers for Savagery and Ascension.
@@ -440,6 +440,7 @@ Legendary Non-Set Items
     Mythical Iceskorn Talons: replaced % Crit damage modifier for Righteous Fervor with 34 Cold damage modifier for it
     Mythical Inashkor’s Head: increased Physical damage modifier for Albrecht’s Aether Ray to 122
     Mythical Inashkor’s Corrupted Head: corrected bonus to Hellfire Mines to be +3 to Spectral Wrath. Increased Physical damage modifier for Doom Bolt to 550.
+    Mythical Ixillor’s Rageflame: replaced bonus to Inferno with +4 to Mirror of Ereoctes and reduced Cooldown on the skill proc. Increased % damage modifiers for Mirror of Ereoctes to 450%.
     Mythical Korvaak’s Brand: increased % Activation Chance on the granted skill to 20% and added 12% Weapon damage modifier for Savagery
     Mythical Korvan Wyrm: replaced % Lightning damage with % Bleed damage and increased Offensive Ability to 122. Increased Physical damage modifier for Primal Strike to 380 and its Internal Trauma damage modifier to 270 / 3s. Added -18% Physical Resist Reduction modifier for Inquisitor Seal and increased its Physical damage modifier to 110.
     Mythical Korvoran’s Chestguard: increased Health to 680 and Defensive Ability to 60
@@ -470,7 +471,7 @@ Legendary Non-Set Items
     Mythical Siegebreaker: increased Physical damage to 84
     Mythical Sigil of the Bear King: increased % Internal Trauma damage modifier for Forcewave to 225%
     Mythical Skybreach Bulwark: increased Lightning damage to 131-196. Increased Lightning damage modifier for Aegis of Menhir to 120-330 and its % Retaliation added to Attack modifier to 12%.
-    Mythical Soulblade: added 100% of Lightning dealt as Fire modifier for Callidor’s Tempest
+    Mythical Soulblade: added 100% of Lightning dealt as Fire modifier for Callidor’s Tempest and increased its % Weapon damage modifier to 22%
     Mythical Sovereign Ruby of Domination: increased % Crit damage for pets to 18% and increased % Crit damage for pets on the granted skill
     Mythical Spark of Ultos: increased % Weapon damage modifier for Stun Jacks to 9%
     Mythical Speaker for the Dead: increased % Weapon damage modifier for Phantasmal Blades to 14%
@@ -513,6 +514,7 @@ Legendary Non-Set Items
     Scion of Celestial Portents: increased % Weapon damage modifier for Stun Jacks to 10% and % Crit damage modifier for Trozan’s Sky Shard to 22%
     Scion of Noxious Wounds: replaced bonus to Necrotic Edge with +1 to Necromancer Skills
     Shard of the Eternal Flame: removed % Pierce dealt as Fire modifier for Forcewave
+    Scion of the Screaming Veil: reduced % Weapon damage modifier for Callidor’s Tempest to 38%
     Stormheart: replaced bonus to Stormcaller’s Pact with +1 to Shaman Skills
     Stormheart (mythical): replaced bonus to Stormcaller’s Pact with +1 to Shaman Skills and +1 to Occultist Skills
     The Grey Knight: increased Internal Trauma damage to 77 / 5s. Removed % Pierce dealt as Physical modifier for Forcewave and increased its % Damage Modified modifier to 120%.
@@ -605,7 +607,7 @@ Legendary Set Items
     Pyran’s Effigy: added 100% of Physical dealt as Fire modifier for Summon Guardian of Empyrion
     Pyran’s Vestments: increased bonus to Celestial Presence to +3
     Radaggan’s Folly Set: increased % Health bonus to 22%
-    Rage of Agrivix Set: added 66 Aether damage modifier for Callidor’s Tempest
+    Rage of Agrivix Set: added 90 Aether damage modifier for Callidor’s Tempest
     Mythical Arcane Shard of Agrivix: removed Conversion
     Mythical Mantle of Agrivix: updated Conversion to 25% of Vitality dealt as Aether
     Rotgheist Set: increased % Health bonus to 22% and Offensive Ability bonus to 110. Added 30% of Elemental dealt as Vitality bonus. Increased % Weapon damage modifier for Dreeg’s Evil Eye to 100%, added +1.5 Radius modifier for it and replaced its Poison damage modifier with 260 / 5s Vitality Decay damage modifier. Updated Vire’s Might modifiers to Vitality damage.
