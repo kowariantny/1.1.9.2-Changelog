@@ -26,6 +26,7 @@ V1.1.9.2
     Damage converted to Physical is now properly reduced by Armor. This fix also applies to Retaliation damage converted to Physical.
     Reduced Armor on high armor enemies (ex. Bosses/Nemesis) at levels 90+. This reduction starts out small and scales up to roughly 10% for the highest level enemies encountered.
     Fixed an issue where rarely some enemy-only items would unintentionally drop as white quality equipment.
+    Fixed an issue that may be causing the Chthonian nemesis, Benn’Jahr, to very rarely not spawn
 
 [Itemization]
 
@@ -190,6 +191,7 @@ Monster Infrequents
     Rolderathis’ Tome: replaced bonus to Rune of Hagarrad with +2 to Aura of Censure
     Ronaprax’s Sting: increased % Weapon damage modifiers for Aegis of Menhir and Dreeg’s Evil Eye to 90% and 28%, respectively, and their % Retaliation added to Attack modifiers to 10%
     Rylok Crest: replaced Physical damage modifier for Savagery with 10% Weapon damage modifier for it
+    Rylok Mark: added 8% Attack damage Converted to Health modifier for Primal Strike
     Salazar’s Sovereign Blade: reduced effectiveness of granted pet’s Resist Reduction debuff and its Nova ability
     Sandclaw Slicer: increased bonus Physical damage to 36 and increased bonuses to Laceration and Rebuke to +3. Increased Physical damage modifier for Blade Arc to 132 and added 6% Attack damage Converted to Health modifier for it. Added modifiers for Presence of Virtue.
     Scarab Shell: fixed an issue where the Blade Spirit modifiers were not applying to all of the Blade Spirit’s damage sources
