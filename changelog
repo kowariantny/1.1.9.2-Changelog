@@ -1,5 +1,3 @@
-Please note that until the patch is live, all changes listed here are subject to change and are NOT FINAL.
-
 V1.1.9.2
 
 [Crucible]
@@ -51,7 +49,6 @@ V1.1.9.2
     Rare Suffix - Blades: removed % All Retaliation
     Rare Suffix - Blight (shields): increased Poison damage
     Rare Suffix - Butchery: replaced % Cunning with Defensive Ability, this affects level 82+ versions of the affix only
-    Rare Suffix - Caged Souls (armor): replaced bonus to Summon Blight Fiend with +2 to Summon Hellhound
     Rare Suffix - Ferocity: increased % Attack Speed
     Rare Suffix - Glacier (shields): increased Cold damage
     Rare Suffix - Ruthlessness: reduced % Attack Speed
@@ -430,7 +427,7 @@ Legendary Non-Set Items
     Mythical Dawnshard Hauberk: increased Lightning damage to 11-25 and Health to 1280 and added 44 Defensive Ability
     Mythical Dawnshard Pauldron: increased Health to 722
     Mythical Death Omen: increased Vitality damage to 28 and increased Vitality damage modifier for Execution to 200
-    Mythical Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack. Added 100% of Fire dealt as Vitality modifier for Eye of Reckoning.
+    Mythical Death’s Reach: adjusted values on the skill proc and replaced its Activation type from Chance on Crit to Chance on Attack. Added 100% of Physical dealt as Vitality modifier for Eye of Reckoning.
     Mythical Deathdealer’s Sidearm: increased Physical damage modifiers for Reaping Strike and Smite to 180
     Mythical Decree of the Circle of Five: added 130% Physical damage modifier for Iskandra’s Elemental Exchange and increased % Weapon damage on the granted skill
     Mythical Devil’s Cage Hauberk: increased Physical damage to 19-28
