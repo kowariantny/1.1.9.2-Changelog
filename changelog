@@ -22,11 +22,13 @@ V1.1.9.2
 [Game]
 
     Increased drop rate of Ugdenbloom from Rotting Stumps and Ugdenbog Golems, for real this time. Previously change only affected Ashes of Malmouth and not Forgotten Gods.
-    Various human enemies and bosses no longer having scaling Elemental Resistance. This previously only applied to the Crucible game mode but is now game-wide.
+    Various human enemies and bosses no longer have scaling Elemental Resistance. This previously only applied to the Crucible game mode but is now game-wide.
     Damage converted to Physical is now properly reduced by Armor. This fix also applies to Retaliation damage converted to Physical.
     Reduced Armor on high armor enemies (ex. Bosses/Nemesis) at levels 90+. This reduction starts out small and scales up to roughly 10% for the highest level enemies encountered.
-    Fixed an issue where rarely some enemy-only items would unintentionally drop as white quality equipment.
+    Fixed an issue where rarely some enemy-only items would unintentionally drop as white quality equipment
     Fixed an issue that may be causing the Chthonian nemesis, Benn’Jahr, to very rarely not spawn
+    Fixed an issue where Benn’Jahr, Fabius and Moosilauke had lower than intended resists against certain damage types. This also results in them having lower resistances to other damage types they were not intended to have elevated values against.
+    Fixed an issue Valdaran had higher than intended Lightning resist
 
 [Itemization]
 
@@ -356,7 +358,7 @@ Legendary Non-Set Items
     Bladetwister Signet: added 18% Vitality Resist and reduced % Pierce Resist to 22%
     Chillheart: reduced Cast Speed to 10%
     Chilling Grip of Hagarrad: reduced % Attack Speed to 10%
-    Cindertouch: increased Lightning damage modifier for Eye of Reckoning to 22-40
+    Cindertouch: replaced % Crit damage with 15% Attack Speed and 15% Cast Speed and reduced Offensive Ability to 76. Increased Lightning damage modifier for Eye of Reckoning to 22-40.
     Conduit of Arcane Whispers: increased Acid damage modifier for Trozan’s Sky Shard to 220, its Poison damage modifier to 240 / 5s and its Fire damage modifier to 110. Increased Acid and Cold damage modifiers for Devastation to 150. Increased Vitality damage modifier for Panetti’s Replicating Missile to 166. Increased Cold damage modifier for Albrecht’s Aether Ray to 132. Increased Chaos damage modifier for Callidor’s Tempest to 140.
     Conduit of Destructive Whispers: increased Aether and Chaos damage modifiers for Stun Jacks to 66. Increased Chaos damage modifier for Canister Bomb to 180. Increased Health Regen modifier for Vindictive Flame to 120. Increased Lightning damage modifier for Blackwater Cocktail to 60. Increased Vitality damage modifier for Fire Strike to 80.
     Conduit of Divine Whispers: increased Aether and Chaos damage modifiers for Eye of Reckoning to 132, added 100% of Physical dealt as Aether/Chaos modifiers for them and updated the conversion on these necklace variants to 25% of Fire dealt as Aether/Chaos. Increased Vitality damage modifier for Aegis of Menhir to 280, its Vitality Decay damage modifier to 280 / 3s and its Elemental damage modifier to 280. Increased Cold damage modifier for Judgment to 280. Redesigned Ascension variant to instead support Lightning Vire’s Might. Updated conversion on Cold Righteous Fervor necklace variant to 25% of Fire dealt as Cold.
@@ -452,7 +454,7 @@ Legendary Non-Set Items
     Mythical Gavel of Ravenous Souls: increased bonus Physical damage to 30-47. Increased Physical damage modifier for Vire’s Might to 130 and its Internal Trauma damage modifier to 130 / 2s. Increased Physical damage modifier for Soul Siphon 90.
     Mythical Gaze of Empyrion: increased Defensive Ability to 82
     Mythical Gildam Arcanum Commendation: added 40 Offensive Ability, 40 Defensive Ability and +3 to Intensify and increased % Cast Speed to 6%. Added 44 Elemental damage modifier for Flames of Ignaffar.
-    Mythical Glyph of Kelphat’Zoth: increased Lightning damage to 8-25
+    Mythical Glyph of Kelphat’Zoth: increased Lightning damage to 8-25 and Defensive Ability to 60
     Mythical Glyph of the Storm Witch: increased % Healing Effects Increased to 10%
     Mythical Grasp of the Dead: increased Cold damage modifier for Blade Spirit to 110
     Mythical Grasp of Unchained Might: increased Physical damage to 19-25. Increased % Pierce dealt as Physical modifier for Aura of Conviction to 100% and its Physical damage modifier to 28.
@@ -472,7 +474,7 @@ Legendary Non-Set Items
     Mythical Inashkor’s Corrupted Head: corrected bonus to Hellfire Mines to be +3 to Spectral Wrath. Increased Physical damage modifier for Doom Bolt to 550.
     Mythical Ixillor’s Rageflame: replaced bonus to Inferno with +4 to Mirror of Ereoctes and reduced Cooldown on the skill proc. Increased % damage modifiers for Mirror of Ereoctes to 450%. Added modifiers for Flames of Ignaffar.
     Mythical Jaxxon’s Lucky Bullet: reduced % Weapon damage on the granted skill
-    Mythical Korvaak’s Brand: increased % Activation Chance on the granted skill to 20% and added 15% Weapon damage modifier for Savagery
+    Mythical Korvaak’s Brand: increased % Activation Chance on the granted skill to 20% and added modifiers for Savagery
     Mythical Korvan Wyrm: replaced % Lightning damage with % Bleed damage and increased Offensive Ability to 122. Increased Physical damage modifier for Primal Strike to 380 and its Internal Trauma damage modifier to 270 / 3s. Added -18% Physical Resist Reduction modifier for Inquisitor Seal and increased its Physical damage modifier to 110.
     Mythical Korvoran’s Chestguard: increased Health to 680 and Defensive Ability to 60
     Mythical Leviathan: increased Physical damage modifier for Necrotic Edge to 330
@@ -692,6 +694,7 @@ Legendary Set Items
     The Infernal Champion Set: increased % Health bonus to 14% and % Total Speed bonus to 14%
     The Korvan Dunefiend Set: increased % Damage Modified modifier for Shadow Strike to 135% and Acid damage modifier for Eye of Reckoning to 100
     Dunefiend’s Blade: increased % Weapon damage modifier for Shadow Strike to 55% and Acid damage modifier for Eye of Reckoning to 24
+    Dunefiend’s Mask: added 20% Stun Resist, 20% Freeze Resist and 20% Petrify Resist modifiers for Blood of Dreeg
     Dunefiend’s Slicer: increased % Weapon damage modifier for Shadow Strike to 55% and Acid damage modifier for Eye of Reckoning to 24
     The Mageslayer Set: increased % Health bonus to 16% and increased Frostburn modifier for Veil of Shadow to 300 / 2s
     The Runebinder Set: increased Fire damage modifier for Rune of Kalastor to 70. Replaced Cold damage modifier for Rune of Hagarrad with +2 Projectiles modifier for it. Removed % Pierce Resist Reduction modifier for Inquisitor Seal.
@@ -711,7 +714,12 @@ Legendary Set Items
     The Voidsoul Set: increased % Crit damage bonus to 12%. Increased % Damage Modified modifier for Aegis of Menhir to 100%. Increased % Attack damage Converted to Health modifier for Flames of Ignaffar to 16%.
     Voidsoul Visage: increased % Weapon damage modifier for Flames of Ignaffar to 14%
     Trozan’s Skybreach Set: increased Cooldown Reduction modifier for Trozan’s Sky Shard to -0.5s
-    Ultos’ Tempest Set: added 55 Defensive Ability bonus and added modifiers for Savagery
+    Ultos’ Storm Set: reduced Lightning damage bonus to 6-48
+    Ultos’ Cuirass: added 2-10 Lightning damage
+    Ultos’ Gem: added 4-19 Lightning damage
+    Ultos’ Tempest Set: added 55 Defensive Ability bonus and reduced Lightning damage bonus to 18-66. Added modifiers for Savagery.
+    Mythical Ultos’ Cuirass: added 10-22 Lightning damage
+    Mythical Ultos’ Gem: added 11-28 Lightning damage
     Mythical Ultos’ Hood: increased % Crit damage modifier for Savagery to 30%
     Ulzuin’s Infernal Avatar Set: increased Radius modifier for Canister Bomb to 0.7 and increased damage on the skill proc
     Uroboruuk’s Guise Set: increased % Offensive Ability bonus to 6% and Health bonus to 1600. Increased Aether damage modifier for Drain Essence to 132.
@@ -756,8 +764,8 @@ Devotion
     Scarab: increased % Armor to 5% and % Shield Damage Blocked to 24%
     Shieldmaiden: increased % Shield Damage Blocked to 90% and Internal Trauma damage to 20 / 5s
     Targo: increased % All Retaliation damage to 90%, Physical Retaliation to 150, % Armor to 15% and % Shield Damage Blocked to 24%
-    Tempest: increased Lightning damage to 8-20
-    Ultos: increased Lightning damage to 10-30
+    Tempest: increased Lightning damage to 8-20 and % Electrocute Duration to 50%. Replaced % Run Speed with 4% Total Speed.
+    Ultos: increased Lightning damage to 10-30 and Health to 280
     Ulzaad: increased Physical damage to 12-16 and Health to 260
     Ulzuin’s Torch: added 12-15 Fire damage
     Vire: increased % Physical and % Internal Trauma damage to 120%, Physical Retaliation to 120, % All Retaliation damage to 120% and Armor to 195
@@ -813,6 +821,7 @@ Shaman
 
     Mogdrogen’s Pact: increased Physical damage scaling with rank
     Savagery: increased % Weapon damage scaling at ultimate ranks to 162% by max ultimate rank
+    Stormtouched: increased % Chance of Lightning damage to 40% Chance but reduced the % Lightning damage, a net gain with smaller damage spikes
 
 Inquisitor
 
