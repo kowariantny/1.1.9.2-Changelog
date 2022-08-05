@@ -1,11 +1,9 @@
-V1.1.9.7 is expected to go into public testing posthaste.
-
-As always, everything is subject to change and nothing is set in stone, until it is.
-
-There’s going to be some emphasis on Retaliation builds this time around, but more is still to come! Crucible fans should definitely check out the AI changes as they really change the feel of combat in dense situations and make things feel less chaotic (in a good way).
+This is a summary of changes in the current v1.1.9.7 public playtest. As always, everything is subject to change and nothing is set in stone, until it is.
 
 
 Table of Contents
+Shattered Realm
+Modding
 Game
 Itemization
 
@@ -15,6 +13,7 @@ Itemization
 
 Class & Skills
 
+    Devotion
     Soldier
     Demolitionist
     Occultist
@@ -22,21 +21,33 @@ Class & Skills
     Oathkeeper
 
 V1.1.9.7
+[Shattered Realm]
+
+    Fixed an issue with Shattered Guardian’s Domain music tracking incorrect targets.
+    Fixed an issue where a Shattered Guardian’s Domain level may not end under rare circumstances.
+
+Back to Table of Contents
+
+[Modding]
+
+    Increased number of map labels to 150.
+
+Back to Table of Contents
+
 [Game]
 
-    Updated monster behavior when unable to reach the player. Monsters will now reposition less frequently and are more likely to “wait” or “roam” until a valid attack route is found resulting in much less unpredictable movement.
     Human enemies with equipment no longer have baseline resists to compensate for fluctuations in resists from their gear.
     Reduced monster % Cold Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
     Fixed an issue where monster pathing could become blocked by certain monster skills.
     Fixed an issue where converted Retaliation damage would incorrectly scale with Cunning and Spirit damage bonuses.
     Fixed an issue that caused skill modifiers from items to persist on duration buff skills (ex. Blood of Dreeg, Pneumatic Burst) even after the items were removed. The buffs now expire immediately upon swapping the equipment.
-    Swapping equipment that modifies pet skills now disables their on-death attacks (ex. Hellhound, Rune of Hagarrad)
+    Swapping equipment that modifies pet skills now disables their on-death attacks in addition to dismissing them (ex. Hellhound, Rune of Hagarrad)
 
 Back to Table of Contents
 
 [Itemization]
 
-    Most crafted Level 90 Rare Blueprints have received a general buff to make them a more viable option.
+    Most crafted Level 90 Blueprints have received a general buff to make them a more viable option.
     Suffix - Aether Storms: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Dark Intent: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Honor Guard: increased % Attack Speed and % Cast Speed at levels 82+
@@ -46,20 +57,37 @@ Back to Table of Contents
 
 Monster Infrequents
 
+    Basilisk Fang: increased % Retaliation added to Attack modifier for Dreeg’s Evil Eye to 15%
+    Colossal Defender: increased % Retaliation added to Attack modifier for Aegis of Menhir to 12%
+    Kaisan’s Burning Eye: added % All Retaliation damage
     Mark of Plagius: increased Vitality damage modifier for Vire’s Might to 180
+    Ravna’s Claw: increased % Retaliation added to Attack modifier for Aegis of Menhir to 16%
+    Ronaprax’s Sting: increased % Retaliation added to Attack modifiers for Dreeg’s Evil Eye and Aegis of Menhir to 15%
     Vampiric Bonewall: reduced % Attack damage Converted to Health modifier for Sigil of Consumption to 5%
 
 Back to Table of Contents
 
 Legendary Non-Set Items
 
-    Conduit of Divine Whispers: reduced % Retaliation damage Modified penalty for pierce variant of Aegis of Menhir to -25%
+    Conduit of Divine Whispers: reduced % Retaliation damage Modified penalty for pierce variant of Aegis of Menhir to -30%
     Gutsmasher: reduced % Weapon damage modifier for Eye of Reckoning to 14%
     Mythical Aethereach: added % Vitality damage
+    Mythical Avatar of Order: increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%
+    Mythical Avenger of Cairn: increased Physical Retaliation damage to 550
     Mythical Beronath, Reforged: removed % Retaliation Damage penalty on the granted skill
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
+    Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16%
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
+    Mythical Nightshade’s Reach: added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220
+    Mythical Pagar’s Betrayal: increased % Retaliation added to Attack modifier for Flames of Ignaffar to 14%
+    Mythical Pestilence of Dreeg: increased % All Retaliation damage to 70%
+    Mythical Pummeler: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Forcewave to 20% and 24%, respectively
     Mythical Rune Armor of Ignaffar: added 18% Poison Resist and updated the skill proc
+    Mythical Scion of Burning Vengeance: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Grenado to 20% and 30%, respectively.
+    Mythical Scion of Noxious Wounds: increased % Retaliation added to Attack modifier for Aegis of Menhir and Necrotic Edge to 18% and 28%, respectively
+    Mythical Skybreach Bulwark: increased % Retaliation added to Attack modifier for Aegis of Menhir to 20%
+    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 12%
+    Pandemic: removed Vitality damage modifier for Ravenous Earth
     Phasebreaker: increased Elemental damage to 30 and added 55 Offensive Ability
     Rune Armor of Ignaffar: updated the skill proc
     Scion of Arcane Force: increased Elemental damage to 99-126 and increased its Elemental damage modifier for Cadence to 210
@@ -69,16 +97,19 @@ Back to Table of Contents
 
 Legendary Set Items
 
+    Dawnseeker’s Light Set: increased % Lightning Retaliation damage bonus to 200% and increased % Retaliation added to Attack modifier for Savagery to 7%
+    Mythical Dawnbreaker’s Beacon: increased Lightning Retaliation damage to 660
+    Mythical Dawnbreaker’s Duty: increased % All Retaliation damage to 80%
+    Deathguard Set: added 330 Poison damage / 3s modifier for Shadow Strike
     Mythical Clairvoyant’s Hat: added 40 Vitality damage modifier for Albrecht’s Aether Ray and increased its Vitality Decay damage modifier to 180 / 2s
     Mythical Clairvoyant’s Wand: increased Aether damage modifier for Albrecht’s Aether Ray to 44
-    Mythical Dawnbreaker’s Duty: increased % All Retaliation damage to 80%
     Rage of Agrivix Set: replaced % Cast Speed modifier for Vindictive Flame with 6% Physical Resist modifier for it and increased its Aether damage modifier to 260
     Mythical Arcane Shard of Agrivix: updated modifiers for Vindictive Flame to 160-280 Fire damage and 6% Physical Resist
     Mythical Codex of Agrivix: increased bonus to Vindictive Flame to +3 and increased Burn damage modifier for Vindictive Flame to 240 / 3s
     Mythical Mantle of Agrivix: increased bonus to Vindictive Flame to +3
     Radaggan’s Folly Set: reduced % Attack damage Converted to Health modifier for Aura of Censure to 10%
     Rotgheist: added 10% Attack damage Converted to Health modifier for Vire’s Might and increased its Vitality damage modifier to 280 and its Vitality Decay damage modifier to 300 / 5s
-    Sentinel of the Three Set: increased % Acid Retaliation damage bonus to 200%, but it is now a 4-piece bonus
+    Sentinel of the Three Set: % Acid Retaliation damage bonus is now a 4-piece bonus
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
     Judgment of the Three: removed % All Retaliation damage and reduced Acid Retaliation to 290
     Warborn Bastion Set: reduced % Weapon damage modifier for Eye of Reckoning to 5%
@@ -86,6 +117,10 @@ Legendary Set Items
 Back to Table of Contents
 
 [Class & Skills]
+Devotion
+
+    Messenger of War (celestial proc): increased % Fire Retaliation to 140%
+
 Soldier
 
     Menhir’s Bulwark: increased % All Retaliation damage scaling with rank
@@ -100,6 +135,10 @@ Occultist
     Blood of Dreeg: increased Acid Retaliation scaling with rank
     Aspect of the Guardian: increased % All Retaliation damage scaling with rank
 
+Nightblade
+
+    Nightfall: increased Frostburn damage scaling with rank and removed Vitality Decay damage
+
 Shaman
 
     Emboldening Presence: increased % All Retaliation damage scaling with rank
@@ -111,3 +150,4 @@ Oathkeeper
     Ascension: increased % All Retaliation damage scaling with rank
     Presence of Virtue: increased Physical Retaliation scaling with rank
     Rebuke: increased % All Retaliation damage scaling with rank
+
