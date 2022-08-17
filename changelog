@@ -2,6 +2,7 @@ This is a summary of changes in the current v1.1.9.7 public playtest. As always,
 
 
 Table of Contents
+Crucible
 Shattered Realm
 Modding
 Game
@@ -21,6 +22,11 @@ Class & Skills
     Oathkeeper
 
 V1.1.9.7
+
+[Crucible]
+
+Back to Table of Contents
+
 [Shattered Realm]
 
     Fixed an issue with Shattered Guardian’s Domain music tracking incorrect targets.
@@ -52,6 +58,7 @@ Back to Table of Contents
     Suffix - Dark Intent: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Honor Guard: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Rapid Reflexes: increased % Attack Speed and % Cast Speed at levels 82+
+    Faction - The Desolator: increased Fire damage to 74-102 and Health to 880. Increased % Weapon damage modifier for Bursting Round to 100%.
 
 Back to Table of Contents
 
@@ -59,26 +66,27 @@ Monster Infrequents
 
     Basilisk Fang: increased % Retaliation added to Attack modifier for Dreeg’s Evil Eye to 15%
     Colossal Defender: increased % Retaliation added to Attack modifier for Aegis of Menhir to 12%
+    Colossal Fortress: added 4% Retaliation added to Attack modifier for Counter Strike
     Kaisan’s Burning Eye: added % All Retaliation damage
     Mark of Plagius: increased Vitality damage modifier for Vire’s Might to 180
     Ravna’s Claw: increased % Retaliation added to Attack modifier for Aegis of Menhir to 16%
-    Ronaprax’s Sting: increased % Retaliation added to Attack modifiers for Dreeg’s Evil Eye and Aegis of Menhir to 15%
+    Ronaprax’s Sting: added % All Retaliation damage and increased % Retaliation added to Attack modifiers for Dreeg’s Evil Eye and Aegis of Menhir to 15%
     Vampiric Bonewall: reduced % Attack damage Converted to Health modifier for Sigil of Consumption to 5%
 
 Back to Table of Contents
 
 Legendary Non-Set Items
 
-    Conduit of Divine Whispers: reduced % Retaliation damage Modified penalty for pierce variant of Aegis of Menhir to -30%
+    Conduit of Arcane Whispers: added 100% of Lightning dealt as Cold modifier for cold variant of Albrecht’s Aether Ray
     Gutsmasher: reduced % Weapon damage modifier for Eye of Reckoning to 14%
     Mythical Aethereach: added % Vitality damage
-    Mythical Avatar of Order: increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%
-    Mythical Avenger of Cairn: increased Physical Retaliation damage to 550
+    Mythical Avatar of Order: added 5% Total Speed. Increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%.
+    Mythical Avenger of Cairn: increased Physical Retaliation damage to 550 and Health yo 702
     Mythical Beronath, Reforged: removed % Retaliation Damage penalty on the granted skill
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
-    Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16%
+    Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16% and increased their % Attack damage Converted to Health modifiers to 6%.
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
-    Mythical Nightshade’s Reach: added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220
+    Mythical Nightshade’s Reach: added 50% of Cold dealt as Acid. Added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220.
     Mythical Pagar’s Betrayal: increased % Retaliation added to Attack modifier for Flames of Ignaffar to 14%
     Mythical Pestilence of Dreeg: increased % All Retaliation damage to 70%
     Mythical Pummeler: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Forcewave to 20% and 24%, respectively
@@ -86,6 +94,7 @@ Legendary Non-Set Items
     Mythical Scion of Burning Vengeance: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Grenado to 20% and 30%, respectively.
     Mythical Scion of Noxious Wounds: increased % Retaliation added to Attack modifier for Aegis of Menhir and Necrotic Edge to 18% and 28%, respectively
     Mythical Skybreach Bulwark: increased % Retaliation added to Attack modifier for Aegis of Menhir to 20%
+    Mythical Turrion’s Reprisal: increased % Retaliation added to Attack modifier for Blackwater Cocktail to 15%
     Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 12%
     Pandemic: removed Vitality damage modifier for Ravenous Earth
     Phasebreaker: increased Elemental damage to 30 and added 55 Offensive Ability
@@ -150,4 +159,3 @@ Oathkeeper
     Ascension: increased % All Retaliation damage scaling with rank
     Presence of Virtue: increased Physical Retaliation scaling with rank
     Rebuke: increased % All Retaliation damage scaling with rank
-
