@@ -1,6 +1,3 @@
-This is a summary of changes in the current v1.1.9.7 public playtest. As always, everything is subject to change and nothing is set in stone, until it is.
-
-
 Table of Contents
 Crucible
 Shattered Realm
@@ -24,6 +21,9 @@ Class & Skills
 V1.1.9.7
 
 [Crucible]
+
+    Increased chest quality at waves 100+ for successul runs on all difficulties.
+    Increased drop rate of double-Rare items on Gladiator difficulty.
 
 Back to Table of Contents
 
@@ -58,6 +58,7 @@ Back to Table of Contents
     Suffix - Dark Intent: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Honor Guard: increased % Attack Speed and % Cast Speed at levels 82+
     Suffix - Rapid Reflexes: increased % Attack Speed and % Cast Speed at levels 82+
+    Faction - Blazerush: added 120 Offensive Ability
     Faction - The Desolator: increased Fire damage to 74-102 and Health to 880. Increased % Weapon damage modifier for Bursting Round to 100%.
 
 Back to Table of Contents
