@@ -1,3 +1,6 @@
+This is a summary of changes in the current v1.1.9.7 public playtest. As always, everything is subject to change and nothing is set in stone, until it is.
+
+
 Table of Contents
 Crucible
 Shattered Realm
@@ -22,15 +25,15 @@ V1.1.9.7
 
 [Crucible]
 
-    Increased chest quality at waves 100+ for successul runs on all difficulties.
-    Increased drop rate of double-Rare items on Gladiator difficulty.
+    Increased chest quality at waves 100+ for successul runs on all difficulties
+    Increased drop rate of double-Rare items on Gladiator difficulty
 
 Back to Table of Contents
 
 [Shattered Realm]
 
-    Fixed an issue with Shattered Guardian’s Domain music tracking incorrect targets.
-    Fixed an issue where a Shattered Guardian’s Domain level may not end under rare circumstances.
+    Fixed an issue with Shattered Guardian’s Domain music tracking incorrect targets
+    Fixed an issue where a Shattered Guardian’s Domain level may not end under rare circumstances
 
 Back to Table of Contents
 
@@ -42,10 +45,13 @@ Back to Table of Contents
 
 [Game]
 
-    Human enemies with equipment no longer have baseline resists to compensate for fluctuations in resists from their gear.
+    Increased the drop rate of unique items from the Roguelike Dungeon final bosses (ex. Alkamos rings, Shar’Zul’s Worldeater, etc)
+    Increased the drop rate of Legendary Magi Rings in the Tomb of the Heretic to compensate for the RNG of getting the right magi in the boss encounter
+    Increased the drop rate of Kilrian’s Shattered Soul
+    Human enemies with equipment no longer have baseline resists to compensate for fluctuations in resists from their gear
     Reduced monster % Cold Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
-    Fixed an issue where monster pathing could become blocked by certain monster skills.
-    Fixed an issue where converted Retaliation damage would incorrectly scale with Cunning and Spirit damage bonuses.
+    Fixed an issue where monster pathing could become blocked by certain monster skills
+    Fixed an issue where converted Retaliation damage would incorrectly scale with Cunning and Spirit damage bonuses
     Fixed an issue that caused skill modifiers from items to persist on duration buff skills (ex. Blood of Dreeg, Pneumatic Burst) even after the items were removed. The buffs now expire immediately upon swapping the equipment.
     Swapping equipment that modifies pet skills now disables their on-death attacks in addition to dismissing them (ex. Hellhound, Rune of Hagarrad)
 
@@ -65,13 +71,34 @@ Back to Table of Contents
 
 Monster Infrequents
 
+    Ascendant Cowl: added Aether damage for pets
+    Ascendant Hood: increased % Crit damage modifier for Devastation to 50% and increased Elemental damage modifier for Inquisitor Seal to 110
+    Ascended Casque: added 20 Aether damage modifier for Spectral Binding
     Basilisk Fang: increased % Retaliation added to Attack modifier for Dreeg’s Evil Eye to 15%
+    Chosen Gaze: increased % Armor to 10% and added +1s Duration modifier for Ascension
+    Chosen Mask: replaced % Crit damage with 465 Health. Added 10% Crit damage modifier for Storm Box of Elgoloth.
+    Chosen Visage: added 4% Physical Resist modifier for Flame Touched and increased % Crit damage modifier for Summon Hellhound to 25%
     Colossal Defender: increased % Retaliation added to Attack modifier for Aegis of Menhir to 12%
     Colossal Fortress: added 4% Retaliation added to Attack modifier for Counter Strike
+    Death’s Whisper Hood: increased % Weapon damage modifier for Bone Harvest to 80% and added 8% Physical Resist modifier for Resilience
+    Fleshwarped Casque: increased Cooldown Reduction modifier for War Cry to -3s and added 100% Physical damage modifier for Iskandra’s Elemental Exchange
+    Gargoyle Gaze: increased % Attack damage Converted to Health modifier for Amarasta’s Blade Burst to 12%
+    Gargoyle Visage: increased Bleed damage and Vitality Decay damage modifiers for Feral Hunger to 210 / 2s
+    Incendiary Casque: increased Fire damage modifiers for Fire Strike and Flames of Ignaffar to 33 and 80, respectively
     Kaisan’s Burning Eye: added % All Retaliation damage
+    Korvan Casque: increased Internal Trauma damage and Vitality Decay damage modifiers for Blade Arc to 210 / 3s and added 6% Attack damage Converted to Health modifier for it
+    Korvan Gaze: added 18 Acid damage modifier for Righteous Fervor. Increased Poison damage and Vitality Decay damage modifiers for Whirling Death to 210 / 3s.
+    Korvan Helm: added 6% Health modifier for Soalel’s Witchfire and increased % Attack damagae Converted to Health modifier for Reaping Strike to 15%
+    Magi Visage: increased Vitality damage modifier for Ravenous Earth to 90
     Mark of Plagius: increased Vitality damage modifier for Vire’s Might to 180
+    Murderer’s Cowl: increased Bleed damage modifier for Blade Trap to 210 / 1s
+    Namadea’s Horns: increased % Physical Resist modifiers for Pneumatic Burst and Vindictive Flame to 6%
+    Packla’s Skins: increased % Attack damage Converted to Health to 5% and increased Defensive Ability modifier for Savagery to 80
+    Packla’s Visage: increased Bleed damage modifier for Phantasmal Blades to 210 / 3s
     Ravna’s Claw: increased % Retaliation added to Attack modifier for Aegis of Menhir to 16%
     Ronaprax’s Sting: added % All Retaliation damage and increased % Retaliation added to Attack modifiers for Dreeg’s Evil Eye and Aegis of Menhir to 15%
+    Skybreaker Circlet: increased Lightning damage modifier for Vire’s Might to 160
+    Spectral Crown: increased % Physical Resist for pets to 8%
     Vampiric Bonewall: reduced % Attack damage Converted to Health modifier for Sigil of Consumption to 5%
 
 Back to Table of Contents
@@ -79,12 +106,14 @@ Back to Table of Contents
 Legendary Non-Set Items
 
     Conduit of Arcane Whispers: added 100% of Lightning dealt as Cold modifier for cold variant of Albrecht’s Aether Ray
+    Gildor’s Pulverizer: added 18% Cast Speed and increased Health to 1080. Reduced % Attack Speed to 18%. Increased Pierce damage modifier for Blade Spirit to 220.
     Gutsmasher: reduced % Weapon damage modifier for Eye of Reckoning to 14%
     Mythical Aethereach: added % Vitality damage
     Mythical Avatar of Order: added 5% Total Speed. Increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%.
     Mythical Avenger of Cairn: increased Physical Retaliation damage to 550 and Health yo 702
     Mythical Beronath, Reforged: removed % Retaliation Damage penalty on the granted skill
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
+    Mythical Chains of Nightfire: added 25% Stun Resist. Increased Energy Regeneration to 3 and Health to 660.
     Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16% and increased their % Attack damage Converted to Health modifiers to 6%.
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
     Mythical Nightshade’s Reach: added 50% of Cold dealt as Acid. Added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220.
@@ -118,6 +147,8 @@ Legendary Set Items
     Mythical Codex of Agrivix: increased bonus to Vindictive Flame to +3 and increased Burn damage modifier for Vindictive Flame to 240 / 3s
     Mythical Mantle of Agrivix: increased bonus to Vindictive Flame to +3
     Radaggan’s Folly Set: reduced % Attack damage Converted to Health modifier for Aura of Censure to 10%
+    Rimetongue Set: increased % Crit damage bonus to 12%
+    Rimetongue Shoulderguard: added 25% Slow Resist
     Rotgheist: added 10% Attack damage Converted to Health modifier for Vire’s Might and increased its Vitality damage modifier to 280 and its Vitality Decay damage modifier to 300 / 5s
     Sentinel of the Three Set: % Acid Retaliation damage bonus is now a 4-piece bonus
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
