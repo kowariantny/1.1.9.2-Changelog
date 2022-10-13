@@ -19,6 +19,7 @@ Class & Skills
     Demolitionist
     Occultist
     Shaman
+    Inquisitor
     Oathkeeper
 
 V1.1.9.7
@@ -90,7 +91,7 @@ Monster Infrequents
     Korvan Gaze: added 18 Acid damage modifier for Righteous Fervor. Increased Poison damage and Vitality Decay damage modifiers for Whirling Death to 210 / 3s.
     Korvan Helm: added 6% Health modifier for Soalel’s Witchfire and increased % Attack damagae Converted to Health modifier for Reaping Strike to 15%
     Magi Visage: increased Vitality damage modifier for Ravenous Earth to 90
-    Mark of Plagius: increased Vitality damage modifier for Vire’s Might to 180
+    Mark of Plagius: increased Vitality damage modifier for Vire’s Might to 180 and added 80% Acid damage modifier for Harbinger of Souls
     Murderer’s Cowl: increased Bleed damage modifier for Blade Trap to 210 / 1s
     Namadea’s Horns: increased % Physical Resist modifiers for Pneumatic Burst and Vindictive Flame to 6%
     Packla’s Skins: increased % Attack damage Converted to Health to 5% and increased Defensive Ability modifier for Savagery to 80
@@ -106,6 +107,7 @@ Back to Table of Contents
 Legendary Non-Set Items
 
     Conduit of Arcane Whispers: added 100% of Lightning dealt as Cold modifier for cold variant of Albrecht’s Aether Ray
+    Conduit of Divine Whispers: increased % Retaliation damage Modified penalty for pierce variant of Aegis of Menhir to -42%.
     Gildor’s Pulverizer: added 18% Cast Speed and increased Health to 1080. Reduced % Attack Speed to 18%. Increased Pierce damage modifier for Blade Spirit to 220.
     Gutsmasher: reduced % Weapon damage modifier for Eye of Reckoning to 14%
     Mythical Aethereach: added % Vitality damage
@@ -115,6 +117,8 @@ Legendary Non-Set Items
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
     Mythical Chains of Nightfire: added 25% Stun Resist. Increased Energy Regeneration to 3 and Health to 660.
     Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16% and increased their % Attack damage Converted to Health modifiers to 6%.
+    Mythical Essence of the Grim Dawn: increased % Attack damage Converted to Health modifiers for Albrecht’s Aether Ray and Flames of Ignaffar to 5%
+    Mythical Evoker of Elgoloth: reduced % Weapon damage modifier for Savagery to 20% and reduced % Projectile Passthrough modifier for Storm Spread to 33%.
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
     Mythical Nightshade’s Reach: added 50% of Cold dealt as Acid. Added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220.
     Mythical Pagar’s Betrayal: increased % Retaliation added to Attack modifier for Flames of Ignaffar to 14%
@@ -136,12 +140,16 @@ Back to Table of Contents
 
 Legendary Set Items
 
+    Avenger’s Crusher: reduced Targets modifier for Smite to +2
     Dawnseeker’s Light Set: increased % Lightning Retaliation damage bonus to 200% and increased % Retaliation added to Attack modifier for Savagery to 7%
     Mythical Dawnbreaker’s Beacon: increased Lightning Retaliation damage to 660
     Mythical Dawnbreaker’s Duty: increased % All Retaliation damage to 80%
-    Deathguard Set: added 330 Poison damage / 3s modifier for Shadow Strike
+    Deathguard Set: increased % Cold dealt as Acid bonus to 80% and added 330 Poison damage / 3s modifier for Shadow Strike
+    Deathguard Blade: increased Health to 244
+    Deathguard Hood: increased Health to 660 and increased bonus to Nightfall to +3
+    Deathguard Mantle: increased Health to 660
     Mythical Clairvoyant’s Hat: added 40 Vitality damage modifier for Albrecht’s Aether Ray and increased its Vitality Decay damage modifier to 180 / 2s
-    Mythical Clairvoyant’s Wand: increased Aether damage modifier for Albrecht’s Aether Ray to 44
+    Mythical Clairvoyant’s Wand: increased % Vitality damage to 297% and increased Aether damage modifier for Albrecht’s Aether Ray to 44
     Rage of Agrivix Set: replaced % Cast Speed modifier for Vindictive Flame with 6% Physical Resist modifier for it and increased its Aether damage modifier to 260
     Mythical Arcane Shard of Agrivix: updated modifiers for Vindictive Flame to 160-280 Fire damage and 6% Physical Resist
     Mythical Codex of Agrivix: increased bonus to Vindictive Flame to +3 and increased Burn damage modifier for Vindictive Flame to 240 / 3s
@@ -153,7 +161,11 @@ Legendary Set Items
     Sentinel of the Three Set: % Acid Retaliation damage bonus is now a 4-piece bonus
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
     Judgment of the Three: removed % All Retaliation damage and reduced Acid Retaliation to 290
+    The Spellscourge Set: reduced % Attack damage Converted to Health modifier for Devastation to 2%
     Warborn Bastion Set: reduced % Weapon damage modifier for Eye of Reckoning to 5%
+    Mythical Warborn Gavel: increased % Attack Speed to 10% and increased Physical damage modifier for Reaping Strike to 160
+    Mythical Warborn Visor: removed % Attack Speed
+    Warborn Visor: removed % Attack Speed
 
 Back to Table of Contents
 
@@ -178,13 +190,23 @@ Occultist
 
 Nightblade
 
-    Nightfall: increased Frostburn damage scaling with rank and removed Vitality Decay damage
+    Dual Blades: increased base % Physical Resist by 2%
+    Nightfall: increased base % Attack damage Converted to Health by 2% and increased Frostburn damage scaling with rank and removed Vitality Decay damage
+    Pneumatic Burst: reduced Cooldown to 8s
+    Breath of Belgothian: reduced Cooldown Reduction to -3s
+    Shadow Dance: increased Defensive Ability scaling with rank to 135 by rank 12, 245 by max ultimate rank, and increased % Melee and % Ranged Avoidance scaling with rank to 22% by rank 12, 28% by max ultimate rank
 
 Shaman
 
     Emboldening Presence: increased % All Retaliation damage scaling with rank
     Oak Skin: increased % All Retaliation damage scaling with rank
     Storm Touched: increased % Lightning Retaliation damage scaling with rank
+
+Inquisitor
+
+    Horn of Gandarr: increased % Damage Reduction to 25% by rank 12, 35% by max ultimate rank
+    Word of Renewal: reduced Cooldown to 12s
+    Word of Arms: reduced Cooldown Reduction to -4s and added 4% Heal bonus
 
 Oathkeeper
 
