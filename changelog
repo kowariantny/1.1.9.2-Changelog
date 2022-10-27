@@ -52,7 +52,11 @@ Back to Table of Contents
     Increased the drop rate of Legendary Magi Rings in the Tomb of the Heretic to compensate for the RNG of getting the right magi in the boss encounter
     Increased the drop rate of Kilrian’s Shattered Soul
     Human enemies with equipment no longer have baseline resists to compensate for fluctuations in resists from their gear
-    Reduced monster % Cold Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
+    Reduced monster % Cold Resist by 6% on Ultimate difficulty and 3% on Elite difficulty
+    Reduced monster % Fire Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
+    Reduced monster % Lightning Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
+    Reduced monster % Pierce Resist by 3% on Ultimate difficulty and 1% on Elite difficulty
+    Reduced monster % Poison Resist by 3% on Ultimate difficulty and 2% on Elite difficulty
     Fixed an issue where monster pathing could become blocked by certain monster skills
     Fixed an issue where converted Retaliation damage would incorrectly scale with Cunning and Spirit damage bonuses
     Fixed an issue that caused skill modifiers from items to persist on duration buff skills (ex. Blood of Dreeg, Pneumatic Burst) even after the items were removed. The buffs now expire immediately upon swapping the equipment.
@@ -81,6 +85,7 @@ Monster Infrequents
     Chosen Gaze: increased % Armor to 10% and added +1s Duration modifier for Ascension
     Chosen Mask: replaced % Crit damage with 465 Health. Added 10% Crit damage modifier for Storm Box of Elgoloth.
     Chosen Visage: added 4% Physical Resist modifier for Flame Touched and increased % Crit damage modifier for Summon Hellhound to 25%
+    Coerced Wraith: increased Electrocute damage modifier for Grenado to 360 / 5s
     Colossal Defender: increased % Retaliation added to Attack modifier for Aegis of Menhir to 12%
     Colossal Fortress: added 4% Retaliation added to Attack modifier for Counter Strike
     Death’s Whisper Hood: increased % Weapon damage modifier for Bone Harvest to 80% and added 8% Physical Resist modifier for Resilience
@@ -102,29 +107,38 @@ Monster Infrequents
     Ronaprax’s Sting: added % All Retaliation damage and increased % Retaliation added to Attack modifiers for Dreeg’s Evil Eye and Aegis of Menhir to 15%
     Skybreaker Circlet: increased Lightning damage modifier for Vire’s Might to 160
     Spectral Crown: increased % Physical Resist for pets to 8%
+    Ugdenbog Flamethrower: increased Fire damage modifier for Grenado to 550
     Vampiric Bonewall: reduced % Attack damage Converted to Health modifier for Sigil of Consumption to 5%
 
 Back to Table of Contents
 
 Legendary Non-Set Items
 
+    Cindecore: increased Burn damage modifier for Grenado to 360 / 5s
     Conduit of Arcane Whispers: added 100% of Lightning dealt as Cold modifier for cold variant of Albrecht’s Aether Ray
+    Conduit of Destructive Whispers: increased Vitality damage and Aether damage modifiers for Vitality and Aether variants of Grenado to 600
     Conduit of Divine Whispers: increased % Retaliation damage Modified penalty for pierce variant of Aegis of Menhir to -42%.
     Gildor’s Pulverizer: added 18% Cast Speed and increased Health to 1080. Reduced % Attack Speed to 18%. Increased Pierce damage modifiers for Blade Spirit and Grenado to 220 and 550, respectively.
     Gutsmasher: reduced % Weapon damage modifier for Eye of Reckoning to 14%
+    Mark of Ulzuin: increased Chaos damage modifier for Grenado to 280-420
+    Mythical Adversary: increased % Weapon damage modifier for Grenado to 120%
     Mythical Aethereach: added % Vitality damage added 24 Vitality damage modifier for Albrecht’s Aether Ray
     Mythical Avatar of Order: added 5% Total Speed. Increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%.
     Mythical Avenger of Cairn: increased Physical Retaliation damage to 550 and Health yo 702
     Mythical Beronath, Reforged: increased % Total Speed to 14% and removed % Retaliation Damage penalty on the granted skill
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
     Mythical Chains of Nightfire: added 25% Stun Resist. Increased Energy Regeneration to 3 and Health to 660.
+    Mythical Chilling Grip of Hagarrad: increased Frostburn damage modifier for Grenado to 255 / 5s
     Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16% and increased their % Attack damage Converted to Health modifiers to 6%.
+    Mythical Crescent Moon: increased % Weapon damage modifier for Grenado to 80%
     Mythical Dreadchill Mark: added % Acid damage
     Mythical Essence of the Grim Dawn: increased % Attack damage Converted to Health modifiers for Albrecht’s Aether Ray and Flames of Ignaffar to 5%
     Mythical Evoker of Elgoloth: reduced % Weapon damage modifier for Savagery to 20% and reduced % Projectile Passthrough modifier for Storm Spread to 33%.
     Mythical Final Stop: increased Health to 1440 and % All Retaliation damage to 80%. Replaced +3 to Oak Skin with +1 to Shaman Skills. Increased % Retaliation added to Attack modifier for Smite to 26%. Increased % Retaliation added to Attack on the granted skill.
+    Mythical Gauntlets of Ignaffar: increased Burn damage modifier for Grenado to 320 / 5s
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
     Mythical Infernal Brimstone: added 8% Health modifier for Vindictive Flame and increased its % All Retaliation damage modifier to 260%
+    Mythical Mark of the Dreadblade: increased bonus to Righteous Fervor to +3. Added modifiers for Cadence and Righteous Fervor.
     Mythical Nightshade’s Reach: added 50% of Cold dealt as Acid. Added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220.
     Mythical Pagar’s Betrayal: increased % Retaliation added to Attack modifier for Flames of Ignaffar to 14%
     Mythical Pestilence of Dreeg: increased % All Retaliation damage to 70%
@@ -139,35 +153,47 @@ Legendary Non-Set Items
     Phasebreaker: increased Elemental damage to 30 and added 55 Offensive Ability
     Rune Armor of Ignaffar: updated the skill proc
     Scion of Arcane Force: increased Elemental damage to 99-126 and increased its Elemental damage modifier for Cadence to 210
+    Scion of the Screaming Veil: increased Aether damage modifier for Righteous Fervor to 80 and its % Attack Speed modifier to 12%
     Stormheart (mythical): increased Targets modifiers for Fire Strike and Cadence to +2 and added 100% of Physical dealt as Lightning modifier for Fire Strike
 
 Back to Table of Contents
 
 Legendary Set Items
 
+    Allagast’s Masterpiece Set: increased % Chaos and % Vitality Resist bonuses to 32%
     Avenger’s Crusher: reduced Targets modifier for Smite to +2
+    Chillwhisper Set: increased % Aether and % Chaos Resist bonuses to 32%
     Dawnseeker’s Light Set: increased % Lightning Retaliation damage bonus to 200% and increased % Retaliation added to Attack modifier for Savagery to 7%
     Mythical Dawnbreaker’s Beacon: increased Lightning Retaliation damage to 660
     Mythical Dawnbreaker’s Duty: increased % All Retaliation damage to 80%
     Deathguard Set: increased % Cold dealt as Acid bonus to 80% and added 440 Poison damage / 3s modifier for Shadow Strike
     Deathguard Blade: increased Health to 244 and added 31 Poison damage / 5s. Increased Acid damage modifier for Bone Harvest to 120.
     Deathguard Hood: increased Health to 660 and increased bonus to Nightfall to +3. Increased Acid damage modifier for Shadow Strike to 120
-    Deathguard Mantle: increased Health to 660
+    Deathguard Mantle: increased Health to 660 and increased bonuses to Soul Harvest and Shadow Strike to +3
+    Deathguard Shroud: increased bonus to Nidalla’s Justifiable Ends to +3
+    Mythical Barrelsmith’s Crossfire: increased Radius modifier for Grenado to +1
     Radaggan’s Folly Set: reduced % Attack damage Converted to Health modifier for Aura of Censure to 10%
-    Rage of Agrivix Set: replaced % Cast Speed modifier for Vindictive Flame with 6% Physical Resist modifier for it and increased its Aether damage modifier to 260
+    Rage of Agrivix Set: increased % Aether and % Chaos Resist bonuses to 32%. Replaced % Cast Speed modifier for Vindictive Flame with 6% Physical Resist modifier for it and increased its Aether damage modifier to 260.
     Mythical Arcane Shard of Agrivix: updated modifiers for Vindictive Flame to 160-280 Fire damage and 6% Physical Resist
     Mythical Codex of Agrivix: increased bonus to Vindictive Flame to +3 and increased Burn damage modifier for Vindictive Flame to 240 / 3s
     Mythical Mantle of Agrivix: increased bonus to Vindictive Flame to +3
-    Rimetongue Set: increased % Crit damage bonus to 12%
-    Rimetongue Shoulderguard: added 25% Slow Resist
+    Radaggan’s Folly Set: increased % Chaos and % Bleed Resist bonuses to 32%
+    Rimetongue Set: increased Energy Regeneration bonus to 10, Offensive Ability bonus to 150 and increased % Bleed and % Poison Resist bonuses to 32%. Removed % Crit damage bonus. Increased Cold damage modifier for Grenado to 350.
+    Rimetongue Chestguard: increased bonuses to Horn of Gandarr and Shattering Blast to +3
+    Rimetongue Mask: increased Radius modifier for Grenado to +2.0 and its Pierce damage modifier to 200
+    Rimetongue Pendant: added +3 to High Impact and increased Energy Regeneration to 2.5
+    Rimetongue Shoulderguard: added 25% Slow Resist and increased bonuses to Horn of Gandarr and Grenado to +3
     Rotgheist: added 10% Attack damage Converted to Health modifier for Vire’s Might and increased its Vitality damage modifier to 280 and its Vitality Decay damage modifier to 300 / 5s
     Sentinel of the Three Set: % Acid Retaliation damage bonus is now a 4-piece bonus
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
     Judgment of the Three: removed % All Retaliation damage and reduced Acid Retaliation to 290
-    The Clairvoyant’s Focus Set: increased Heal on the skill proc
+    The Clairvoyant’s Focus Set: increased Heal on the skill proc and reduced its Cooldown
     Mythical Clairvoyant’s Hat: added 40 Vitality damage modifier for Albrecht’s Aether Ray and increased its Vitality Decay damage modifier to 180 / 2s
+    Mythical Clairvoyant’s Mantle: added 4% Physical Resist
     Mythical Clairvoyant’s Wand: increased % Vitality damage to 297% and increased Aether damage modifier for Albrecht’s Aether Ray to 55
+    The Mageslayer Set: increased % Aether and % Chaos Resist bonuses to 32%
     The Spellscourge Set: reduced % Attack damage Converted to Health modifier for Devastation to 2%
+    The Vanquisher Set: increased % Aether and % Poison Resist bonuses to 32%
     Warborn Bastion Set: reduced % Weapon damage modifier for Eye of Reckoning to 5%
     Mythical Warborn Gavel: increased % Attack Speed to 10% and increased Physical damage modifier for Reaping Strike to 160
     Mythical Warborn Visor: removed % Attack Speed
@@ -189,6 +215,9 @@ Demolitionist
     Canister Bomb: increased Fragments scaling with rank to 8-10 by rank 12, 9-11 by max ultimate rank
     Flame Touched: increased Fire damage scaling with rank
     Temper: increased % All Retaliation damage scaling with rank
+    Grenado: increased Radius to 4.0 and increase Physical damage scaling with rank
+    High Impact: increased Fire damage scaling with rank
+    Shattering Blast: increased % Crit damage scaling with rank to 70% by rank 12, 100% by max ultimate rank
     Vindictive Flame: increased Fire Retaliation scaling with rank
     Ulzuin’s Wrath: increased base % Retaliation added to Attack by 2%. % Attack damage Converted to Health now scales with rank, scaling up to 20% by rank 12, 25% by max ultimate rank.
 
