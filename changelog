@@ -27,6 +27,10 @@ V1.1.9.7
 
     Increased chest quality at waves 100+ for successul runs on all difficulties
     Increased drop rate of double-Rare items on Gladiator difficulty
+    Increased % Physical Resist for pets from the Blessing of Ulo Celestial Blessing to 10%
+    Increased % Health for pets from the Empyrion’s Guidance Celestial Blessing to 140%
+    Increased % Damage Modified for pets from the Might of Amatok Celestial Blessing to 25%
+    Increased % Offensive and % Defensive Ability for pets from the Ulzuin’s Pact Celestial Blessing to 5%
 
 Back to Table of Contents
 
@@ -122,11 +126,11 @@ Legendary Non-Set Items
     Mythical Adversary: increased % Weapon damage modifier for Grenado to 120% and removed its Cooldown Reduction modifier
     Mythical Aethereach: added % Vitality damage added 24 Vitality damage modifier for Albrecht’s Aether Ray
     Mythical Avatar of Order: added 5% Total Speed. Increased % Retaliation added to Attack modifier for Aegis of Menhir to 14%.
-    Mythical Avenger of Cairn: increased Physical Retaliation damage to 550 and Health yo 702
+    Mythical Avenger of Cairn: increased Physical Retaliation damage to 550 and Health to 702. Added +3 to Shattering Smash and added 16% Retaliation added to Attack modifier for it.
     Mythical Beronath, Reforged: increased % Total Speed to 14% and removed % Retaliation Damage penalty on the granted skill
     Mythical Blood Sigil of Ch’Thon: added 8% Attack damage Converted to Health and 100% of Physical dealt as Chaos modifiers for Fire Strike
     Mythical Bloodsong: added 10% Attack damage Converted to Health and increased damage on the skill proc
-    Mythical Circlet of the Great Serpent: increased Acid damage modifier for Summon Blight Fiend to 60
+    Mythical Circlet of the Great Serpent: added 44 Defensive Ability and increased Acid damage modifier for Summon Blight Fiend to 60
     Mythical Chains of Nightfire: added 25% Stun Resist. Increased Energy Regeneration to 3 and Health to 660.
     Mythical Chilling Grip of Hagarrad: increased Frostburn damage modifier for Grenado to 255 / 5s
     Mythical Consumption of Agrivix: increased % Retaliation added to Attack modifiers for Callidor’s Tempest and Flames of Ignaffar to 16% and increased their % Attack damage Converted to Health modifiers to 6%.
@@ -134,25 +138,32 @@ Legendary Non-Set Items
     Mythical Dreadchill Mark: added % Acid damage
     Mythical Essence of the Grim Dawn: increased % Attack damage Converted to Health modifiers for Albrecht’s Aether Ray and Flames of Ignaffar to 5%
     Mythical Evoker of Elgoloth: reduced % Weapon damage modifier for Savagery to 20% and reduced % Projectile Passthrough modifier for Storm Spread to 33%.
+    Mythical Fiendmaster Raiment: increased Health to 800
     Mythical Final Stop: increased Health to 1440 and % All Retaliation damage to 80%. Replaced +3 to Oak Skin with +1 to Shaman Skills. Increased % Retaliation added to Attack modifier for Smite to 26%. Increased % Retaliation added to Attack on the granted skill.
     Mythical Gauntlets of Ignaffar: increased Burn damage modifier for Grenado to 320 / 5s
     Mythical Havoc: replaced modifiers for Fighting Spirit with modifiers for Markovian’s Advantage and Chilling Rounds
     Mythical Hellborne: reduced Radius modifier for Grenado to +2
     Mythical Inashkor’s Head: reduced Physical damage modifier for Albrecht’s Aether Ray to 90
     Mythical Infernal Brimstone: added 8% Health modifier for Vindictive Flame and increased its % All Retaliation damage modifier to 260%
-    Mythical Mark of Bloody Ends: increased Bleed damage modifiers for Summon Blight Fiend and Summon Briarthorn to 110 / 3s
+    Mythical Mark of Bloody Ends: added 40 Defensive Ability. Increased Bleed damage modifiers for Summon Blight Fiend and Summon Briarthorn to 110 / 3s.
     Mythical Mark of the Dreadblade: increased bonus to Righteous Fervor to +3. Added modifiers for Cadence and Righteous Fervor.
+    Mythical Markovian’s Stratagem: added 16% Retaliation added to Attack for Markovian’s Advantage
+    Mythical Necrolord’s Gaze: increased Defensive Ability to 70
     Mythical Nightshade’s Reach: added 50% of Cold dealt as Acid. Added 25% Damage Modified modifier for Shadow Strike and reduced its Acid damage modifier to 220.
+    Mythical Nosferattis: added 460 Health
     Mythical Pagar’s Betrayal: increased % Retaliation added to Attack modifier for Flames of Ignaffar to 14%
     Mythical Pestilence of Dreeg: increased % All Retaliation damage to 70%
     Mythical Pummeler: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Forcewave to 20% and 24%, respectively
     Mythical Rune Armor of Ignaffar: added 18% Poison Resist and updated the skill proc
+    Mythical Runebrand Legwraps: added 380 Health
     Mythical Scion of Burning Vengeance: increased % Retaliation added to Attack modifiers for Aegis of Menhir and Grenado to 20% and 30%, respectively.
     Mythical Scion of Noxious Wounds: increased % Retaliation added to Attack modifier for Aegis of Menhir and Necrotic Edge to 18% and 28%, respectively
     Mythical Siegebreaker: reduced % Weapon damage modifier for Shattering Smash to 40%
     Mythical Skybreach Bulwark: increased % Retaliation added to Attack modifier for Aegis of Menhir to 20%
     Mythical Spelldrinker: increased Defensive Ability to 70
+    Mythical Spiritseeker Cord: increased Health to 660
     Mythical Turrion’s Reprisal: increased % Retaliation added to Attack modifier for Blackwater Cocktail to 15%
+    Mythical Voidmancer’s Cord: added 35 Defensive Ability
     Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 12%
     Pandemic: removed Vitality damage modifier for Ravenous Earth
     Phasebreaker: increased Elemental damage to 30 and added 55 Offensive Ability
@@ -167,7 +178,8 @@ Legendary Set Items
 
     Allagast’s Masterpiece Set: increased % Chaos and % Vitality Resist bonuses to 32%
     Avenger’s Crusher: reduced Targets modifier for Smite to +2
-    Barrelsmith’s Destroyers Set: reduced Cooldown Reduction modifier for Grenado to -0.5s
+    Barrelsmith’s Destroyers Set: reduced Cooldown Reduction modifier for Grenado to -0.4s
+    Bysmiel’s Trinkets Set: increased % Health bonus to 12% and % Physical Resist bonus to 12%
     Chillwhisper Set: increased % Aether and % Chaos Resist bonuses to 32%
     Dawnseeker’s Light Set: increased % Lightning Retaliation damage bonus to 200% and increased % Retaliation added to Attack modifier for Savagery to 7%
     Mythical Dawnbreaker’s Beacon: increased Lightning Retaliation damage to 660
@@ -177,8 +189,17 @@ Legendary Set Items
     Deathguard Hood: increased Health to 660 and increased bonus to Nightfall to +3. Increased Acid damage modifier for Shadow Strike to 120
     Deathguard Mantle: increased Health to 660 and increased bonuses to Soul Harvest and Shadow Strike to +3
     Deathguard Shroud: increased bonus to Nidalla’s Justifiable Ends to +3
+    Diviner’s Vision Set: increased % Physical Resist to 12% and % Total Speed for Pets bonus to 14%
+    Diviner’s Codex: increased Defensive Ability to 60
+    Diviner’s Mantle: added 40 Defensive Ability
+    Diviner’s Mask: added 50 Defensive Ability
+    Ghol’s Malice Set: increased Health bonus to 2400, Acid damage for Pets bonus to 30 and Poison damage for Pets bonus to 22 / 5s
+    Ghol’s Mantle: added 60 Defensive Ability
     Ghol’s Mark: increased Poison damage modifiers for Summon Blight Fiend and Summon Briarthorn to 100 / 5s
     Mythical Iskandra’s Texts: added 400 Health
+    Nature’s Call Regalia Set: increased % Physical Resist bonus to 14% and Physical damage for Pets bonus to 16
+    Mythical Beastcaller’s Shoulderpads: increased Defensive Ability to 70
+    Mythical Beastcaller’s Shroud: increased Defensive Ability to 52
     Radaggan’s Folly Set: reduced % Attack damage Converted to Health modifier for Aura of Censure to 10%
     Rage of Agrivix Set: increased % Aether and % Chaos Resist bonuses to 32%. Replaced % Cast Speed modifier for Vindictive Flame with 10% Physical Resist and +2 Radius modifiers for it and increased its Aether damage modifier to 410. Increased damage on the skill proc.
     Mythical Arcane Shard of Agrivix: updated modifiers for Vindictive Flame to 160-280 Fire damage and 6% Physical Resist
@@ -194,6 +215,7 @@ Legendary Set Items
     Sentinel of the Three Set: % Acid Retaliation damage bonus is now a 4-piece bonus
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
     Judgment of the Three: removed % All Retaliation damage and reduced Acid Retaliation to 290
+    Shepherd of Lost Souls Set: added 6% Defensive Ability bonus
     The Clairvoyant’s Focus Set: increased Heal on the skill proc and reduced its Cooldown
     Mythical Clairvoyant’s Hat: added 60 Vitality damage modifier for Albrecht’s Aether Ray and increased its Vitality Decay damage modifier to 180 / 2s
     Mythical Clairvoyant’s Mantle: added 4% Physical Resist
@@ -218,6 +240,11 @@ Back to Table of Contents
 [Class & Skills]
 Devotion
 
+    Dying God: increased % Attack Speed for Pets to 8%
+    Ishtak, the Spring Maiden: increased % Total Speed to 6%, % Defensive Ability to 4% and % Total Speed for Pets to 8%
+    Mogdrogen the Wolf: increased Defensive Ability to 50 and increased % Total Speed for Pets to 8% and Bleed damage for Pets to 12 / 3s
+    Nighttalon: increased % Attack Speed for Pets to 6%
+    Typhos, the Jailor of Souls: increased % Health to 6% and % Physical Resist to 5%
     Messenger of War (celestial proc): increased % Fire Retaliation to 140%
 
 Soldier
