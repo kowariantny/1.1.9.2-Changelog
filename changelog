@@ -171,12 +171,14 @@ Legendary Non-Set Items
     Scion of Arcane Force: increased Elemental damage to 99-126 and increased its Elemental damage modifier for Cadence to 210
     Scion of the Screaming Veil: increased Aether damage modifier for Righteous Fervor to 80 and its % Attack Speed modifier to 12%
     Stormheart (mythical): increased Targets modifiers for Fire Strike and Cadence to +2 and added 100% of Physical dealt as Lightning modifier for Fire Strike
+    Voidspire: replaced bonus to Deadly Aim and its modifiers with +3 to Aura of Conviction and modifiers for it
 
 Back to Table of Contents
 
 Legendary Set Items
 
     Allagast’s Masterpiece Set: increased % Chaos and % Vitality Resist bonuses to 32%
+    Ardor of Octavius Set: increased Physical damage modifier for Rune of Kalastor to 240 and % Internal Trauma damage modifiers for Aegis of Menhir and Forcewave to 600%
     Avenger’s Crusher: reduced Targets modifier for Smite to +2
     Barrelsmith’s Destroyers Set: reduced Cooldown Reduction modifier for Grenado to -0.4s
     Bysmiel’s Trinkets Set: increased % Health bonus to 12% and % Physical Resist bonus to 12%
@@ -216,6 +218,7 @@ Legendary Set Items
     Defender of the Three: increased % All Retaliation damage to 80% and Acid Retaliation to 1560-1770
     Judgment of the Three: removed % All Retaliation damage and reduced Acid Retaliation to 290
     Shepherd of Lost Souls Set: added 6% Defensive Ability bonus
+    Stoneguard Pummeler: reduced % Retaliation added to Attack modifier for Shattering Smash to 26%
     The Clairvoyant’s Focus Set: increased Heal on the skill proc and reduced its Cooldown
     Mythical Clairvoyant’s Hat: added 60 Vitality damage modifier for Albrecht’s Aether Ray and increased its Vitality Decay damage modifier to 180 / 2s
     Mythical Clairvoyant’s Mantle: added 4% Physical Resist
@@ -225,11 +228,12 @@ Legendary Set Items
     The Vanquisher Set: increased % Aether and % Poison Resist bonuses to 32%
     The Voidsoul Set: increased Vitality damage modifier for Flames of Ignaffar to 150, its Chaos damage modifier to 55-150 and its Vitality Decay modifier to 200 / 3s
     Voidsoul Visage: added +3 to Intensify
-    Virtue’s Light Set: increased % Cooldown Reduction bonus to 12% and added 4% Defensive Ability bonus. Added 10% Block Chance modifier for Ascension. Increased Burn damage modifier for Aegis to 280 / 3s.
+    Virtue’s Light Set: increased % Cooldown Reduction bonus to 12% and % Health bonus to 18%. Added 4% Defensive Ability bonus. Added 10% Block Chance modifier for Ascension. Increased Burn damage modifier for Aegis to 280 / 3s.
     Virtue’s Armor: added 40 Defensive Ability
-    Virtue’s Defender: added Burn damage to the skill proc
+    Virtue’s Defender: increased Fire damage to 72-89. Added Burn damage to the skill proc and increased its Radius.
     Virtue’s Gaze: increased Defensive Ability to 66
     Virtue’s Guard: increased Defensive Ability to 66
+    Virtue’s Ward: replaced bonus to Haven with +2 to Divine Mandate
     Warborn Bastion Set: reduced % Weapon damage modifier for Eye of Reckoning to 5%
     Mythical Warborn Gavel: increased % Attack Speed to 10% and increased Physical damage modifier for Reaping Strike to 160
     Mythical Warborn Visor: removed % Attack Speed
@@ -246,6 +250,9 @@ Devotion
     Nighttalon: increased % Attack Speed for Pets to 6%
     Typhos, the Jailor of Souls: increased % Health to 6% and % Physical Resist to 5%
     Messenger of War (celestial proc): increased % Fire Retaliation to 140%
+    Hyrian’s Glare: increased base % Retaliation added to Attack by 3%
+    Targo’s Hammer: increased base % Retaliation added to Attack by 1%
+    Trample: increased base % Retaliation added to Attack by 1%
 
 Soldier
 
@@ -307,3 +314,4 @@ Oathkeeper
     Ascension: increased % All Retaliation damage scaling with rank
     Presence of Virtue: increased Physical Retaliation scaling with rank
     Rebuke: increased % All Retaliation damage scaling with rank
+
