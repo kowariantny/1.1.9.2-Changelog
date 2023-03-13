@@ -17,6 +17,7 @@ Itemization
 Class & Skills
 
     Devotion
+    Demolitionist
     Occultist
     Nightblade
     Arcanist
@@ -90,7 +91,6 @@ Monster Infrequents
     Bloodsworn Signet: added % Health
     Bound Wraith: added % Offensive Ability
     Chosen Visage: added Defensive Ability
-    Compelled Wraith: increased Vitality damage modifier for Blackwater Cocktail to 28
     Fleshwarped Carbine: added 40 Aether damage modifier for Reckless Power
     Galeslice’s Mark: increased Pierce damage modifier for Shadow Strike to 120
     Korvaak’s Burning-Blade: added % Cast Speed
@@ -100,7 +100,6 @@ Monster Infrequents
     Pulsing Shard: increased % Attack damage Converted to Health modifier for Albrecht’s Aether Ray to 8% and increased its % Crit damage modifier to 15%. Added 15% Attack damage Converted to Health modifier for Reap Spirit.
     Rylok Mark: increased Vitality damage modifier for Sigil of Consumption to 120 and increased % Attack damage Converted to Health modifier for Primal Strike to 10%
     Scorpius Pummeler: added % Poison Resist
-    Slathsarr’s Crest: increased Fire damage modifier for Blackwater Cocktail to 33
     Spectral Crown: added % Freeze Resist
     Steward’s Halberd: fixed missing bonus to Tectonic Shift instead of Cadence that was originally intended for v1.1.9.2. Added % Internal Trauma Duration. Increased % Weapon damage modifier for Vire’s Might to 100%.
     Ulraprax’s Sting: added 4% Attack damage Converted to Health modifier for Stun Jacks
@@ -117,7 +116,7 @@ Epic Items
     Corruptor of Spirits Set: replaced % Offensive Ability bonus for pets with 5% Physical Resist for pets. Removed Vitality damage for pets on the skill proc.
     Corruptor’s Mask: replaced Vitality damage for pets with 15% Chaos Resist for pets
     Corruptor’s Robe: replaced bonus to Undead Legion with +2 to Will of the Crypt
-    Mythical Hysteria: added +2 to Ravenous Earth
+    Hysteria: added +2 to Ravenous Earth
     Mythical Sigil of the Depraved: added 4% Attack Speed and +2 to Shadow Strike
 
 Back to Table of Contents
@@ -126,7 +125,7 @@ Legendary Non-Set Items
 
     Arcanum Electrollis: replaced bonus to Maelstrom with +1 to Shaman Skills
     Conduit of Divine Whispers: added -0.5s Cooldown modifier for cold variant of Judgment. Increased Aether damage modifier for aether variant of Vire’s Might to 400 and its % Damage Modified modifier to 20%. Increased Lightning damage modifier for lightning variant of Vire’s Might to 300-500.
-    Conduit of Night Whispers: replaced % Crit damage modifier for lightning variant of Shadow Strike with -20% Cooldown Reduction. Increased Lightning damage modifier for lightning variant of Amarasta’s Blade Burst to 200-350.
+    Conduit of Night Whispers: replaced % Crit damage modifier for lightning variant of Shadow Strike with -0.3s Cooldown Reduction. Increased Lightning damage modifier for lightning variant of Amarasta’s Blade Burst to 200-350.
     Conduit of Warring Whispers: increased Aether damage modifier for aether variant Cadence to 330 and added 100% of Elemental dealt as Aether modifier for it. Increased Bleed damage modifier for bleed variant of War Cry to 550 / 3s.
     Crest of Winter Fortitude: increased bonus to Biting Cold to +3
     Heart of the Mountain: increased Health of the Summoned Pet and added Threat generation to its abilities
@@ -148,6 +147,7 @@ Legendary Non-Set Items
     Mythical Fiendflesh Greaves: increased % Run Speed to 10% and added 22% Pierce Resist
     Mythical Fiendflesh Mantle: increased Absorb on the skill proc
     Mythical Gutripper: added 5% Offensive Ability and added % Attack damage Converted to Health to the skill proc
+    Mythical Grim Fate: increased Fire damage modifier for Sigil of Consumption to
     Mythical Hallanx’s Head: increased Attack damage Converted to Health modifier for Dreeg’s Evil Eye to 15%
     Mythical Heart of the Mountain: increased Health of the Summoned Pet and added Threat generation to its abilities
     Mythical Heart of the Sand King: added 30% Stun Resist and increased % Elemental Resist to 40%
@@ -172,6 +172,7 @@ Legendary Non-Set Items
     Mythical Will of Bysmiel: increased Health to 600 and Defensive Ability to 80
     Mythical Witching Hour: increased % Physical Resist to 12% and Offensive Ability to 80
     Mythical Wyrmbone Handguards: increased Electrocute damage modifier for Blackwater Cocktail to 140 / 3s
+    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22%
     Pandemic: added 5% Attack damage Converted to Health modifier for Dreeg’s Evil Eye
     Scion of Arcane Force: added +4 to War Cry. Increased Resist Reduction modifier for Cadence to 38 / 5s and increased Elemental damage modifier for Iskandra’s Elemental Exchange to 80.
 
@@ -211,7 +212,7 @@ Legendary Set Items
     Mythical Beastcaller’s Cowl: replaced % Armor with 35% Pierce Resist
     Mythical Beastcaller’s Shoulderpads: increased % Poison Resist to 40%
     Mythical Beastcaller’s Shroud: added 18% Bleed Resist
-    Rage of Agrivix Set: added -0.8s Cooldown modifier for Callidor’s Tempest
+    Rage of Agrivix Set: added -1s Cooldown modifier for Callidor’s Tempest
     Rotgheist Set: added -0.5s Cooldown modifier for Primal Strike
     Rotgheist Emblem: increased Attack damage Converted to Health modifier for Dreeg’s Evil Eye to 15%
     Shard of Lost Souls: increased % Bleed Resist to 40%
@@ -222,7 +223,7 @@ Legendary Set Items
     The Blightlord Set: increased Fire damage modifier for Ravenous Earth to 105
     Blightlord’s Carver: increased % Fire Resist Reduction modifier for Siphon Souls to -15%
     The Cyclone Set: increased % Physical Resist bonus to 14%
-    The Infernal Champion Set: increased Burn damage and its Duration on the skill proc. Increased Fire damage modifier for Blackwater Cocktail to 66.
+    The Infernal Champion Set: increased Burn damage and its Duration on the skill proc
     Mythical Infernal Knight’s Faceguard: increased Burn damage modifier for Blackwater Cocktail to 110 / 3s
     The Korvan Dunefiend: increased % Physical Resist bonus to 14%
     The Runebinder Set: increased % Offensive Ability bonus to 8%. Increased Fire damage modifier for Rune of Kalastor to 155.
@@ -262,6 +263,14 @@ Devotion
     Inspiration: increased Offensive and Defensive Ability to 130
     Tsunami (Celestial Proc): increased % Weapon damage to 45%
 
+Demolitionist
+
+    Blackwater Cocktail: damage tic rate increased by ~20%
+    Demon Fire: reduced Energy Cost scaling with rank
+    Agonizing Flames: reduced Energy Cost scaling with rank
+    High Potency: reduced Cooldown to 3.8s
+    Quick Jacks: increased Energy Cost Reduction to -30%, no longer scales with rank. % Damage Modified penalty no longer scales with rank and is fixed at -50%. Radius penalty now scales with rank to -1.2 at max rank. It is now possible to achieve the previous results with a single point, and additional points improve the projectile radius.
+
 Occultist
 
     Summon Hellhound: increased base % Freeze Resist to 50% and % Stun Resist is now a flat 50% instead of scaling with rank to 40%
@@ -269,7 +278,7 @@ Occultist
 
 Nightblade
 
-    Amarasta’s Blade Burst: fixed an issue where this skill could trigger twice when dual wielding ranged weapons.
+    Amarasta’s Blade Burst: fixed an issue where this skill could trigger twice when dual wielding ranged weapons
     Amarasta’s Quick Cut: sped up the melee animation hit frames by 25% to match comparable WPS skills. Average DPS of this ability remains unchanged. Fixed an issue where the animation could be interrupted early, resulting in the third hit not registering.
     Belgothian’s Shears: replaced % Pierce damage with Pierce damage
     Ring of Steel: increased % Weapon damage scaling with rank to 260% by rank 16, 320% by max ultimate rank
@@ -278,7 +287,10 @@ Nightblade
 Arcanist
 
     Callidor’s Tempest: increased % Weapon damage scaling with rank to 115% by rank 16, 145% by max ultimate rank
+    Inferno: reduced Energy Cost scaling with rank
     Wrath of Agrivix: reduced Cooldown to 3.8s and the % Damage Modified to 140%. Removed % Weapon damage.
+    Distortion: increased Aether damage scaling with rank. Reduced % Projectile Passthrough scaling with rank to 55% by rank 12, 75% by max ultimate rank.
+    Supercharged: increased Electrocute damage scaling with rank. Increased % Crit damage scaling with rank to 40% by rank 12, 60% by max ultimate rank.
 
 Necromancer
 
