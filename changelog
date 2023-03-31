@@ -55,6 +55,7 @@ Back to Table of Contents
     Significantly increased the cooldown on the heal abilities of Eldritch Armor and Human Ascendant heroes to match the cooldown of heal abilities on comparable Support archetypes
     Reduced the % Heal value of Eldritch Armor and Human Ascendant heroes (with the exception of Halganux ~ Supporter) to match values on comparable heroes with baseline heal abilities
     Increased the Health of the Loghorrean boss, along with the damage on some of its abilities. The poor Voice of Ch’thon’s vocal cords have gotten a bit sore over the years and needed a tune up.
+    Increased the Health of Korvaak and Theodin Marcell.
     Increased base resistances of various pets summoned by items. Some of these pets had fallen behind their mastery counterparts over the years.
 
 Back to Table of Contents
@@ -65,7 +66,7 @@ Back to Table of Contents
 
 Faction Equipment
 
-    Blazerush: now deals base Fire damage, damage adjusted accordingly. Replaced % Armor with 8% Physical Resist. Added 50% of Lightning dealt as Fire.
+    Blazerush: now deals base Fire damage, damage adjusted accordingly. Increased % Attack Speed to 26%. Replaced % Armor with 8% Physical Resist. Added 50% of Lightning dealt as Fire. Replaced % Total Speed modifier for Flame Touched with 8% Offensive Ability, 100% of Lightning dealt as Fire and 50% of Physical dealt as Fire.
     Bloodrender: increased bonuses to Reaping Strike and Savagery to +3 and added 45% of Pierce dealt as Vitality. Increased Vitality damage modifiers for Savagery and Whirling Death to 45 and 220, respectively.
     Bysmiel Arcane Spaulders: added % Elemental Dot damage
     Bysmiel’s Grasp: increased Cold damage modifiers for Summon Briarthorn and Conjure Primal Spirit to 70 and 90, respectively
@@ -100,7 +101,7 @@ Monster Infrequents
     Bound Wraith: added % Offensive Ability
     Chosen Visage: added Defensive Ability
     Fleshwarped Carbine: added 40 Aether damage modifier for Reckless Power
-    Fleshwarped Core: updated Fire damage modifier for Callidor’s Tempest to correctly be Aether and increased it to 180
+    Fleshwarped Core: updated Fire damage modifier for Callidor’s Tempest to correctly be Aether
     Fleshwarped Tome: increased Aether damage modifier for Sigil of Consumption to 110
     Galeslice’s Mark: increased Pierce damage modifier for Shadow Strike to 120
     Groble Vile Effigy: increased Poison damage modifier for Bloody Pox to 220 / 1s
@@ -136,7 +137,9 @@ Back to Table of Contents
 Legendary Non-Set Items
 
     Arcanum Electrollis: replaced bonus to Maelstrom with +1 to Shaman Skills
+    Cindertouch: increased bonus to Callidor’s Tempest to +3 and added 20% Freeze Resist
     Conduit of Arcane Whispers: increased Chaos damage modifier for Chaos variant of Callidor’s Tempest to 180
+    Conduit of Destructive Whispers: increased Cold damage modifier for cold variant of Thermite Mine to 220
     Conduit of Divine Whispers: added -0.5s Cooldown modifier for cold variant of Judgment. Increased Aether damage modifier for aether variant of Vire’s Might to 400 and its % Damage Modified modifier to 20%. Increased Lightning damage modifier for lightning variant of Vire’s Might to 300-500.
     Conduit of Eldritch Whispers: increased Aether damage modifier for aether variant of Sigil of Consumption to 220
     Conduit of Night Whispers: replaced % Crit damage modifier for lightning variant of Shadow Strike with -0.3s Cooldown Reduction. Increased Lightning damage modifier for lightning variant of Amarasta’s Blade Burst to 200-350.
@@ -149,6 +152,7 @@ Legendary Non-Set Items
     Morgoneth’s Legplates: increased bonus to Nightfall to +3
     Morgoneth’s Step: added 18% Elemental Resist and increased bonuses to Blitz and Shadow Strike to +3
     Mythical Abyssal Mask: added 18% Elemental Resist
+    Mythical Arcanor, Blade of the Luminari: added % Elemental Dot damage and 90 Defensive Ability
     Mythical Arcanum Electrollis: replaced bonus to Maelstrom with +1 to Shaman Skills
     Mythical Bane of the Winter King: increased % Health for pets to 30%
     Mythical Bloodfury Spaulders: added 18% Elemental Resist
@@ -157,21 +161,25 @@ Legendary Non-Set Items
     Mythical Boots of Primordial Rage: added 18% Bleed Resist
     Mythical Bramblevine: increased Attack damage Converted to Health modifier for Dreeg’s Evil Eye to 15%
     Mythical Chilldread Mantle: increased % Elemental Resist to 36%
+    Mythical Chilling Grip of Hagarrad: added 210 Health
     Mythical Circlet of the Great Serpent: added 20% Chaos Resist and increased Offensive Ability to 60 and Defensive Ability to 80
     Mythical Codex of Eternal Storms: added +1 to Shaman Skills and reduced bonus to Raging Tempest to +2. Increased Electrocute damage and reduced Cooldown on the granted skill.
     Mythical Colossal Grasp: reduced % Internal Trauma on the granted passive
+    Mythical Cortosian Scrolls: added % Elemental Dot damage
     Mythical Crest of Winter Fortitude: increased bonus to Blitz to +4 and bonus to Biting Cold to +3
     Mythical Crimson Spike: added +3 to Ring of Steel
-    Mythical Crown of the Winter King: added 18% Aether Resist and 20% Stun Resist
+    Mythical Crown of the Winter King: added 18% Aether Resist and 20% Stun Resist. Replaced bonus to Veil of Shadows with +1 to Nightblade Skills.
     Mythical Crystallum: increased Targets modifier for Savagery to +3
     Mythical Death Omen: increased bonus to Execution to +3 and added 45% of Pierce dealt as Vitality
     Mythical Dread Knight’s Guard: increased % Elemental Resist to 40%
-    Mythical Essence of the Grim Dawn: increased % Attack damage Converted to Health modifiers for Albrecht’s Aether Ray and Flames of Ignaffar to 8% and increased their Chaos damage modifiers to 28 and 65, respectively
+    Mythical Essence of the Grim Dawn: added 344 Health. Increased % Attack damage Converted to Health modifiers for Albrecht’s Aether Ray and Flames of Ignaffar to 8% and increased their Chaos damage modifiers to 28 and 65, respectively.
+    Mythical Fateweaver’s Leggings: added % Elemental Dot damage
     Mythical Fateweaver’s Mantle: added 18% Pierce Resist
     Mythical Fiendmaster Raiment: added 18% Elemental Resist
     Mythical Fiendflesh Greaves: increased % Run Speed to 10% and added 22% Pierce Resist
     Mythical Fiendflesh Mantle: increased Absorb on the skill proc
     Mythical Fiendscale Jacket: added 18% Elemental Resist
+    Mythical Gauntlets of Ignaffar: added 66 Defensive Ability
     Mythical Gutripper: added 5% Offensive Ability and added % Attack damage Converted to Health to the skill proc
     Mythical Grim Fate: increased Fire damage modifier for Sigil of Consumption to 120
     Mythical Guardian of Death’s Gates: replaced bonus to Field Command with +2 to Soldier Skills and added 10% Total Speed modifier for Field Command
@@ -181,28 +189,36 @@ Legendary Non-Set Items
     Mythical Heart of Yugol: added 18% Chaos Resist
     Mythical Herald of Blazing Ends: increased Burn damage modifier for Blackwater Cocktail to 80 / 3s
     Mythical Infernal Brimstone: increased % Health modifier for Vindictive Flame to 15%
-    Mythical Mark of Anathema: increased Aether damage modifier for Callidor’s Tempest to 60
     Mythical Mark of Bloody Ends: increased % Poison Resist to 40% and added 6% Total Speed for pets. Increased Bleed damage modifiers for Summon Briarthorn and Summon Blight Fiend to 140 / 3s
     Mythical Mark of the Dreadblade: increased Aether damage modifier for Cadence to 200 and added 6% Attack damage Converted to Health modifier for it
     Mythical Mark of the Forbidden: increased Vitlaity damage modifier for Bloody Pox to 120
     Mythical Mark of Unlife: added 20% Petrify resist for pets. Increased % Health Threshold for the granted skill to 40% and increased its % Heal. Added modifiers for Iskandra’s Elemental Exchange.
-    Mythical Maw of Despair: increased bonus to Callidor’s Tempest to +3 and increased Aether damage modifier for Callidor’s Tempest to 60
+    Mythical Maw of Despair: increased bonus to Callidor’s Tempest to +3 and increased Aether damage modifier for Field Command to 50
     Mythical Maw of the Damned: added -10% Bleed Resist modifier for Bloody Pox and increased Bleed damage modifier for Siphon Souls to 180 / 1s
     Mythical Necrolord’s Gaze: added +1 to Soldier Skills and added 25% Stun Resist for pets
     Mythical Necrolord’s Shroud: added 18% Pierce Resist and +3 to Squad Tactics
+    Mythical Overlord’s Iron Grip: increased Health to 704
+    Mythical Peerless Eye of Beronath: added 80 Defensive Ability and 400 Health
     Mythical Reaver’s Claw: increased Pierce damage modifier for Eye of Reckoning to 102
+    Mythical Riftwarped Grasp: increased Health to 440
     Mythical Rimeforged Mantle: added 22% Bleed Resist
     Mythical Runebrand Legwraps: increased Health to 740
+    Mythical Sandreaver Bracers: added 30% Bleed Duration
+    Mythical Scion of Crimson Wakes: added % Attack damage Converted to Health to the skill proc
     Mythical Shadowflame Mantle: increased % Chaos Resist to 34%
-    Mythical Shroud of Illusion: increased Offensive Ability. Increased Defensive Ability on the granted skill.
+    Mythical Shroud of Illusion: increased Offensive Ability and added % Elemental Dot damage. Increased Defensive Ability on the granted skill.
+    Mythical Spellgaze: increased bonuses to Blackwater Cocktail and Panetti’s Replicating Missile to +3
     Mythical Spiritbinder Glyph: added 15% Stun Resist for pets
     Mythical Spiritseeker Cord: added 4% Physical Resist for pets
-    Mythical Soulcatcher: increased Vitality damage modifier for Sigil of Consumption to 110
+    Mythical Soulcatcher: increased Defensive Ability to 80 and increased Vitality damage modifier for Sigil of Consumption to 110
     Mythical Soullance: added 100% of Acid dealt as Vitality modifier for Bloody Pox
     Mythical Sovereign Ruby of Domination: added 20% Freeze Resist and 20% Petrify Resist
     Mythical Stormreaver: increased bonus to Storm Totem to +2 and replaced bonus to Lightning Tether with +2 to Inquisitor Skills
+    Mythical Stormseer Sapphire: added +2 to Callidor’s Tempest
     Mythical Stormtitan Treads: increased % Poison Resist to 36%
     Mythical Stormweave Armor: added 18% Pierce Resist
+    Mythical Temporal Arcblade: added % Elemental Dot damage
+    Mythical Tinker’s Ingenuity: added 600 Health
     Mythical Touch of the Everliving Grove: added +3 to Squad Tactics
     Mythical Venomancer’s Guile: increased Acid damage modifier for Bloody Pox to 90
     Mythical Venomancer’s Raiment: added 22% Aether Resist
@@ -214,11 +230,13 @@ Legendary Non-Set Items
     Mythical Witching Hour: increased % Physical Resist to 12% and Offensive Ability to 80
     Mythical Wraithwalkers: added 18% Bleed Resist
     Mythical Wretched Tome of Nar’adin: increased Acid damage modifier for Bloody Pox to 160
-    Mythical Wyrmbone Handguards: increased Electrocute damage modifier for Blackwater Cocktail to 140 / 3s
+    Mythical Wyrmbone Handguards: added 30% Electrocute Duration. Increased Electrocute damage modifier for Blackwater Cocktail to 140 / 3s and increased Lightning damage modifier for Thermite Mine to 90-140.
     Mythical Wyrmbone Mask: added +1 to Soldier Skills and reduced bonus to Forcewave to +2. Added 80 Lightning damage modifier for Forcewave and increased its Electrocute damage modifier to 300 / 3s.
     Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22% and its Fire damage modifier to 90
     Pandemic: added 5% Attack damage Converted to Health modifier for Dreeg’s Evil Eye
     Scion of Arcane Force: added +4 to War Cry. Increased Resist Reduction modifier for Cadence to 38 / 5s and increased Elemental damage modifier for Iskandra’s Elemental Exchange to 80.
+    Scion of Crimson Wakes: added % Attack damage Converted to Health to the skill proc
+    Scion of the Screaming Veil: removed % Weapon damage modifier for Callidor’s Tempest
     Stormbearers: added 18% Elemental Resist
     Stormreaver: increased bonus to Storm Totem to +2 and replaced bonus to Lightning Tether with +2 to Inquisitor Skills
 
@@ -242,6 +260,7 @@ Legendary Set Items
     Mythical Deathmarked Claw: increased % Attack damage Converted to Health modifier for Whirling Death to 10%
     Mythical Deathmarked Hood: added 4% Attack damage Converted to Health
     Ghol’s Raiment: added 20% Stun Resist
+    Goredrinker’s Armor: added 30% Bleed Duration
     Harra’s Artifice Set: increased % Physical Resist bonus to 12%. Increased Cold damage modifiers for Callidor’s Tempest and Stun Jacks to 130 and 50, respectively
     Harra’s Ward: increased % Attack damage Converted to Health modifier for Stun Jacks to 6%
     Invoker’s Will Set: increased Fire damage modifier for Panetti’s Replicating Missile to 70
@@ -268,9 +287,12 @@ Legendary Set Items
     Targo’s Shoulderguard: increased Offensive Ability to 64
     The Blightlord Set: increased Fire damage modifier for Ravenous Earth to 105
     Blightlord’s Carver: increased % Fire Resist Reduction modifier for Siphon Souls to -15%
-    The Cyclone Set: increased % Physical Resist bonus to 14%
+    The Cyclone Set: increased % Physical Resist bonus to 15%
+    Cyclone Effigy: increased % Cast Speed to 16% and added 30% Freeze Resist. Increased Summon Limit modifier for Thermite Mines to +4 and added +2 Summon Burst modifier for it.
+    Cyclone Mark: increased Lightning damage modifier for Thermite Mine to 80-150
     The Infernal Champion Set: increased Burn damage and its Duration on the skill proc
     Mythical Infernal Knight’s Faceguard: increased Burn damage modifier for Blackwater Cocktail to 110 / 3s
+    Mythical Infernal Knight’s Jacket: added 45 Defensive Ability
     The Korvan Dunefiend: increased % Physical Resist bonus to 14%
     The Runebinder Set: increased % Offensive Ability bonus to 8%. Increased Fire damage modifier for Rune of Kalastor to 155.
     The Vileblade Pact Set: increased Acid damage modifier for Bloody Pox to 200
@@ -279,8 +301,8 @@ Legendary Set Items
     Voidsoul Visage: increased % Weapon damage modifier for Flames of Ignaffar to 16%
     Ultos’ Tempest Set: increased Lightning damage bonus to 33-66. Added -0.5s Cooldown modifier for Primal Strike.
     Ulzuin’s Infernal Avatar Set: reduced Cooldown on the skill proc and increased Radius modifier for Canister Bomb to 0.9
-    Valguur’s Hunger Set: increased % Health bonus to 24%
-    Valguur’s Focus: increased Defensive Ability to 66 and increased Vitality damage modifier for Sigil of Consumption to 100
+    Valguur’s Hunger Set: increased % Health bonus to 24% and added +6s Duration modifier for Storm Totem
+    Valguur’s Focus: added 60 Offensive Ability and increased Defensive Ability to 66. Increased Vitality damage modifier for Sigil of Consumption to 100.
     Virtue’s Light Set: increased % Health bonus to 20% and increased Burn damage modifier for Aegis of Menhir to 330 / 3s
     Virtue’s Defender: added 100% Burn Duration and added 40 Fire damage modifier for Aegis of Menhir
     Virtue’s Ward: increased Fire damage modifier for Aegis of Menhir to 120-200
@@ -290,10 +312,12 @@ Back to Table of Contents
 [Class & Skills]
 Devotion
 
+    Alladrah’s Phoenix: added 15% Freeze Resist
     Attak Seru: increased Health to 600 and % Defensive Ability to 6%
-    Behemoth: increased % Health for pets to 12% and added 4% Physical Resist for pets
+    Behemoth: increased % Health to 8% and increased % Health for pets to 12%. Added 4% Physical Resist for pets.
     Blind Sage: added 4% Physical Resist and reduced Offensive Ability to 115
     Bysmiel’s Bonds: replaced % Health for pets with 20% Trap Resist and 20% Trap Resist for pets
+    Chariot of the Dead: increased % Stun Resist to 20%
     Crane: increased % Poison and % Vitality Resists for pets to 20%
     Empty Throne: increased % Freeze and % Stun Resists for player and pets to 25%. Increased % Aether, % Chaos and % Pierce Resists for pets to 15%.
     Hound: increased % Health for pets to 20% and added 15% Stun Resist for pets
@@ -303,16 +327,21 @@ Devotion
     Jackal: increased % Health for pets to 8%
     Korvaak, the Eldritch Sun: increased % Health for pets to 12%
     Light of Empyrion: increased % Health for pets to 15% and % Aether/% Chaos/% Vitality Resists for pets to 25%
-    Lion: increased % Health for pets to 8%
+    Lion: increased % Run Speed to 6% and increased % Health for pets to 8%
+    Magi: added 15% Freeze Resist
     Manticore: increased % Health for pets to 12%
     Nighttalon: increased % Elemental Resist for pets to 15%
     Quill: increased Health to 100
     Rhowan’s Crown: increased % Elemental Resist for pets to 18%
+    Sailor’s Guide: increased % Run Speed to 10%
     Shepherd’s Crook: increased % Health for pets to 20%
+    Solael’s Witchfire: increased Defensive Ability to 40
     Staff of Ratosh: increased % Aether and % Vitality Resists for pets to 20%. Replaced % Crit damage for pets with 6% Total Speed for pets
     Stag: added bonuses for pets
     Tree of Life: increased % Health for pets to 27%
     Ulo: increased % Elemental Resist to 15%, % Poison Resist to 20% and % Chaos Resist to 20% for the player and pets. Added 15% Stun, 15% Freeze and 15% Petrify Resist.
+    Ulzuin’s Torch: added 20% Stun Resist
+    Wendigo: added 5% Run Speed
     Wolverine: increased % Poison and % Vitality Resists for pets to 15%
     Black Blood of Yugol: increased Duration to 8s
     Cleansing Waters: reduced Cooldown to 10s
@@ -357,7 +386,7 @@ Arcanist
 
 Shaman
 
-    Upheaval: increased Radius to 3.6
+    Upheaval: increased Radius to 4.0
 
 Necromancer
 
@@ -369,4 +398,3 @@ Necromancer
 Oathkeeper
 
     Smite: sped up the 1h-ed and dual-wield melee animation hit frame by 20% to match comparable WPS skills. Average DPS of this ability remains unchanged.
-
