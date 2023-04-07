@@ -34,6 +34,7 @@ Back to Table of Contents
 
     Human enemies can now equip at most one piece of armor or accessory to remove the possibility of overlapping % Resist bonuses that make these monsters difficult to kill
     Reduced spawn frequency of Eldritch Armor, Human Ascendant and Korvaak’s Chosen heroes
+    Updated boss spawn tables. Some bosses have graduated to higher shards and others have been demoted.
 
 Back to Table of Contents
 
@@ -56,6 +57,7 @@ Back to Table of Contents
     Reduced the % Heal value of Eldritch Armor and Human Ascendant heroes (with the exception of Halganux ~ Supporter) to match values on comparable heroes with baseline heal abilities
     Increased the Health of the Loghorrean boss, along with the damage on some of its abilities. The poor Voice of Ch’thon’s vocal cords have gotten a bit sore over the years and needed a tune up.
     Increased the Health of Korvaak and Theodin Marcell.
+    Increased the health, damage and adjusted the skill usage of some older bosses to bring them up to speed of their more modern counterparts. Will let you figure out which ones the hard way!
     Increased base resistances of various pets summoned by items. Some of these pets had fallen behind their mastery counterparts over the years.
 
 Back to Table of Contents
@@ -63,10 +65,12 @@ Back to Table of Contents
 [Itemization]
 
     Rare Prefix - Wraithbound (accessories): increased % All damage for pets
+    Component - Prismatic Diamond: reduced Cooldown on the granted skill to compensate for the fix to its duration
+    Fixed an issue where some on % Health triggered skills granted by items would last longer than intended.
 
 Faction Equipment
 
-    Blazerush: now deals base Fire damage, damage adjusted accordingly. Increased % Attack Speed to 26%. Replaced % Armor with 8% Physical Resist. Added 50% of Lightning dealt as Fire. Replaced % Total Speed modifier for Flame Touched with 8% Offensive Ability, 100% of Lightning dealt as Fire and 50% of Physical dealt as Fire.
+    Blazerush: now deals base Fire damage, damage adjusted accordingly. Increased % Attack Speed to 26%. Replaced % Armor with 8% Physical Resist. Added 50% of Lightning dealt as Fire. Replaced % Total Speed modifier for Flame Touched with 8% Offensive Ability, 100% of Lightning dealt as Fire and 50% of Physical dealt as Fire. Added 0.8s Stun modifier for Upheaval.
     Bloodrender: increased bonuses to Reaping Strike and Savagery to +3 and added 45% of Pierce dealt as Vitality. Increased Vitality damage modifiers for Savagery and Whirling Death to 45 and 220, respectively.
     Bysmiel Arcane Spaulders: added % Elemental Dot damage
     Bysmiel’s Grasp: increased Cold damage modifiers for Summon Briarthorn and Conjure Primal Spirit to 70 and 90, respectively
@@ -82,7 +86,7 @@ Faction Equipment
     The Overseer: added 70 Defensive Ability
     Venomfire: added +1s Duration modifier for Blackwater Cocktail
     Wendigo Spellweaver Mask: added % Elemental Dot damage
-    Word of Solael: increased Vitality Decay damage modifier for Bloody Pox to 180 / 1s
+    Word of Solael: increased Vitality Decay damage modifier for Bloody Pox to 200 / 1s
     Wrathguard: increased Pierce damage on the granted skill
 
 Back to Table of Contents
@@ -97,7 +101,7 @@ Monster Infrequents
     Bloodlord’s Blade: replaced % Attack Speed with 5% Cooldown Reduction and added 8% Attack Speed, 40% Fire damage and 40% Chaos damage modifiers for Possession
     Bloodsworn Codex: added % Stun Resist
     Bloodsworn Signet: added % Health
-    Boneblade: added 100% of Acid dealt as Vitality modifier for Bloody Pox
+    Boneblade: added 100% of Acid dealt as Vitality modifier for Bloody Pox and increased its Bleed damage modifier to 120 / 1s
     Bound Wraith: added % Offensive Ability
     Chosen Visage: added Defensive Ability
     Fleshwarped Carbine: added 40 Aether damage modifier for Reckless Power
@@ -115,6 +119,7 @@ Monster Infrequents
     Spectral Crown: added % Freeze Resist
     Steward’s Halberd: fixed missing bonus to Tectonic Shift instead of Cadence that was originally intended for v1.1.9.2. Added % Internal Trauma Duration. Increased % Weapon damage modifier for Vire’s Might to 100%.
     Ulraprax’s Sting: added 4% Attack damage Converted to Health modifier for Stun Jacks
+    Vilgazor’s Heart: increased bonus to Ring of Steel to +3 and increased Fire damage modifier for Ring of Steel to 400
     Zaria’s Pendant: added Defensive Ability
     Zarthuzellan’s Codex: added -0.8s Cooldown modifier for Blackwater Cocktail
 
@@ -129,8 +134,11 @@ Epic Items
     Corruptor’s Mask: replaced Vitality damage for pets with 15% Chaos Resist for pets
     Corruptor’s Robe: replaced bonus to Undead Legion with +2 to Will of the Crypt
     Hysteria: added +2 to Ravenous Earth
+    Mythical Black Hand of Sanar’Siin: added +2 to Infernal Breath
     Mythical Grim Harvest Boots: added +2 to Squad Tactics
+    Mythical Shadowfiend’s Cord: added +2 to Infernal Breath
     Mythical Sigil of the Depraved: added 4% Attack Speed and +2 to Shadow Strike
+    Mythical Wyrmclaw: added +2 to Infernal Breath
 
 Back to Table of Contents
 
@@ -146,7 +154,7 @@ Legendary Non-Set Items
     Conduit of Warring Whispers: increased Aether damage modifier for aether variant Cadence to 330 and added 100% of Elemental dealt as Aether modifier for it. Increased Bleed damage modifier for bleed variant of War Cry to 550 / 3s. Increased Lightning damage modifier for lightning variant of Forcewave to 200-450. Increased Frostburn damage modifier for cold variant of Forcewave to 350 / 3s.
     Crest of Winter Fortitude: increased bonus to Biting Cold to +3
     Heart of the Mountain: increased Health of the Summoned Pet and added Threat generation to its abilities
-    Hellscourge: increased Fire damage modifier for Sigil of Consumption to 90
+    Hellscourge: added 380 Health. Increased Fire damage modifier for Sigil of Consumption to 120 and added modifiers for Grenado.
     Horns of Korvaak: added % Damage Reduction to the skill proc
     Mad Queen’s Claw: added +3 to Cadence and modifiers for it
     Morgoneth’s Legplates: increased bonus to Nightfall to +3
@@ -220,6 +228,8 @@ Legendary Non-Set Items
     Mythical Temporal Arcblade: added % Elemental Dot damage
     Mythical Tinker’s Ingenuity: added 600 Health
     Mythical Touch of the Everliving Grove: added +3 to Squad Tactics
+    Mythical Turrion’s Reprisal: reduced % Retaliation added to Attack modifier for Blackwater Cocktail to 13%
+    Mythical Veilpiercer: added +3 to Infernal Breath
     Mythical Venomancer’s Guile: increased Acid damage modifier for Bloody Pox to 90
     Mythical Venomancer’s Raiment: added 22% Aether Resist
     Mythical Venomspine Greaves: added % Vitality damage and increased bonus to Nidalla’s Justifiable Ends to +3
@@ -229,10 +239,10 @@ Legendary Non-Set Items
     Mythical Windshear Greaves: added 18% Vitality Resist
     Mythical Witching Hour: increased % Physical Resist to 12% and Offensive Ability to 80
     Mythical Wraithwalkers: added 18% Bleed Resist
-    Mythical Wretched Tome of Nar’adin: increased Acid damage modifier for Bloody Pox to 160
+    Mythical Wretched Tome of Nar’adin: increased Acid damage modifier for Bloody Pox to 220
     Mythical Wyrmbone Handguards: added 30% Electrocute Duration. Increased Electrocute damage modifier for Blackwater Cocktail to 140 / 3s and increased Lightning damage modifier for Thermite Mine to 90-140.
     Mythical Wyrmbone Mask: added +1 to Soldier Skills and reduced bonus to Forcewave to +2. Added 80 Lightning damage modifier for Forcewave and increased its Electrocute damage modifier to 300 / 3s.
-    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22% and its Fire damage modifier to 90
+    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22% and its Fire damage modifier to 120
     Pandemic: added 5% Attack damage Converted to Health modifier for Dreeg’s Evil Eye
     Scion of Arcane Force: added +4 to War Cry. Increased Resist Reduction modifier for Cadence to 38 / 5s and increased Elemental damage modifier for Iskandra’s Elemental Exchange to 80.
     Scion of Crimson Wakes: added % Attack damage Converted to Health to the skill proc
@@ -323,9 +333,9 @@ Devotion
     Hound: increased % Health for pets to 20% and added 15% Stun Resist for pets
     Huntress: increased % Health for pets to 12%
     Hyrian: increased Elemental damage to 16
-    Ishtak: increased % Bleed Resist and % Poison Resist for pets to 30%
+    Ishtak: increased % Bleed Resist and % Poison Resist for pets to 30% and % Total Speed for pets to 12%
     Jackal: increased % Health for pets to 8%
-    Korvaak, the Eldritch Sun: increased % Health for pets to 12%
+    Korvaak, the Eldritch Sun: increased % Health for pets to 12% and % All damage for pets to 150%
     Light of Empyrion: increased % Health for pets to 15% and % Aether/% Chaos/% Vitality Resists for pets to 25%
     Lion: increased % Run Speed to 6% and increased % Health for pets to 8%
     Magi: added 15% Freeze Resist
@@ -347,7 +357,7 @@ Devotion
     Cleansing Waters: reduced Cooldown to 10s
     Hyrian’s Glare: increased % Weapon damage to 85%
     Inspiration: increased Offensive and Defensive Ability to 130
-    Nature’s Guardians: added 18 Resist Reduction / 5s for pets
+    Nature’s Guardians: increased Physical damage for pets and added 18 Resist Reduction / 5s for pets
     Tsunami (Celestial Proc): increased % Weapon damage to 45%
     Wayward Soul: reduced Cooldown to 8s and Duration to 5s
 
@@ -364,6 +374,7 @@ Occultist
     Bloody Pox: increased Bleed damage scaling with rank
     Wasting: increased Vitality damage scaling at ultimate ranks. Increased % Bleed damage scaling with rank to 144% by rank 12, 264% by max ultimate rank
     Black Death: increased % Bleed and % Vitality damage scaling with rank to 144% by rank 12, 264% by max ultimate rank
+    Fevered Rage: increased % Total Damage modified bonus to 60%
     Sigil of Consumption: increased Vitality Decay damage scaling with rank
     Summon Hellhound: increased base % Freeze Resist to 50% and % Stun Resist is now a flat 50% instead of scaling with rank to 40%
     Ember Claw: increased Threat generation scaling with rank
@@ -386,7 +397,7 @@ Arcanist
 
 Shaman
 
-    Upheaval: increased Radius to 4.0
+    Upheaval: increased Radius to 4.0 and increased % Weapon damage scaling with rank to 125% by rank 10, 175% by max ultimate rank
 
 Necromancer
 
