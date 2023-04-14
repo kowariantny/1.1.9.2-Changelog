@@ -35,6 +35,7 @@ Back to Table of Contents
     Human enemies can now equip at most one piece of armor or accessory to remove the possibility of overlapping % Resist bonuses that make these monsters difficult to kill
     Reduced spawn frequency of Eldritch Armor, Human Ascendant and Korvaak’s Chosen heroes
     Updated boss spawn tables. Some bosses have graduated to higher shards and others have been demoted.
+    Essence of the Shattered Realm now also grants a stacking bonus to % Retaliation damage in addition to its bonuses to non-retaliation damage.
 
 Back to Table of Contents
 
@@ -95,6 +96,7 @@ Monster Infrequents
 
     Aetherscorched Cleaver: replaced % Aether damage with % Pierce Resist. Added modifiers for Iskandra’s Elemental Exchange.
     Alkamos’ Warsword: increased Cold damage modifier for Vire’s Might to 380
+    Barrog’s Bloody Arm: added 50% Bleed Duration
     Basilisk Fang: increased % Attack damage Converted to Health modifiers for Aegis of Menhir and Dreeg’s Evil Eye to 6% and 8%, respectively
     Barthollem’s Warmaul: increased Target Arc modifier to 120
     Bloodfeast’s Mark: increased Vitality damage modifier for Bloody Pox to 90 and its Bleed damage modifier to 140 / 1s
@@ -110,10 +112,12 @@ Monster Infrequents
     Galeslice’s Mark: increased Pierce damage modifier for Shadow Strike to 120
     Groble Vile Effigy: increased Poison damage modifier for Bloody Pox to 220 / 1s
     Korvaak’s Burning-Blade: added % Cast Speed
+    Korvaak’s Storm-Blade: added Health
     Kyzogg’s Skull: added -0.4s Cooldown modifier for Callidor’s Tempest
     Lunal’Valgoth’s Girdle: added % Petrify Resist
     Naren Kur’s Blade: increased bonuses to Aspect of the Guardian and Markovian’s Advantage to +3
     Pulsing Shard: increased % Attack damage Converted to Health modifier for Albrecht’s Aether Ray to 8% and increased its % Crit damage modifier to 15%. Added 15% Attack damage Converted to Health modifier for Reap Spirit.
+    Pusquill’s Tail: added 50% Poison Duration and increased Poison damage modifier for Belgothian’s Shears to 180 / 5s
     Rylok Mark: increased Vitality damage modifier for Sigil of Consumption to 120 and increased % Attack damage Converted to Health modifier for Primal Strike to 10%
     Scorpius Pummeler: added % Poison Resist
     Spectral Crown: added % Freeze Resist
@@ -138,6 +142,7 @@ Epic Items
     Mythical Grim Harvest Boots: added +2 to Squad Tactics
     Mythical Shadowfiend’s Cord: added +2 to Infernal Breath
     Mythical Sigil of the Depraved: added 4% Attack Speed and +2 to Shadow Strike
+    Mythical Terror of the Grove: added 25% of Lightning dealt as Acid
     Mythical Wyrmclaw: added +2 to Infernal Breath
 
 Back to Table of Contents
@@ -146,11 +151,11 @@ Legendary Non-Set Items
 
     Arcanum Electrollis: replaced bonus to Maelstrom with +1 to Shaman Skills
     Cindertouch: increased bonus to Callidor’s Tempest to +3 and added 20% Freeze Resist
-    Conduit of Arcane Whispers: increased Chaos damage modifier for Chaos variant of Callidor’s Tempest to 180
+    Conduit of Arcane Whispers: increased Chaos damage modifier for Chaos variant of Callidor’s Tempest to 180 and added 15% Total Damage Modified modifier for it. Increased Poison damage modifier for acid variant of Trozan’s Sky Shard to 400 / 5s.
     Conduit of Destructive Whispers: increased Cold damage modifier for cold variant of Thermite Mine to 220
     Conduit of Divine Whispers: added -0.5s Cooldown modifier for cold variant of Judgment. Increased Aether damage modifier for aether variant of Vire’s Might to 400 and its % Damage Modified modifier to 20%. Increased Lightning damage modifier for lightning variant of Vire’s Might to 300-500.
-    Conduit of Eldritch Whispers: increased Aether damage modifier for aether variant of Sigil of Consumption to 220
-    Conduit of Night Whispers: replaced % Crit damage modifier for lightning variant of Shadow Strike with -0.3s Cooldown Reduction. Increased Lightning damage modifier for lightning variant of Amarasta’s Blade Burst to 200-350.
+    Conduit of Eldritch Whispers: added 15% Total Damage Modified modifier for aether variant of Sigil of Consumption
+    Conduit of Night Whispers: replaced % Crit damage modifier for lightning variant of Shadow Strike with -0.3s Cooldown Reduction. Increased Lightning damage modifier for lightning variant of Amarasta’s Blade Burst to 200-350. Increased Aether damage modifier for aether variant of Ring of Steel to 400.
     Conduit of Warring Whispers: increased Aether damage modifier for aether variant Cadence to 330 and added 100% of Elemental dealt as Aether modifier for it. Increased Bleed damage modifier for bleed variant of War Cry to 550 / 3s. Increased Lightning damage modifier for lightning variant of Forcewave to 200-450. Increased Frostburn damage modifier for cold variant of Forcewave to 350 / 3s.
     Crest of Winter Fortitude: increased bonus to Biting Cold to +3
     Heart of the Mountain: increased Health of the Summoned Pet and added Threat generation to its abilities
@@ -242,8 +247,9 @@ Legendary Non-Set Items
     Mythical Wretched Tome of Nar’adin: increased Acid damage modifier for Bloody Pox to 220
     Mythical Wyrmbone Handguards: added 30% Electrocute Duration. Increased Electrocute damage modifier for Blackwater Cocktail to 140 / 3s and increased Lightning damage modifier for Thermite Mine to 90-140.
     Mythical Wyrmbone Mask: added +1 to Soldier Skills and reduced bonus to Forcewave to +2. Added 80 Lightning damage modifier for Forcewave and increased its Electrocute damage modifier to 300 / 3s.
-    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22% and its Fire damage modifier to 120
+    Okaloth’s Visage (mythical): increased % Retaliation added to Attack modifier for Sigil of Consumption to 22% and its Fire damage modifier to 120 and added -0.6s Cooldown modifier for it
     Pandemic: added 5% Attack damage Converted to Health modifier for Dreeg’s Evil Eye
+    Ravager’s Dreadgaze (Minds): replaced % Crit damage with 5% Defensive Ability
     Scion of Arcane Force: added +4 to War Cry. Increased Resist Reduction modifier for Cadence to 38 / 5s and increased Elemental damage modifier for Iskandra’s Elemental Exchange to 80.
     Scion of Crimson Wakes: added % Attack damage Converted to Health to the skill proc
     Scion of the Screaming Veil: removed % Weapon damage modifier for Callidor’s Tempest
@@ -255,6 +261,7 @@ Back to Table of Contents
 Legendary Set Items
 
     Allagast’s Stormgem: added 220 Health
+    Akeron’s Scorpion: added 30% Poison Duration
     Ardor of Octavius Set: replaced Internal Trauma damage bonus with 25 Physical damage
     Bulwark of Octavius: reduced Internal Trauma damage to 84 / 5s. Increased Internal Trauma damage modifiers for Aegis of Menhir and Forcewave to 220 / 3s.
     Pauldrons of Octavius: added 22 Internal Trauma damage / 5s
@@ -266,6 +273,8 @@ Legendary Set Items
     Chillwhisper Set: added 80 Defensive Ability bonus. Increased Cold damage modifiers for Drain Essence and Rune of Hagarrad to 90 and 80, respectively, and added 200 Frostburn damage / 3s modifier for Rune of Hagarrad. Increased % Attack damage Converted to Health modifier for Blade Spirit to 10% and reduced its Cold damage modifier to 80.
     Dagallon’s Destruction Set: added 30% Slow Resist bonus
     Darkblaze Garb Set: added 25% Slow Resist bonus
+    Dark One’s Gift Set: reduced Cooldown on the skill proc to 4s
+    Dark One’s Grasp: increased % Heal modifier for Wendigo Totem to 4%
     Deathmark’s Shadow Set: increased % Physical Resist bonus to 16%. Increased Cold damage and Radius on the granted skill.
     Mythical Deathmarked Claw: increased % Attack damage Converted to Health modifier for Whirling Death to 10%
     Mythical Deathmarked Hood: added 4% Attack damage Converted to Health
@@ -409,3 +418,4 @@ Necromancer
 Oathkeeper
 
     Smite: sped up the 1h-ed and dual-wield melee animation hit frame by 20% to match comparable WPS skills. Average DPS of this ability remains unchanged.
+
