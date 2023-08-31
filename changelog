@@ -1,414 +1,415 @@
-V1.2 is a massive update that changes fundamental aspects of the game. If you’ve never backed up a character for a playtest before, this is the time to do so.
+**V1.2 is a massive update that changes fundamental aspects of the game. If you’ve never backed up a character for a playtest before, this is the time to do so.**
 
-Bugs may occur and we will not be responsible for damaged characters!
+**Bugs may occur and we will not be responsible for damaged characters!**
 
 Below is the initial changelog for Grim Dawns v1.2 overhaul patch. We expect more changes in future builds, including v1.2 features that are not in testing yet. Nothing is final, until it is. Stay tuned for updates!
 
-
 Table of Contents
-Major New Features
-Shattered Realm
-Crucible
-Modding
-Tech
-Game
-Itemization
+[Major New Features](#Major)
+[Shattered Realm](#Shattered)
+[Crucible](#Crucible)
+[Modding](#Modding)
+[Tech](#Tech)
+[Game](#Game)
+[Itemization](#Itemization)
 
-    Faction Equipment
-    Relics
-    Monster Infrequents
-    Epic Items
-    Legendary Non-Set Items
-    Legendary Set Items
+* [Faction Equipment](#Faction)
+* [Relics](#Relics)
+* [Monster Infrequents](#Monster)
+* [Epic Items](#Epic)
+* [Legendary Non-Set Items](#Non-Set)
+* [Legendary Set Items](#Set)
 
-Class & Skills
+[Class & Skills](#Class)
 
-    Devotion
-    Soldier
-    Demolitionist
-    Occultist
-    Nightblade
-    Arcanist
-    Shaman
-    Inquisitor
-    Necromancer
-    Oathkeeper
+* [Devotion](#Devotion)
+* [Soldier](#Soldier)
+* [Demolitionist](#Demolitionist)
+* [Occultist](#Occultist)
+* [Nightblade](#Nightblade)
+* [Arcanist](#Arcanist)
+* [Shaman](#Shaman)
+* [Inquisitor](#Inquisitor)
+* [Necromancer](#Necromancer)
+* [Oathkeeper](#Oathkeeper)
 
 V1.2.0.0
 
 [Major New Features]
 
-    You can now play the entirety of the game up to the level cap on the difficulty that’s enjoyable to you. To support this, level scaling has been updated on Normal and Elite difficulty. Many areas on Normal now scale up to level 100. Elite difficulty now scales up to level 100 in all areas. Loot quality and experience gains remain higher on higher difficulties.
-    All loot tables have been overhauled with 30-60% less items dropping. To compensate, loot quality and iron bits drops have been significantly increased.
-    All Bosses now have a 100% chance to drop their (non-legendary) Monster Infrequents.
-    Potions have been removed from the game. The character now has potion skills baseline and does not need to keep them in their inventory. Dedicated potion buttons have been added to the Quickbar.
-    Toggled buff effects are now automatically toggled on and no longer need to be on the skill bar. (Note: if your character currently has two exclusive skills learned, the one with more points invested takes priority)
-    You can now disable visuals for toggled buffs in the game options to improve visual clarity on your character and to show off all that gear.
-    New visuals have been added to alert you to Legendary, Monster Infrequent, Double Rare and Double Rare Monster Infrequent drops. Monster Infrequents are now marked by an icon to separate them from standard Rare items.
-    Monster Health Bar options have been improved. You can now toggle thicker health bars and display % values for monster health.
-    Monster Health Bar can now be toggled to also display all debuffs applied to the target monster.
-    The Nullification mechanic (ex. Arcane heroes) has been overhauled. It now purges all temporary buffs and Disables toggled buffs for 5 seconds. No more fumbling through your skill bars to turn auras back on.
-    New Accessibility Feature: Disable Day-Night Cycle. By enabling this, the game will be perpetually set to noon.
-    New Accessibility Feature: Disable Fog. If you do not wish to see the ambient fog, you can disable it in the video options.
-    New Accessibility Feature: Cooldown Counters. Enable this to see a numeric countdown on your skills on the quickbar.
-    New Accessibility Feature: Auto-Pick Up Radius can now be increased or reduced from its default setting.
+* You can now play the entirety of the game up to the level cap on the difficulty that’s enjoyable to you. To support this, level scaling has been updated on Normal and Elite difficulty. Many areas on Normal now scale up to level 100. Elite difficulty now scales up to level 100 in all areas. Loot quality and experience gains remain higher on higher difficulties.
+* All loot tables have been overhauled with 30-60% less items dropping. To compensate, loot quality and iron bits drops have been significantly increased.
+* All Bosses now have a 100% chance to drop their (non-legendary) Monster Infrequents.
+* Potions have been removed from the game. The character now has potion skills baseline and does not need to keep them in their inventory. Dedicated potion buttons have been added to the Quickbar.
+* Toggled buff effects are now automatically toggled on and no longer need to be on the skill bar. (Note: if your character currently has two exclusive skills learned, the one with more points invested takes priority)
+* You can now disable visuals for toggled buffs in the game options to improve visual clarity on your character and to show off all that gear.
+* New visuals have been added to alert you to Legendary, Monster Infrequent, Double Rare and Double Rare Monster Infrequent drops. Monster Infrequents are now marked by an icon to separate them from standard Rare items.
+* Monster Health Bar options have been improved. You can now toggle thicker health bars and display % values for monster health.
+* Monster Health Bar can now be toggled to also display all debuffs applied to the target monster.
+* The Nullification mechanic (ex. Arcane heroes) has been overhauled. It now purges all temporary buffs and Disables toggled buffs for 5 seconds. No more fumbling through your skill bars to turn auras back on.
+* New Accessibility Feature: Disable Day-Night Cycle. By enabling this, the game will be perpetually set to noon.
+* New Accessibility Feature: Disable Fog. If you do not wish to see the ambient fog, you can disable it in the video options.
+* New Accessibility Feature: Cooldown Counters. Enable this to see a numeric countdown on your skills on the quickbar.
+* New Accessibility Feature: Auto-Pick Up Radius can now be increased or reduced from its default setting.
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Shattered Realm]
 
-    A new Eternal Waystone has been added that can take you up to Shard 90 with rewards. Existing Deathly Waystones and blueprint have been converted to this waystone. A new Deathly Waystone is available upon beating Shard 95 or higher, but any previously unlocked shards are retained.
-    Shrines have been redesigned with powerful new, but temporary blessings, all of which boost your Maximum Movement Speed for their duration. These blessings no longer carry any penalties. Shrine offerings have been updated.
-    Increased monster % Crit damage by 5% on Ultimate difficulty
-    The “A Done Deal” achievement now requires you to interact with each of the Shattered Realm’s shrines at least once, rather than having all 5 effects active at the same time.
-    The Bonebleach special map has been disabled. It may return in the future after some much needed maintenance.
+* A new Eternal Waystone has been added that can take you up to Shard 90 with rewards. Existing Deathly Waystones and blueprint have been converted to this waystone. A new Deathly Waystone is available upon beating Shard 95 or higher, but any previously unlocked shards are retained.
+* Shrines have been redesigned with powerful new, but temporary blessings, all of which boost your Maximum Movement Speed for their duration. These blessings no longer carry any penalties. Shrine offerings have been updated.
+* Increased monster % Crit damage by 5% on Ultimate difficulty
+* The “A Done Deal” achievement now requires you to interact with each of the Shattered Realm’s shrines at least once, rather than having all 5 effects active at the same time.
+* The Bonebleach special map has been disabled. It may return in the future after some much needed maintenance.
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Crucible]
 
-    Waves 150-170 now have 6 mutators as a positive player mutator is now always rolled for the 5th mutator.
-    Increased monster % Crit damage by 5% on Gladiator difficulty
-    Reduced Tribute penalty for failing the event, particularly if failing after using a checkpoint.
-    The Tribute cap has been increased to 150.
-    Spawn areas no longer grant a movement speed buff to monsters.
-    Nullification has been re-enabled in the Crucible, at a reduced duration. Loxmere Nightmage’s nullification remains disabled as it is an instant effect that cannot be dodged.
+* Waves 150-170 now have 6 mutators as a positive player mutator is now always rolled for the 5th mutator.
+* Increased monster % Crit damage by 5% on Gladiator difficulty
+* Reduced Tribute penalty for failing the event, particularly if failing after using a checkpoint.
+* The Tribute cap has been increased to 150.
+* Spawn areas no longer grant a movement speed buff to monsters.
+* Nullification has been re-enabled in the Crucible, at a reduced duration. Loxmere Nightmage’s nullification remains disabled as it is an instant effect that cannot be dodged.
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Modding]
 
-    The world map size limit has been increased from 2gb to 4gb. This should dramatically increase the size of mod maps you can create, but be aware that Crate will be using up some of that new space if you plan on modding the campaign map.
-    The console now logs lua errors in custom games.
-    Faction Slots have been expanded to 40. Note that Crate will be using these up through 18 in the near future, who can say beyond that. So plan accordingly!
-    Localization has been integrated into the game data. You can alter localizations within your mods by overwriting and updating those files.
+* The world map size limit has been increased from 2gb to 4gb. This should dramatically increase the size of mod maps you can create, but be aware that Crate will be using up some of that new space if you plan on modding the campaign map.
+* The console now logs lua errors in custom games.
+* Faction Slots have been expanded to 40. Note that Crate will be using these up through 18 in the near future, who can say beyond that. So plan accordingly!
+* Localization has been integrated into the game data. You can alter localizations within your mods by overwriting and updating those files.
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Tech]
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Game]
 
-    A new monster mechanic has been added: Sundered. Some monsters, and many bosses, can now Sunder your defenses, causing you to take X% additional damage for Y seconds. Most monsters and bosses that previously reduced your Resists with their abilities now use this mechanic instead. Multiple instances of Sundered do not stack, only the strongest effect is active.
-    All mutators no longer have negative effects. Many mutators have been redesigned. Monster mutators that granted resistances no longer do so. Positive player mutators are now rolled for the 2nd and 5th mutators.
-    Challenge areas have had their loot quality and difficulty increased.
-    Reduced the minimum chance to hit to 55%, from 60%, this is an indirect buff to Defensive Ability stacking.
-    Hero Monster Archetypes (ex. Burning/Swift/etc) have had their special abilities updated/buffed. The most dangerous hero archetypes now have more prominent visuals to distinguish their presence.
-    Bounty Hero monsters that use a Hero Archetype now correctly include their archetype in their name.
-    Many vanilla Grim Dawn monsters have received a bump to their various abilities to bring them up to speed to modern standards.
-    Reduced Monster Physical damage on Ultimate difficulty.
-    Many monster special attacks have had their animation speeds reduced.
-    Monsters with charge abilities are now significantly slower when charging.
-    Increased Monster % Life Leech Resist. This makes % Attack damage Converted to Health less effective. On Ultimate difficulty, this is roughly a 30% reduction against an average boss. Defensive/healing abilities and Devotions have received a buff to compensate for this change.
-    Wendigo-type monsters have had their zoomies reined in and no longer approach you at the speed of sound.
-    Monster health now scales more appropriately in Multiplayer. Mutators that affect monster health are now more clear as to how much % Health they provide.
-    Removed Defense against pets from Celestial bosses and reduced their damage bonus against them.
-    Tripled the rate of infamy gain with the Outcast faction when choosing to be hostile.
-    Doubled the rate of fame/infamy gained with Kymon’s Chosen and the Order of Death’s Vigil.
-    Pets now default to an Aggressive stance rather than the Normal stance. This setting can still be toggled on a pet by pet basis as desired.
+* A new monster mechanic has been added: Sundered. Some monsters, and many bosses, can now Sunder your defenses, causing you to take X% additional damage for Y seconds. Most monsters and bosses that previously reduced your Resists with their abilities now use this mechanic instead. Multiple instances of Sundered do not stack, only the strongest effect is active.
+* All mutators no longer have negative effects. Many mutators have been redesigned. Monster mutators that granted resistances no longer do so. Positive player mutators are now rolled for the 2nd and 5th mutators.
+* Challenge areas have had their loot quality and difficulty increased.
+* Reduced the minimum chance to hit to 55%, from 60%, this is an indirect buff to Defensive Ability stacking.
+* Hero Monster Archetypes (ex. Burning/Swift/etc) have had their special abilities updated/buffed. The most dangerous hero archetypes now have more prominent visuals to distinguish their presence.
+* Bounty Hero monsters that use a Hero Archetype now correctly include their archetype in their name.
+* Many vanilla Grim Dawn monsters have received a bump to their various abilities to bring them up to speed to modern standards.
+* Reduced Monster Physical damage on Ultimate difficulty.
+* Many monster special attacks have had their animation speeds reduced.
+* Monsters with charge abilities are now significantly slower when charging.
+* Increased Monster % Life Leech Resist. This makes % Attack damage Converted to Health less effective. On Ultimate difficulty, this is roughly a 30% reduction against an average boss. Defensive/healing abilities and Devotions have received a buff to compensate for this change.
+* Wendigo-type monsters have had their zoomies reined in and no longer approach you at the speed of sound.
+* Monster health now scales more appropriately in Multiplayer. Mutators that affect monster health are now more clear as to how much % Health they provide.
+* Removed Defense against pets from Celestial bosses and reduced their damage bonus against them.
+* Tripled the rate of infamy gain with the Outcast faction when choosing to be hostile.
+* Doubled the rate of fame/infamy gained with Kymon’s Chosen and the Order of Death’s Vigil.
+* Pets now default to an Aggressive stance rather than the Normal stance. This setting can still be toggled on a pet by pet basis as desired.
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Itemization]
 
-    Reduced Cooldown and increased Range of all Movement Skills granted by Runes. Damage has been adjusted accordingly for skills that deal damage.
-    Max sell price has been reduced at merchants, but Iron Bits drops have been increased to compensate.
-    Further increased loot drop weights for affixes that match the base item’s damage type (ie. Fire affixes are more likely to roll on baseline Fire items).
-    Tonics of Clarity and Tonics of Tonic of Reshaping no longer drop as loot. They can now be crafted by Celestial Smiths.
-    All Rare Mastery and Mastery Combination Prefixes have been redesigned for general use rather than winning the skill bonus lottery.
-    Magic Mastery Prefixes have been removed from the loot pool. New items will no longer roll them. Instead, Caster weapons and Off-hands can now roll % Offensive Ability, % Defensive Ability, and % Spirit prefixes.
-    % Resistance Magic Prefixes that offer 2 of the 3 % Elemental Resistances (ex. Fire + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling % Elemental Resistance to compensate.
-    % Resistance Magic Prefixes that offer % Pierce or % Poison with a combination of 1 % Elemental Resist (ex. Pierce + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling the % Pierce + % Poison Resistance pair to compensate.
-    Health Regeneration Magic Suffixes have been removed from the loot pool.
-    % Armor Magic Prefixes have been removed from the loot pool.
-    Magic Prefix - Adamant: increased % Shield Damage Blocked to 40%
-    Magic Prefix - Staunch: increased % Shield Damage Blocked to 30%
-    Rare Prefix - Bloodletter: added % Chaos Resist
-    Rare Suffix - Arcane Blaze (off-hands): added % Spirit
-    Rare Suffix - Cabal (off-hands): added Health
-    Rare Suffix - Celestial Wrath (off-hands): added % Spirit
-    Rare Suffix - Corruption (off-hands): added % Poison Duration
-    Rare Suffix - Death’s Chill (off-hands): added % Frostburn Duration
-    Rare Suffix - Fallen Skies (off-hands): added % Spirit
-    Rare Suffix - Flamecaller (off-hands): added % Burn Duration
-    Rare Suffix - Shattered Reality (off-hands): added Health
-    Rare Suffix - Solael’s Malice (off-hands): added % Vitality Decay Duration
-    Rare Suffix - Tormented Souls (off-hands): added % Cast Speed
-    Rare Suffix - Voidfire (off-hands): added % Cast Speed
+* Reduced Cooldown and increased Range of all Movement Skills granted by Runes. Damage has been adjusted accordingly for skills that deal damage.
+* Max sell price has been reduced at merchants, but Iron Bits drops have been increased to compensate.
+* Further increased loot drop weights for affixes that match the base item’s damage type (ie. Fire affixes are more likely to roll on baseline Fire items).
+* Tonics of Clarity and Tonics of Tonic of Reshaping no longer drop as loot. They can now be crafted by Celestial Smiths.
+* All Rare Mastery and Mastery Combination Prefixes have been redesigned for general use rather than winning the skill bonus lottery.
+* Magic Mastery Prefixes have been removed from the loot pool. New items will no longer roll them. Instead, Caster weapons and Off-hands can now roll % Offensive Ability, % Defensive Ability, and % Spirit prefixes.
+* % Resistance Magic Prefixes that offer 2 of the 3 % Elemental Resistances (ex. Fire + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling % Elemental Resistance to compensate.
+* % Resistance Magic Prefixes that offer % Pierce or % Poison with a combination of 1 % Elemental Resist (ex. Pierce + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling the % Pierce + % Poison Resistance pair to compensate.
+* Health Regeneration Magic Suffixes have been removed from the loot pool.
+* % Armor Magic Prefixes have been removed from the loot pool.
+* Magic Prefix - Adamant: increased % Shield Damage Blocked to 40%
+* Magic Prefix - Staunch: increased % Shield Damage Blocked to 30%
+* Rare Prefix - Bloodletter: added % Chaos Resist
+* Rare Suffix - Arcane Blaze (off-hands): added % Spirit
+* Rare Suffix - Cabal (off-hands): added Health
+* Rare Suffix - Celestial Wrath (off-hands): added % Spirit
+* Rare Suffix - Corruption (off-hands): added % Poison Duration
+* Rare Suffix - Death’s Chill (off-hands): added % Frostburn Duration
+* Rare Suffix - Fallen Skies (off-hands): added % Spirit
+* Rare Suffix - Flamecaller (off-hands): added % Burn Duration
+* Rare Suffix - Shattered Reality (off-hands): added Health
+* Rare Suffix - Solael’s Malice (off-hands): added % Vitality Decay Duration
+* Rare Suffix - Tormented Souls (off-hands): added % Cast Speed
+* Rare Suffix - Voidfire (off-hands): added % Cast Speed
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Faction Equipment
 
-    Ateph’s Command: replaced % Stun Resist with 8% Increased Healing
-    Bloodborer: removed Increased Cooldown modifier for Vire’s Might and increased Bleed damage modifier for Storm Spread to 220 / 3s
-    Cairn’s Hope: replaced % Constitution with 3% Health
-    Howl of the Wendigo: added 18% Cast Speed and increased its Vitality damage modifier for Blade Arc to 200
-    Venomfire: removed Duration modifier for Ravenous Earth
-    Wendigo Lifescent Powder: increased % Health to 4% and removed % Constitution
-    Word of Solael: added 45% of Acid dealt as Vitality
+* Ateph’s Command: replaced % Stun Resist with 8% Increased Healing
+* Bloodborer: removed Increased Cooldown modifier for Vire’s Might and increased Bleed damage modifier for Storm Spread to 220 / 3s
+* Cairn’s Hope: replaced % Constitution with 3% Health
+* Howl of the Wendigo: added 18% Cast Speed and increased its Vitality damage modifier for Blade Arc to 200
+* Venomfire: removed Duration modifier for Ravenous Earth
+* Wendigo Lifescent Powder: increased % Health to 4% and removed % Constitution
+* Word of Solael: added 45% of Acid dealt as Vitality
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Relics
 
-    All Relic Blueprints have been greatly simplified. Relics tiers now follow a linear progression that your character might logically use on their journey to level 100. Some relics had their stats adjusted to accommodate this progression.
-    Belgothian’s Carnage: added 65% Bleed damage
-    Terror: added +1 to Occultist Skills and updated crafting bonuses
-    Desolation: added +1 to Shaman Skills and updated crafting bonuses, removed % Lightning Resist
+* All Relic Blueprints have been greatly simplified. Relics tiers now follow a linear progression that your character might logically use on their journey to level 100. Some relics had their stats adjusted to accommodate this progression.
+* Belgothian’s Carnage: added 65% Bleed damage
+* Terror: added +1 to Occultist Skills and updated crafting bonuses
+* Desolation: added +1 to Shaman Skills and updated crafting bonuses, removed % Lightning Resist
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Monster Infrequents
 
-    Aetherwarped Cleaver: replaced bonus to Belgothian’s Shears with +2 to Deadly Momentum
-    Ascendant Source: increased Duration modifier for Sigil of Consumption to +6s
-    Bargoll’s Core: replaced % Cooldown Reduction with Defensive Ability
-    Boneslicer: replaced % Crit damage with 4% Cooldown Reduction and increased bonuses to Judgment and Blood Pact to +3. Increased Bleed damage modifier for Wendigo Totem to 140 / 2s.
-    Fleshwarped Tome: increased Aether damage modifiers for Albrecht’s Aether Ray and Sigil of Consumption to 60 and 140, respectively
-    Gargoyle Visage: added 15% Attack damage Converted to Health modifier for Feral Hunger
-    Grundleplith’s Tail: increased bonus to Fighting Spirit to +3
-    Korvaak’s Burning-Blade: added 100% of Vitality dealt as Fire for pets
-    Korvan Burning Halberd: increased Targets modifier for Smite to +5
-    Korvan Eldritch Halberd: increased Targets modifier for Smite to +5
-    Malkadarr’s Dreadblade: reduced Cold damage modifier for Necrotic Edge to 110 and added +2 Targets modifier for it
-    Night Herald: added 6% Physical Resist modifier for Star Pact
-    Obsidian War Cleaver: reduced % Weapon damage modifier for Forcewave to 40%
-    Packla’s Visage: added 80 Bleed damage / 1s modifier for Siphon Souls
-    Pit Master’s Axe: replaced bonus and modifiers for Blade Arc with support for Ring of Steel
-    Pulsing Shard: added % Vitality damage
-    Pusquill’s Tail: added modifiers for Execution
-    Rag’Nadar’s Maw: added -0.5s Cooldown modifier for Sigil of Consumption
-    Riftclaw Slicer: increased bonuses to Eye of Reckoning and Soul Harvest to +3. Added 100% of Aether dealt as Fire and 34 Fire damage modifiers for Spectral Binding.
-    Salazar’s Sovereign Blade: replaced % Cooldown Reduction with Defensive Ability
-    Shambler’s Heart: reduced Physical damage modifier for Forcewave to 70
-    Spectral Bludgeon: has been reclassified as a Scepter for the purpose of affixes it can roll with, base values updated accordingly. Added -8% Cold Resist Reduction modifier for Olexra’s Flash Freeze.
-    Ugdenbog Bilelauncher: removed % Weapon damage modifier for Amarasta’s Blade Burst and reduced its Cooldown modifier to -0.6s
-    Ugdenbog Stormstrife: added +1 Summon Burst modifier for Storm Totem
-    Viper Sandspitter: reduced % Weapon damage modifier for Zolhan’s Technique to 20%
-    Wendigo Barb: increased bonus to Blood of Dreeg to +3 and added 50% of Aether dealt as Acid
-    Wendigo Claw: increased Bleed damage modifiers for Devouring Swarm and Markovian’s Advantage to 140 / 1s and 210 / 5s, respectively and increased % Bleed Resist Reduction modifier for Devouring Swarm to -12%
+* Aetherwarped Cleaver: replaced bonus to Belgothian’s Shears with +2 to Deadly Momentum
+* Ascendant Source: increased Duration modifier for Sigil of Consumption to +6s
+* Bargoll’s Core: replaced % Cooldown Reduction with Defensive Ability
+* Boneslicer: replaced % Crit damage with 4% Cooldown Reduction and increased bonuses to Judgment and Blood Pact to +3. Increased Bleed damage modifier for Wendigo Totem to 140 / 2s.
+* Fleshwarped Tome: increased Aether damage modifiers for Albrecht’s Aether Ray and Sigil of Consumption to 60 and 140, respectively
+* Gargoyle Visage: added 15% Attack damage Converted to Health modifier for Feral Hunger
+* Grundleplith’s Tail: increased bonus to Fighting Spirit to +3
+* Korvaak’s Burning-Blade: added 100% of Vitality dealt as Fire for pets
+* Korvan Burning Halberd: increased Targets modifier for Smite to +5
+* Korvan Eldritch Halberd: increased Targets modifier for Smite to +5
+* Malkadarr’s Dreadblade: reduced Cold damage modifier for Necrotic Edge to 110 and added +2 Targets modifier for it
+* Night Herald: added 6% Physical Resist modifier for Star Pact
+* Obsidian War Cleaver: reduced % Weapon damage modifier for Forcewave to 40%
+* Packla’s Visage: added 80 Bleed damage / 1s modifier for Siphon Souls
+* Pit Master’s Axe: replaced bonus and modifiers for Blade Arc with support for Ring of Steel
+* Pulsing Shard: added % Vitality damage
+* Pusquill’s Tail: added modifiers for Execution
+* Rag’Nadar’s Maw: added -0.5s Cooldown modifier for Sigil of Consumption
+* Riftclaw Slicer: increased bonuses to Eye of Reckoning and Soul Harvest to +3. Added 100% of Aether dealt as Fire and 34 Fire damage modifiers for Spectral Binding.
+* Salazar’s Sovereign Blade: replaced % Cooldown Reduction with Defensive Ability
+* Shambler’s Heart: reduced Physical damage modifier for Forcewave to 70
+* Spectral Bludgeon: has been reclassified as a Scepter for the purpose of affixes it can roll with, base values updated accordingly. Added -8% Cold Resist Reduction modifier for Olexra’s Flash Freeze.
+* Ugdenbog Bilelauncher: removed % Weapon damage modifier for Amarasta’s Blade Burst and reduced its Cooldown modifier to -0.6s
+* Ugdenbog Stormstrife: added +1 Summon Burst modifier for Storm Totem
+* Viper Sandspitter: reduced % Weapon damage modifier for Zolhan’s Technique to 20%
+* Wendigo Barb: increased bonus to Blood of Dreeg to +3 and added 50% of Aether dealt as Acid
+* Wendigo Claw: increased Bleed damage modifiers for Devouring Swarm and Markovian’s Advantage to 140 / 1s and 210 / 5s, respectively and increased % Bleed Resist Reduction modifier for Devouring Swarm to -12%
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Epic Items
 
-    Chains of Anguish: reduced Cooldown and Duration on the skill proc and added a Retaliation damage penalty to it
-    Core of Gargabol: increased % Vitality dealt as Fire to 50%
-    Daega’s Oath Set: reduced Acid Retaliation damage on the skill proc
-    Daega’s Hood: reduced Acid Retaliation damage to 220
-    Daega’s Mantle: reduced Acid Retaliation damage to 220
-    Daega’s Raiment: reduced Acid Retaliation damage to 220
+* Chains of Anguish: reduced Cooldown and Duration on the skill proc and added a Retaliation damage penalty to it
+* Core of Gargabol: increased % Vitality dealt as Fire to 50%
+* Daega’s Oath Set: reduced Acid Retaliation damage on the skill proc
+* Daega’s Hood: reduced Acid Retaliation damage to 220
+* Daega’s Mantle: reduced Acid Retaliation damage to 220
+* Daega’s Raiment: reduced Acid Retaliation damage to 220
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Legendary Non-Set Items
 
-    Amarastan Crusher: removed % Damage Modified penalty modifier for Amarasta’s Blade Burst
-    Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Skill proc now has a 100% chance to Slow.
-    Chillflame Evoker: bonuses redesigned
-    Conduit of Arcane Whispers: removed % Freeze Resist Reduction modifier for Olexra’s Flash Freeze and increased its % Resist Reduction modifiers to -20%. increased damage and % Damage Reduction on the pierce variant of Albrecht’s Aether Ray.
-    Conduit of Destructive Whispers: added 100% of Pierce dealt as Acid modifier for acid variant of Canister Bomb and increased its Poison damage to 600 / 5s
-    Corruption of Gargabol: increased Vitality damage modifier for Thermite Mine to 120
-    Hellscourge: added +4s Duration modifier for Sigil of Consumption
-    Herald of the Apocalypse: reduced Cooldown on the granted skill
-    Mythical Anderos’ Amplifier: increased Fire damage modifier for Mortar Trap to 100
-    Mythical Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Increased damage on the Skill proc and it now has a 100% chance to Slow. Removed bonuses to Rune of Hagarrad and Righteous Fervor. Removed Cold damage modifiers for Iskandra’s Elemental Exchange and Veil of Shadow. Added 60% Cold damage modifier for Iskandra’s Elemental Exchange and a 70 Cold damage modifier for Olexra’s Flash Freeze.
-    Mythical Bramblevine: reduced % Retaliation added to Attack modifier for Grasping Vines to 5%
-    Mythical Brutallax: increased Pierce damage modifier for Savagery to 44 and its Bleed damage modifier to 120 / 3s. Added 20% Increased Healing modifier for Presence of Virtue.
-    Mythical Bloodsong: increased Bleed damage modifiers for Belgothian’s Shears, Blade Arc and Whirling Death to 210 / 3s, 170 / 3s and 170 / 3s, respectively.
-    Mythical Celestial Stone of Halakor: added +1 Summon Burst modifier for Storm Totem
-    Mythical Chillflame Evoker: bonuses redesigned
-    Mythical Cinderscorn: replaced bonus to Inferno with +3 to Flame Touched. Replaced modifiers for Vindictive Flame with modifiers for Flame Touched.
-    Mythical Codex of Truths: added +1 Summon Burst modifier for Mortar Trap
-    Mythical Codex of Violent Rifts: added 100% of Fire dealt as Chaos modifier for Judgment
-    Mythical Deathdealer’s Sidearm: reduced Physical damage modifiers for Reaping Strike and Smite to 140 and 110, respectively
-    Mythical Grim Fate: added +1s Duration modifier for Sigil of Consumption and increased Fire damage modifier for Thermite Mine to 90
-    Mythical Gutripper: added -0.4s Cooldown modifier for Vire’s Might
-    Mythical Hagarradian Enforcer: replaced bonus to Shattering Blast with +1 to Inquisitor Skills and added 45% of Acid dealt as Cold. Increased damage and added % Damage Reduction to the skill proc.
-    Mythical Havoc: reduced Physical damage modifiers for Chilling Rounds and Markovian’s Advantage to 60
-    Mythical Herald of Blazing Ends: added 45% of Vitality dealt as Fire and increased Fire damage modifier for Blackwater Cocktail to 20
-    Mythical Herald of the Apocalypse: reduced Cooldown on the granted skill
-    Mythical Mask of Infernal Truth: added +1 Summon Burst modifier for Mortar Trap
-    Mythical Night’s Embrace: added +2 to Nightfall and increased bonus to Trozan’s Sky Shard to +3
-    Mythical Oathbearer: reduced % Weapon damage modifier for Righteous Fervor to 14%
-    Mythical Quillthrower of Dreeg: added 50% Pierce dealt as Acid, for real this time
-    Mythical Riftwarped Grasp: increased Vitality damage modifier for Drain Essence to 110
-    Mythical Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 23 Acid damage. Increased % Retaliation added to Attack modifier for Necrotic Edge to 34%. and added a 34% Retaliation added to Attack modifier for Execution.
-    Mythical Soulcatcher: increased Chaos damage modifier for Ravenous Earth to 100 and removed its Duration modifier. Added -0.6s Cooldown modifier for Sigil of Consumption.
-    Mythical Soullance: reduced % Damage Absorption modifier for Mark of Torment to 12%
-    Mythical Warpfire: increased % Aether damage to match % Fire damage, for real this time
-    Nightclaw: increased Bleed damage modifier for Cadence to 160 / 2s
-    Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 16 Acid damage.
-    Shard of the Eternal Flame: reduced Fire damage modifier for Forcewave to 80
+* Amarastan Crusher: removed % Damage Modified penalty modifier for Amarasta’s Blade Burst
+* Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Skill proc now has a 100% chance to Slow.
+* Chillflame Evoker: bonuses redesigned
+* Conduit of Arcane Whispers: removed % Freeze Resist Reduction modifier for Olexra’s Flash Freeze and increased its % Resist Reduction modifiers to -20%. increased damage and % Damage Reduction on the pierce variant of Albrecht’s Aether Ray.
+* Conduit of Destructive Whispers: added 100% of Pierce dealt as Acid modifier for acid variant of Canister Bomb and increased its Poison damage to 600 / 5s
+* Corruption of Gargabol: increased Vitality damage modifier for Thermite Mine to 120
+* Hellscourge: added +4s Duration modifier for Sigil of Consumption
+* Herald of the Apocalypse: reduced Cooldown on the granted skill
+* Mythical Anderos’ Amplifier: increased Fire damage modifier for Mortar Trap to 100
+* Mythical Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Increased damage on the Skill proc and it now has a 100% chance to Slow. Removed bonuses to Rune of Hagarrad and Righteous Fervor. Removed Cold damage modifiers for Iskandra’s Elemental Exchange and Veil of Shadow. Added 60% Cold damage modifier for Iskandra’s Elemental Exchange and a 70 Cold damage modifier for Olexra’s Flash Freeze.
+* Mythical Bramblevine: reduced % Retaliation added to Attack modifier for Grasping Vines to 5%
+* Mythical Brutallax: increased Pierce damage modifier for Savagery to 44 and its Bleed damage modifier to 120 / 3s. Added 20% Increased Healing modifier for Presence of Virtue.
+* Mythical Bloodsong: increased Bleed damage modifiers for Belgothian’s Shears, Blade Arc and Whirling Death to 210 / 3s, 170 / 3s and 170 / 3s, respectively.
+* Mythical Celestial Stone of Halakor: added +1 Summon Burst modifier for Storm Totem
+* Mythical Chillflame Evoker: bonuses redesigned
+* Mythical Cinderscorn: replaced bonus to Inferno with +3 to Flame Touched. Replaced modifiers for Vindictive Flame with modifiers for Flame Touched.
+* Mythical Codex of Truths: added +1 Summon Burst modifier for Mortar Trap
+* Mythical Codex of Violent Rifts: added 100% of Fire dealt as Chaos modifier for Judgment
+* Mythical Deathdealer’s Sidearm: reduced Physical damage modifiers for Reaping Strike and Smite to 140 and 110, respectively
+* Mythical Grim Fate: added +1s Duration modifier for Sigil of Consumption and increased Fire damage modifier for Thermite Mine to 90
+* Mythical Gutripper: added -0.4s Cooldown modifier for Vire’s Might
+* Mythical Hagarradian Enforcer: replaced bonus to Shattering Blast with +1 to Inquisitor Skills and added 45% of Acid dealt as Cold. Increased damage and added % Damage Reduction to the skill proc.
+* Mythical Havoc: reduced Physical damage modifiers for Chilling Rounds and Markovian’s Advantage to 60
+* Mythical Herald of Blazing Ends: added 45% of Vitality dealt as Fire and increased Fire damage modifier for Blackwater Cocktail to 20
+* Mythical Herald of the Apocalypse: reduced Cooldown on the granted skill
+* Mythical Mask of Infernal Truth: added +1 Summon Burst modifier for Mortar Trap
+* Mythical Night’s Embrace: added +2 to Nightfall and increased bonus to Trozan’s Sky Shard to +3
+* Mythical Oathbearer: reduced % Weapon damage modifier for Righteous Fervor to 14%
+* Mythical Quillthrower of Dreeg: added 50% Pierce dealt as Acid, for real this time
+* Mythical Riftwarped Grasp: increased Vitality damage modifier for Drain Essence to 110
+* Mythical Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 23 Acid damage. Increased % Retaliation added to Attack modifier for Necrotic Edge to 34%. and added a 34% Retaliation added to Attack modifier for Execution.
+* Mythical Soulcatcher: increased Chaos damage modifier for Ravenous Earth to 100 and removed its Duration modifier. Added -0.6s Cooldown modifier for Sigil of Consumption.
+* Mythical Soullance: reduced % Damage Absorption modifier for Mark of Torment to 12%
+* Mythical Warpfire: increased % Aether damage to match % Fire damage, for real this time
+* Nightclaw: increased Bleed damage modifier for Cadence to 160 / 2s
+* Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 16 Acid damage.
+* Shard of the Eternal Flame: reduced Fire damage modifier for Forcewave to 80
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 Legendary Set Items
 
-    Barrelsmith’s Crossfire: replaced % Attack Speed with 7% Total Speed
-    Barrelsmith’s Salvo: replaced % Attack Speed with 7% Total Speed
-    Barrelsmith’s Destroyers Set: increased duration of Energy Leech on the granted skill
-    Black Scorch Covenant: increased Duration modifier for Sigil of Consumption to +4s
-    Mythical Barrelsmith’s Crossfire: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
-    Mythical Barrelsmith’s Salvo: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
-    Ludrigan’s Pride Set: added +2 Summon Burst modifier for Storm Totem
-    Blightlord’s Carver: increased bonuses to Blackwater Cocktail and Ravenous Earth to +3
-    Darkblaze Garb Set: added 30% of Fire dealt as Chaos
-    Darkblaze Source: removed Conversion. Increased damage and added % Slow to the granted skill.
-    Ghol’s Malice Set: increased Acid and Poison damage for pets to 40 and 40 / 5s, respectively, and increased damage and % Poison Resist Reduction on the summoned pet
-    Ghol’s Reach: increased damage on the summoned pets
-    Goredrinker Set: increased % Increased Healing bonus to 40%. Replaced Pierce damage modifier for Cadence with 60% Weapon damage modifier for it and increased its Bleed damage modifier to 280 / 2s. Increased Bleed damage modifier for Vire’s Might to 440 / 3s.
-    Goredrinker’s Mask: added -0.4s Cooldown modifier for Vire’s Might
-    Goredrinker’s Ward: increased Pierce damage modifier for Cadence to 110
-    Justicar Guard Set: reduced Fire damage modifier for Forcewave to 80
-    Mythical Handguards of Justice: reduced Fire damage modifier for Forcewave to 70
-    Light’s Guardian Set: added +1 Summon Burst modifier for Storm Totem
-    Nature’s Avenger Set: reduced Health Regeneration and % Health Regeneration on the skill proc
-    Pyran’s Ruminations Set: increased Health Regeneration bonus to 150. Increased damage on the granted skill and added % Damage Reduction to it. Increased Fire damage modifier for Mortar Trap to 120 and its Burn damage modifier to 250 / 3s.
-    Pyran’s Visage: added +2 Summon Burst modifier for Mortar Trap
-    Radaggan’s Mask: reduced % Damage Absorption modifier for Mark of Torment to 6%
-    Rimetongue Set: reduced % Trap Resist Reduction modifier for Blade Trap to -15%
-    Targo’s Craft Set: reduced Physical damage modifier for Amarasta’s Blade Burst to 300
-    Targo’s Helm: reduced Physical damage modifier for Amarasta’s Blade Burst to 90
-    The Clairvoyant’s Focus Set: increased Aether damage modifier for Doom Bolt to 400
-    Mythical Clairvoyant’s Hat: increased Vitality Decay modifier for Reap Spirit to 300 / 5s
-    Mythical Clairvoyant’s Mantle: added +3 to Spectral Wrath
-    Mythical Clairvoyant’s Robe: increased bonus to Disintegration to +3
-    Mythical Clairvoyant’s Wand: increased Radius modifier for Doom Bolt to +2. Increased Aether damage modifiers for Albrecht’s Aether Ray and Reap Spirit to 70 and 400, respectively. Increased Heal on the skill proc.
-    The Infernal Champion Set: replaced bonus to Thermite Mine with +3 to Demon Fire and increased % Total Speed bonus to 16%. Added 220 Fire damage modifier for Judgment.
-    Mythical Infernal Knight’s Faceguard: increased Burn damage modifier for Judgment to 175 / 2s
-    Mythical Infernal Knight’s Girdle: replaced % Cast Speed with 74 Defensive Ability
-    Mythical Infernal Knight’s Jacket: replaced bonus to Thermite Mine with +2 to Demon Fire
-    The Infernal Knight Set: replaced bonus to Thermite Mine with +3 to Demon Fire and increased % Total Speed bonus to 10%
-    Infernal Knight’s Girdle: replaced % Cast Speed with 42 Defensive Ability
-    Infernal Knight’s Jacket: replaced bonus to Thermite Mine with +2 to Demon Fire
-    The Mageslayer Set: reduced % Freeze Resist Reduction modifier for Olexra’s Flash Freeze to -15%
-    Trozan’s Skybreak Set: increased Defensive Ability bonus to 140
-    Veilkeeper’s Armor: increased Health Regeneration to 38
-    Veilkeeper’s Crest: increased Health Regeneration to 80
-    Veilkeeper’s Mantle: increased Health Regeneration to 38
-    Veilkeeper’s Mask: increased Health Regeneration to 38
+* Barrelsmith’s Crossfire: replaced % Attack Speed with 7% Total Speed
+* Barrelsmith’s Salvo: replaced % Attack Speed with 7% Total Speed
+* Barrelsmith’s Destroyers Set: increased duration of Energy Leech on the granted skill
+* Black Scorch Covenant: increased Duration modifier for Sigil of Consumption to +4s
+* Mythical Barrelsmith’s Crossfire: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
+* Mythical Barrelsmith’s Salvo: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
+* Ludrigan’s Pride Set: added +2 Summon Burst modifier for Storm Totem
+* Blightlord’s Carver: increased bonuses to Blackwater Cocktail and Ravenous Earth to +3
+* Darkblaze Garb Set: added 30% of Fire dealt as Chaos
+* Darkblaze Source: removed Conversion. Increased damage and added % Slow to the granted skill.
+* Ghol’s Malice Set: increased Acid and Poison damage for pets to 40 and 40 / 5s, respectively, and increased damage and % Poison Resist Reduction on the summoned pet
+* Ghol’s Reach: increased damage on the summoned pets
+* Goredrinker Set: increased % Increased Healing bonus to 40%. Replaced Pierce damage modifier for Cadence with 60% Weapon damage modifier for it and increased its Bleed damage modifier to 280 / 2s. Increased Bleed damage modifier for Vire’s Might to 440 / 3s.
+* Goredrinker’s Mask: added -0.4s Cooldown modifier for Vire’s Might
+* Goredrinker’s Ward: increased Pierce damage modifier for Cadence to 110
+* Justicar Guard Set: reduced Fire damage modifier for Forcewave to 80
+* Mythical Handguards of Justice: reduced Fire damage modifier for Forcewave to 70
+* Light’s Guardian Set: added +1 Summon Burst modifier for Storm Totem
+* Nature’s Avenger Set: reduced Health Regeneration and % Health Regeneration on the skill proc
+* Pyran’s Ruminations Set: increased Health Regeneration bonus to 150. Increased damage on the granted skill and added % Damage Reduction to it. Increased Fire damage modifier for Mortar Trap to 120 and its Burn damage modifier to 250 / 3s.
+* Pyran’s Visage: added +2 Summon Burst modifier for Mortar Trap
+* Radaggan’s Mask: reduced % Damage Absorption modifier for Mark of Torment to 6%
+* Rimetongue Set: reduced % Trap Resist Reduction modifier for Blade Trap to -15%
+* Targo’s Craft Set: reduced Physical damage modifier for Amarasta’s Blade Burst to 300
+* Targo’s Helm: reduced Physical damage modifier for Amarasta’s Blade Burst to 90
+* The Clairvoyant’s Focus Set: increased Aether damage modifier for Doom Bolt to 400
+* Mythical Clairvoyant’s Hat: increased Vitality Decay modifier for Reap Spirit to 300 / 5s
+* Mythical Clairvoyant’s Mantle: added +3 to Spectral Wrath
+* Mythical Clairvoyant’s Robe: increased bonus to Disintegration to +3
+* Mythical Clairvoyant’s Wand: increased Radius modifier for Doom Bolt to +2. Increased Aether damage modifiers for Albrecht’s Aether Ray and Reap Spirit to 70 and 400, respectively. Increased Heal on the skill proc.
+* The Infernal Champion Set: replaced bonus to Thermite Mine with +3 to Demon Fire and increased % Total Speed bonus to 16%. Added 220 Fire damage modifier for Judgment.
+* Mythical Infernal Knight’s Faceguard: increased Burn damage modifier for Judgment to 175 / 2s
+* Mythical Infernal Knight’s Girdle: replaced % Cast Speed with 74 Defensive Ability
+* Mythical Infernal Knight’s Jacket: replaced bonus to Thermite Mine with +2 to Demon Fire
+* The Infernal Knight Set: replaced bonus to Thermite Mine with +3 to Demon Fire and increased % Total Speed bonus to 10%
+* Infernal Knight’s Girdle: replaced % Cast Speed with 42 Defensive Ability
+* Infernal Knight’s Jacket: replaced bonus to Thermite Mine with +2 to Demon Fire
+* The Mageslayer Set: reduced % Freeze Resist Reduction modifier for Olexra’s Flash Freeze to -15%
+* Trozan’s Skybreak Set: increased Defensive Ability bonus to 140
+* Veilkeeper’s Armor: increased Health Regeneration to 38
+* Veilkeeper’s Crest: increased Health Regeneration to 80
+* Veilkeeper’s Mantle: increased Health Regeneration to 38
+* Veilkeeper’s Mask: increased Health Regeneration to 38
 
-Back to Table of Contents
+[Back to Table of Contents](#TOC)
 
 [Class & Skills]
 
-    Toggled buffs no longer have an energy upkeep. Some Energy Regeneration devotions have had their Energy Regeneration reduced and various Mastery abilities had their Energy Costs increased to compensate.
+* Toggled buffs no longer have an energy upkeep. Some Energy Regeneration devotions have had their Energy Regeneration reduced and various Mastery abilities had their Energy Costs increased to compensate.
 
 Devotion
 
-    Behemoth: increased Health Regeneration to 70 and % Health Regeneration to 80%
-    Candle: reduced Energy Regeneration to 2.5
-    Dryad: reduced Energy Regeneration to 1.0
-    Ghoul: increased Health Regeneration to 8 and % Health Regeneration to 30%
-    Harpy: reduced Energy Regeneration to 1.0
-    Harvestman’s Scythe: increased Health Regeneration to 50 and % Health Regeneration to 60%
-    Hyrian, Guardian of the Celestial Gates: increased % Shield Damage Blocked to 30%
-    Light of Empyrion: increased % Health to 20%
-    Lizard: increased Health Regeneration to 18 and % Health Regeneration to 40%
-    Mantis: reduced Energy Regeneration to 1.0
-    Raven: reduced Energy Regeneration to 1.0
-    Scales of Ulcama: reduced Energy Regeneration to 2.5 and incrased Health Regeneration to 30
-    Scarab: increased % Shield Damage Blocked to 16%
-    Tree of Life: increased Health Regeneration to 100 and % Health Regeneration to 120%
-    Vire, the Stone Matron: increased % Shield Damage Blocked to 30%
-    Arcane Barrier: increased Absorption scaling with rank
-    Cleansing Waters: increased Radius to 3.5
-    Dryad’s Blessing: increased Healing scaling with rank
-    Ghoulish Hunger: added % Increased Healing (Forgotten Gods only) and added % Cast Speed
-    Giant’s Blood: increased Duration and Health Regeneration scaling with rank
-    Healing Rain: increased Health Regeneration and % Health Regeneration scaling with rank
-    Inspiration: increased Defensive Ability scaling with rank
-    Phoenix Fire: increased Absorption scaling with rank
-    Shield Wall: increased base % Armor by 10%
-    Ulzaad’s Decree: increased Armor scaling with rank
-    Wayward Soul: increased Armor scaling with rank
+* Behemoth: increased Health Regeneration to 70 and % Health Regeneration to 80%
+* Candle: reduced Energy Regeneration to 2.5
+* Dryad: reduced Energy Regeneration to 1.0
+* Ghoul: increased Health Regeneration to 8 and % Health Regeneration to 30%
+* Harpy: reduced Energy Regeneration to 1.0
+* Harvestman’s Scythe: increased Health Regeneration to 50 and % Health Regeneration to 60%
+* Hyrian, Guardian of the Celestial Gates: increased % Shield Damage Blocked to 30%
+* Light of Empyrion: increased % Health to 20%
+* Lizard: increased Health Regeneration to 18 and % Health Regeneration to 40%
+* Mantis: reduced Energy Regeneration to 1.0
+* Raven: reduced Energy Regeneration to 1.0
+* Scales of Ulcama: reduced Energy Regeneration to 2.5 and incrased Health Regeneration to 30
+* Scarab: increased % Shield Damage Blocked to 16%
+* Tree of Life: increased Health Regeneration to 100 and % Health Regeneration to 120%
+* Vire, the Stone Matron: increased % Shield Damage Blocked to 30%
+* Arcane Barrier: increased Absorption scaling with rank
+* Cleansing Waters: increased Radius to 3.5
+* Dryad’s Blessing: increased Healing scaling with rank
+* Ghoulish Hunger: added % Increased Healing (Forgotten Gods only) and added % Cast Speed
+* Giant’s Blood: increased Duration and Health Regeneration scaling with rank
+* Healing Rain: increased Health Regeneration and % Health Regeneration scaling with rank
+* Inspiration: increased Defensive Ability scaling with rank
+* Phoenix Fire: increased Absorption scaling with rank
+* Shield Wall: increased base % Armor by 10%
+* Ulzaad’s Decree: increased Armor scaling with rank
+* Wayward Soul: increased Armor scaling with rank
 
 Soldier
 
-    Deadly Momentum: increased Duration to 5s
-    Fighting Spirit: reduced Cooldown and Duration to 5s
-    Forcewave: increased Physical damage scaling with rank
-    Rending Force: increased Physical damage scaling with rank
-    Markovian’s Advantage: increased base % Weapon damage by 15%
-    Menhir’s Bulwark: increased Health Regeneration and % Increased Healing scaling with rank
-    Menhir’s Will: increased % Heal and Health Regeneration scaling with rank
-    Overguard: increased base % Shield Damage Blocked and base % Health Regeneration to 50% and increased Energy Cost scaling with rank
-    Markovian’s Defense: reduced % Damage Modified penalty to -10%
-    Veterancy: increased Health Regeneration and % Health Regeneration scaling with rank
-    Zolhan’s Technique: increased base % Weapon damage by 20%
+* Deadly Momentum: increased Duration to 5s
+* Fighting Spirit: reduced Cooldown and Duration to 5s
+* Forcewave: increased Physical damage scaling with rank
+* Rending Force: increased Physical damage scaling with rank
+* Markovian’s Advantage: increased base % Weapon damage by 15%
+* Menhir’s Bulwark: increased Health Regeneration and % Increased Healing scaling with rank
+* Menhir’s Will: increased % Heal and Health Regeneration scaling with rank
+* Overguard: increased base % Shield Damage Blocked and base % Health Regeneration to 50% and increased Energy Cost scaling with rank
+* Markovian’s Defense: reduced % Damage Modified penalty to -10%
+* Veterancy: increased Health Regeneration and % Health Regeneration scaling with rank
+* Zolhan’s Technique: increased base % Weapon damage by 20%
 
 Demolitionist
 
-    Flashbang: increased Energy Cost scaling with rank
-    Mortar Trap: reduced Cooldown to 2.5s
-    Temper: increased Defensive Ability scaling with rank to 120 by rank 12, 220 by max ultimate rank
-    Vindictive Flame: increased Health Regeneration scaling with rank
+* Flashbang: increased Energy Cost scaling with rank
+* Mortar Trap: reduced Cooldown to 2.5s
+* Temper: increased Defensive Ability scaling with rank to 120 by rank 12, 220 by max ultimate rank
+* Vindictive Flame: increased Health Regeneration scaling with rank
 
 Occultist
 
-    Blood of Dreeg: reduced Cooldown to 12s and increased Duration to 60s. Increased Energy Cost and Health Regeneration scaling with rank. Increased % Heal at scaling at ultimate ranks.
-    Focused Gaze: increased % Physical Damage Reduction duration to 6s
-    Possession: increased % Absorption scaling with rank to 18% by rank 12, 25% by max ultimate rank
+* Blood of Dreeg: reduced Cooldown to 12s and increased Duration to 60s. Increased Energy Cost and Health Regeneration scaling with rank. Increased % Heal at scaling at ultimate ranks.
+* Focused Gaze: increased % Physical Damage Reduction duration to 6s
+* Possession: increased % Absorption scaling with rank to 18% by rank 12, 25% by max ultimate rank
 
 Nightblade
 
-    Amarasta’s Blade Burst: increased Animation Speed by 20% and significantly increased Cold damage scaling with rank, particularly at ultimate ranks
-    Lethal Assault: increased Duration to 8s
-    Amarasta’s Quick Cut: increased base % Weapon damage by 10%
-    Belgothian’s Shears: increased Animation Speed by 18% and increased base % Weapon damage by 15%
-    Blade Trap: added % Trap Resist Reduction scaling with rank, up to -40% by rank 12
-    Execution: increased base % Weapon damage by 30%
-    Pneumatic Burst: increased Duration to 60s. Increased Energy Cost, % Heal and Health Regeneration scaling with rank.
-    Breath of Belgothian: increased % Health Regeneration to 50%
-    Whirling Death: increased base % Weapon damage by 15%
+* Amarasta’s Blade Burst: increased Animation Speed by 20% and significantly increased Cold damage scaling with rank, particularly at ultimate ranks
+* Lethal Assault: increased Duration to 8s
+* Amarasta’s Quick Cut: increased base % Weapon damage by 10%
+* Belgothian’s Shears: increased Animation Speed by 18% and increased base % Weapon damage by 15%
+* Blade Trap: added % Trap Resist Reduction scaling with rank, up to -40% by rank 12
+* Execution: increased base % Weapon damage by 30%
+* Pneumatic Burst: increased Duration to 60s. Increased Energy Cost, % Heal and Health Regeneration scaling with rank.
+* Breath of Belgothian: increased % Health Regeneration to 50%
+* Whirling Death: increased base % Weapon damage by 15%
 
 Arcanist
 
-    Arcane Will: increased Defensive Ability scaling with rank to 250 by rank 10, 500 by max ultimate rank
-    Iskandra’s Elemental Exchange: reduced % Energy Regeneration scaling with rank to 60% by rank 12, 95% by max ultimate rank
-    Mirror of Ereoctes: increased Energy Cost scaling with rank
-    Olexra’s Flash Freeze: added % Freeze Resist Reduction scaling with rank, up to -40% by rank 12
-    Wrath of Agrivix: increased % Damage Modified bonus to 180% and added 40% Weapon damage bonus
+* Arcane Will: increased Defensive Ability scaling with rank to 250 by rank 10, 500 by max ultimate rank
+* Iskandra’s Elemental Exchange: reduced % Energy Regeneration scaling with rank to 60% by rank 12, 95% by max ultimate rank
+* Mirror of Ereoctes: increased Energy Cost scaling with rank
+* Olexra’s Flash Freeze: added % Freeze Resist Reduction scaling with rank, up to -40% by rank 12
+* Wrath of Agrivix: increased % Damage Modified bonus to 180% and added 40% Weapon damage bonus
 
 Shaman
 
-    Conjure Primal Spirit: all attacks now correctly deal base Physical damage instead of Pierce
-    Feral Hunger: increased base % Weapon damage by 20%
-    Mogdrogen’s Pact: increased Health Regeneration scaling with rank
-    Heart of the Wild: increased % Health Regeneration scaling with rank
-    Upheaval: increased base % Weapon damage by 15%
-    Wendigo Totem: increased base % Heal to 3% and increased Energy Cost scaling with rank
+* Conjure Primal Spirit: all attacks now correctly deal base Physical damage instead of Pierce
+* Feral Hunger: increased base % Weapon damage by 20%
+* Mogdrogen’s Pact: increased Health Regeneration scaling with rank
+* Heart of the Wild: increased % Health Regeneration scaling with rank
+* Upheaval: increased base % Weapon damage by 15%
+* Wendigo Totem: increased base % Heal to 3% and increased Energy Cost scaling with rank
 
 Inquisitor
 
-    Bursting Round: increased base % Weapon damage by 15%
-    Chilling Rounds: increased base % Weapon damage by 5%
-    Inquisitor Seal: increased Energy Cost scaling with rank
-    Null Field: redesigned to support 2h weapon playstyles
-    Storm Spread: increased base % Weapon damage by 3%
-    Word of Renewal: increased Duration to 60s. Increased Energy Cost and Heal scaling with rank. Increased % Heal scaling at ultimate ranks.
+* Bursting Round: increased base % Weapon damage by 15%
+* Chilling Rounds: increased base % Weapon damage by 5%
+* Inquisitor Seal: increased Energy Cost scaling with rank
+* Null Field: redesigned to support 2h weapon playstyles
+* Storm Spread: increased base % Weapon damage by 3%
+* Word of Renewal: increased Duration to 60s. Increased Energy Cost and Heal scaling with rank. Increased % Heal scaling at ultimate ranks.
 
 Necromancer
 
-    Call of the Grave: increased Energy Cost scaling with rank
-    Decay: added +1s Duration
-    Mark of Torment: increased Energy Cost scaling with rank. Duration and Cooldown are now fixed at 5s and 12s, respectively. % Damage Absorption now starts at 10% and scales to 25% by rank 10, 35% by max ultimate rank.
-    Necrotic Edge: increased base % Weapon damage by 15%
-    Soul Harvest: increased Duration to 8s
-    Raise Skeletons: increased Health scaling with level by ~ 9%
-    Will of the Crypt: increased base % Armor to 30%
-    Reap Spirit: added Vitality damage
-    Reaping Strike: increased base % Weapon damage by 15%
+* Call of the Grave: increased Energy Cost scaling with rank
+* Decay: added +1s Duration
+* Mark of Torment: increased Energy Cost scaling with rank. Duration and Cooldown are now fixed at 5s and 12s, respectively. % Damage Absorption now starts at 10% and scales to 25% by rank 10, 35% by max ultimate rank.
+* Necrotic Edge: increased base % Weapon damage by 15%
+* Soul Harvest: increased Duration to 8s
+* Raise Skeletons: increased Health scaling with level by ~ 9%
+* Will of the Crypt: increased base % Armor to 30%
+* Reap Spirit: added Vitality damage
+* Reaping Strike: increased base % Weapon damage by 15%
 
 Oathkeeper
 
-    Ascension: increased Energy Cost scaling with rank
-    Avenging Shield: increased bounce Range by 16%
-    Smite: increased base % Weapon damage by 15%
-    Shattering Smash: increased base % Weapon damage by 15%
-    Vire’s Might: increased Travel Distance
-    Tectonic Shift: increased Bleed damage scaling with rank
+* Ascension: increased Energy Cost scaling with rank
+* Avenging Shield: increased bounce Range by 16%
+* Smite: increased base % Weapon damage by 15%
+* Shattering Smash: increased base % Weapon damage by 15%
+* Vire’s Might: increased Travel Distance
+* Tectonic Shift: increased Bleed damage scaling with rank
+
+[Back to Table of Contents](#TOC)
