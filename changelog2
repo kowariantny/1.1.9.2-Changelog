@@ -1,0 +1,24 @@
+Thank you all for your bug reports so far! As we said, this is a behemoth of an update and growing pains are to be expected. But we’re making rapid progress towards addressing the new issues and making the new mechanics feel good to play with.
+
+A new playtest build is coming posthaste, most likely next week, with the following changes and fixes:
+
+* The addition of the new baseline evade mechanic.
+* First pass on monster sunder abilities. Sunder has been removed from all non-boss enemies. Many harder to avoid sources of sunder have been removed, and some bosses have had their sunder effect moved to other abilities.
+* % All Resist Reduction and flat All Resist Reduction have been removed from all monster abilities. Some monsters still cast unique debuffs that can reduce resistances.
+* % Damage Reduction debuff effect no longer reduces the intensity of other debuffs (ex. reducing how much % Slow a monster’s attack applies). This was already the case for the new Sunder mechanic and is now consistent for older debuffs.
+* Reduced intensity of the Cruel monster mutator.
+* Adjusted Zantarin’s damage after his recent buffs.
+* Fixed an issue with potions having different values than in v1.1.9.8.
+* Fixed an issue with potions interrupting other actions.
+* Fixed an issue where Turtle Shell and other shield buffs would perpetually activate outside of their trigger range.
+* Fixed an issue with missing monster levels on the monster health bar HUD.
+* Fixed an issue where debuffs display under the monster health bar HUD even if the setting was toggled off.
+* Fixed an issue where some debuffs were not displaying under the monster health bar HUD when enabled.
+* Fixed an issue where Father Kymon’s aura would allow the player to cast his own meteor’s onto him. Karma sucks!
+* Fixed an issue where Ravager’s mana leech was too good at its job.
+* Fixed an issue where the disabled Bonebleach Shattered Realm level would still be loaded and crash the game.
+* Fixed an issue where the Crucible was spawning less enemies than intended and the enemies spawned were not properly scaling up in difficulty.
+* Fixed an issue where Nemesis loot was not scaling to the new level caps on Normal and Elite difficulties.
+* Fixed an issue where the Sprinting player mutator was not granting % Max Run Speed.
+* Fixed an issue with offset cooldown counters on potions.
+* Fixed an issue where cooldown counters would display nothing with less than 1 second remaining.
