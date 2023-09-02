@@ -22,3 +22,5 @@ A new playtest build is coming posthaste, most likely next week, with the follow
 * Fixed an issue where the Sprinting player mutator was not granting % Max Run Speed.
 * Fixed an issue with offset cooldown counters on potions.
 * Fixed an issue where cooldown counters would display nothing with less than 1 second remaining.
+* Fixed an issue where Shattered Realm loot would not scale past Shard 87.
+* Fixed an issue where Shattered Realm loot would not be reduced directly after using a checkpoint.
