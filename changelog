@@ -40,7 +40,7 @@ V1.2.0.0
 * You can now play the entirety of the game up to the level cap on the difficulty that’s enjoyable to you. To support this, level scaling has been updated on Normal and Elite difficulty. Many areas on Normal now scale up to level 100. Elite difficulty now scales up to level 100 in all areas. Loot quality and experience gains remain higher on higher difficulties.
 * All loot tables have been overhauled with 30-60% less items dropping. To compensate, loot quality and iron bits drops have been significantly increased.
 * All Bosses now have a 100% chance to drop their (non-legendary) Monster Infrequents.
-* A new base Evasion skill has been added, bound to Spacebar by default. Pause now defaults to P and the Party window to K. Existing players will need to set a keybind or reset their keybinds in order to take advantage of this.
+* A new base Evade skill has been added, bound to Spacebar by default. Evade interrupts any other action to immediately dash in the desired direction and offers a brief invulnerability window (iframes). Pause now defaults to P and the Party window to K. Existing players will need to set a keybind or reset their keybinds in order to take advantage of this.
 * Potions have been removed from the game. The character now has potion skills baseline and does not need to keep them in their inventory. Dedicated potion buttons have been added to the Quickbar.
 * Toggled buff effects are now automatically toggled on and no longer need to be on the skill bar. (Note: if your character currently has two exclusive skills learned, the one with more points invested takes priority)
 * You can now disable visuals for toggled buffs in the game options to improve visual clarity on your character and to show off all that gear.
@@ -95,6 +95,7 @@ V1.2.0.0
 
 [Game]
 
+* You can now select your desired Main Menu theme in the game options.
 * A new monster mechanic has been added: Sundered. Many bosses can now Sunder your defenses, causing you to take X% additional damage for Y seconds. Multiple instances of Sundered do not stack, only the strongest effect is active.
 * All mutators no longer have negative effects. Many mutators have been redesigned. Monster mutators that granted resistances no longer do so. Positive player mutators are now always rolled for the 2nd and 5th mutators.
 * Challenge areas have had their loot quality and difficulty increased.
@@ -123,13 +124,13 @@ V1.2.0.0
 * Max sell price has been reduced at merchants, but Iron Bits drops have been increased to compensate.
 * Further increased loot drop weights for affixes that match the base item’s damage type (ie. Fire affixes are more likely to roll on baseline Fire items).
 * Tonics of Clarity and Tonics of Tonic of Reshaping no longer drop as loot. They can now be crafted by Celestial Smiths.
-* Crafed potions have been removed from the loot pool and are now only available via crafting.
+* Crafed consumables have been removed from the loot pool and are now only available via crafting. Some consumable blueprints have been updated.
 * All Rare Mastery and Mastery Combination Prefixes have been redesigned with fixed skill bonuses rather than winning the skill bonus lottery.
 * Magic Mastery Prefixes have been removed from the loot pool. New items will no longer roll them. Instead, Caster weapons and Off-hands can now roll % Offensive Ability, % Defensive Ability, and % Spirit prefixes.
 * % Resistance Magic Prefixes that offer 2 of the 3 % Elemental Resistances (ex. Fire + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling % Elemental Resistance to compensate.
 * % Resistance Magic Prefixes that offer % Pierce or % Poison with a combination of 1 % Elemental Resist (ex. Pierce + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling the % Pierce + % Poison Resistance pair to compensate.
-* Health Regeneration Magic Suffixes now stop dropping at level 40+.
 * % Armor Magic Prefixes have been removed from the loot pool.
+* Energy Regeneration Magic Suffixes no longer drop.
 * Magic Prefix - Adamant: increased % Shield Damage Blocked to 40%
 * Magic Prefix - Staunch: increased % Shield Damage Blocked to 30%
 * Rare Prefix - Bloodletter: added % Chaos Resist
@@ -140,8 +141,13 @@ V1.2.0.0
 * Rare Suffix - Death’s Chill (off-hands): added % Frostburn Duration
 * Rare Suffix - Fallen Skies (off-hands): added % Spirit
 * Rare Suffix - Flamecaller (off-hands): added % Burn Duration
+* Rare Suffix - Grove: increased Health Regeneration at levels 82+
+* Rare Suffix - Immortality: increased Health Regeneration
+* Rare Suffix - Nature’s Bounty: increased Health Regeneration at levels 82+
+* Rare Suffix - Reptilian Resilience: increased Health Regeneration
 * Rare Suffix - Shattered Reality (off-hands): added Health
 * Rare Suffix - Solael’s Malice (off-hands): added % Vitality Decay Duration
+* Rare Suffix - Soulwarding (armor and accessories): added +2 to Bone Harvest
 * Rare Suffix - Tormented Souls (off-hands): added % Cast Speed
 * Rare Suffix - Voidfire (off-hands): added % Cast Speed
 
@@ -170,6 +176,7 @@ Relics
 
 Monster Infrequents
 
+* Wendigo Claw and Wendigo Barb now drop from cannibals rather than wendigos in order to spread out the MIs wendigos drop.
 * Aetherwarped Cleaver: replaced bonus to Belgothian’s Shears with +2 to Deadly Momentum
 * Ascendant Source: increased Duration modifier for Sigil of Consumption to +6s
 * Bargoll’s Core: replaced % Cooldown Reduction with Defensive Ability
@@ -216,20 +223,23 @@ Legendary Non-Set Items
 
 * Amarastan Crusher: removed % Damage Modified penalty modifier for Amarasta’s Blade Burst
 * Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Skill proc now has a 100% chance to Slow.
+* Bonescavenger’s Deathgrips: skill proc now activates on attack rather than on kill, values adjusted accordingly
 * Chillflame Evoker: bonuses redesigned
 * Conduit of Arcane Whispers: removed % Freeze Resist Reduction modifier for Olexra’s Flash Freeze and increased its % Resist Reduction modifiers to -20%. increased damage and % Damage Reduction on the pierce variant of Albrecht’s Aether Ray.
 * Conduit of Destructive Whispers: added 100% of Pierce dealt as Acid modifier for acid variant of Canister Bomb and increased its Poison damage to 600 / 5s
 * Corruption of Gargabol: increased Vitality damage modifier for Thermite Mine to 120
 * Decree of Malmouth (mythical): increased Vitality damage modifier for Storm Totem to 110
-* Eye of Dominion: granted skill now applies Confuse instead of Convert, Cooldown and Energy Cost adjusted accordingly.
+* Drakarris: skill proc now activates on attack rather than on kill, values adjusted accordingly
+* Eye of Dominion: granted skill now applies Confuse instead of Convert, Cooldown and Energy Cost adjusted accordingly
 * Hellscourge: added +4s Duration modifier for Sigil of Consumption
 * Herald of the Apocalypse: reduced Cooldown on the granted skill
 * Mythical Anderos’ Amplifier: increased Fire damage modifier for Mortar Trap to 100
 * Mythical Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Increased damage on the Skill proc and it now has a 100% chance to Slow. Removed bonuses to Rune of Hagarrad and Righteous Fervor. Removed Cold damage modifiers for Iskandra’s Elemental Exchange and Veil of Shadow. Added 60% Cold damage modifier for Iskandra’s Elemental Exchange and a 70 Cold damage modifier for Olexra’s Flash Freeze.
-* Mythical Black Scourge: skill proc now activates on attack rather than on kill
+* Mythical Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
+* Mythical Bloodsong: increased Bleed damage modifiers for Belgothian’s Shears, Blade Arc and Whirling Death to 210 / 3s, 170 / 3s and 170 / 3s, respectively.
+* Mythical Bonescavenger’s Deathgrips: skill proc now activates on attack rather than on kill, values adjusted accordingly
 * Mythical Bramblevine: reduced % Retaliation added to Attack modifier for Grasping Vines to 5%
 * Mythical Brutallax: increased Pierce damage modifier for Savagery to 44 and its Bleed damage modifier to 120 / 3s. Added 20% Increased Healing modifier for Presence of Virtue.
-* Mythical Bloodsong: increased Bleed damage modifiers for Belgothian’s Shears, Blade Arc and Whirling Death to 210 / 3s, 170 / 3s and 170 / 3s, respectively.
 * Mythical Celestial Stone of Halakor: added +1 Summon Burst modifier for Storm Totem
 * Mythical Chillflame Evoker: bonuses redesigned
 * Mythical Cinderscorn: replaced bonus to Inferno with +3 to Flame Touched. Replaced modifiers for Vindictive Flame with modifiers for Flame Touched.
@@ -237,6 +247,7 @@ Legendary Non-Set Items
 * Mythical Codex of Violent Rifts: added 100% of Fire dealt as Chaos modifier for Judgment
 * Mythical Deathdealer’s Sidearm: reduced Physical damage modifiers for Reaping Strike and Smite to 140 and 110, respectively
 * Mythical Deviltongue: added 22 Fire damage
+* Mythical Drakarris: skill proc now activates on attack rather than on kill, values adjusted accordingly
 * Mythical Grim Fate: added +1s Duration modifier for Sigil of Consumption and increased Fire damage modifier for Thermite Mine to 90
 * Mythical Gutripper: added -0.4s Cooldown modifier for Vire’s Might
 * Mythical Hagarradian Enforcer: replaced bonus to Shattering Blast with +1 to Inquisitor Skills and added 45% of Acid dealt as Cold. Increased damage and added % Damage Reduction to the skill proc.
@@ -255,7 +266,7 @@ Legendary Non-Set Items
 * Nightclaw: increased Bleed damage modifier for Cadence to 160 / 2s
 * Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 16 Acid damage.
 * Shard of the Eternal Flame: reduced Fire damage modifier for Forcewave to 80
-* The Black Scourge: skill proc now activates on attack rather than on kill
+* The Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
 
 [Back to Table of Contents](#TOC)
 
