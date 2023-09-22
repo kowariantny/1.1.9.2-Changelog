@@ -75,6 +75,7 @@ V1.2.0.0
 * The Tribute cap has been increased to 150.
 * Spawn areas no longer grant a movement speed buff to monsters.
 * Nullification has been re-enabled in the Crucible, at a reduced duration. Loxmere Nightmage’s nullification remains disabled as it is an instant effect that cannot be dodged.
+* Increase % Physical Resist granted by the Blessing of Ulo to 10%
 
 [Back to Table of Contents](#TOC)
 
@@ -104,6 +105,8 @@ V1.2.0.0
 * Bounty Hero monsters that use a Hero Archetype now correctly include their archetype in their name.
 * Many vanilla Grim Dawn monsters have received a bump to their various abilities to bring them up to speed to modern standards.
 * Reduced Monster Physical damage on Ultimate difficulty.
+* Reduced Monster Bleeding Resistance on Elite and Ultimate difficulties by 2% and 3%, respectively.
+* Monster auras no longer grant % Damage Absorption unless it is their explicit purpose to be a defensive aura (ex. Defender heroes, Outlaw Skirmisher Aura). This will prevent scenarios where overlapping auras can make monsters unusually tanky. Some auras had their other bonuses buffed to compensate.
 * Monsters abilities no longer apply % Resist Reduction and flat Resist Reduction. Unique monster debuffs that reduced resists continue to do so.
 * Many monster special attacks have had their animation speeds reduced.
 * Monsters with charge abilities are now significantly slower when charging.
@@ -120,7 +123,7 @@ V1.2.0.0
 
 [Itemization]
 
-* Increased Range of all Movement Skills granted by Runes.
+* Increased Range of all Movement Skills granted by Runes. Reduced Cooldowns of non-damaging Runes by 0.5-1.0s.
 * Max sell price has been reduced at merchants, but Iron Bits drops have been increased to compensate.
 * Further increased loot drop weights for affixes that match the base item’s damage type (ie. Fire affixes are more likely to roll on baseline Fire items).
 * Tonics of Clarity and Tonics of Tonic of Reshaping no longer drop as loot. They can now be crafted by Celestial Smiths.
@@ -216,6 +219,10 @@ Epic Items
 * Daega’s Hood: reduced Acid Retaliation damage to 220
 * Daega’s Mantle: reduced Acid Retaliation damage to 220
 * Daega’s Raiment: reduced Acid Retaliation damage to 220
+* Desecrator Covenant Set: reduced Chaos damage bonus for pets to 22 and removed % Attack Speed bonus for pets. Reduced % Damage for pets on the granted skill.
+* Mythical Unholy Mantle of the Covenant: reduced % Attack Speed for pets to 8%
+* Unholy Covenant Set: reduced Chaos damage bonus for pets to 14
+* Unholy Mantle of the Covenant: reduced % Attack Speed for pets to 6%
 
 [Back to Table of Contents](#TOC)
 
@@ -223,7 +230,7 @@ Legendary Non-Set Items
 
 * Amarastan Crusher: removed % Damage Modified penalty modifier for Amarasta’s Blade Burst
 * Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Skill proc now has a 100% chance to Slow.
-* Bonescavenger’s Deathgrips: skill proc now activates on attack rather than on kill, values adjusted accordingly
+* Bonescavenger’s Deathgrips: removed % Total damage for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
 * Chillflame Evoker: bonuses redesigned
 * Conduit of Arcane Whispers: removed % Freeze Resist Reduction modifier for Olexra’s Flash Freeze and increased its % Resist Reduction modifiers to -20%. increased damage and % Damage Reduction on the pierce variant of Albrecht’s Aether Ray.
 * Conduit of Destructive Whispers: added 100% of Pierce dealt as Acid modifier for acid variant of Canister Bomb and increased its Poison damage to 600 / 5s
@@ -235,9 +242,9 @@ Legendary Non-Set Items
 * Herald of the Apocalypse: reduced Cooldown on the granted skill
 * Mythical Anderos’ Amplifier: increased Fire damage modifier for Mortar Trap to 100
 * Mythical Beacon of Winter’s Veil: has been reclassified as a Scepter, base values updated accordingly. Increased damage on the Skill proc and it now has a 100% chance to Slow. Removed bonuses to Rune of Hagarrad and Righteous Fervor. Removed Cold damage modifiers for Iskandra’s Elemental Exchange and Veil of Shadow. Added 60% Cold damage modifier for Iskandra’s Elemental Exchange and a 70 Cold damage modifier for Olexra’s Flash Freeze.
-* Mythical Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
+* Mythical Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed and % Total Damage for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
 * Mythical Bloodsong: increased Bleed damage modifiers for Belgothian’s Shears, Blade Arc and Whirling Death to 210 / 3s, 170 / 3s and 170 / 3s, respectively.
-* Mythical Bonescavenger’s Deathgrips: skill proc now activates on attack rather than on kill, values adjusted accordingly
+* Mythical Bonescavenger’s Deathgrips: removed % Total damage for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
 * Mythical Bramblevine: reduced % Retaliation added to Attack modifier for Grasping Vines to 5%
 * Mythical Brutallax: increased Pierce damage modifier for Savagery to 44 and its Bleed damage modifier to 120 / 3s. Added 20% Increased Healing modifier for Presence of Virtue.
 * Mythical Celestial Stone of Halakor: added +1 Summon Burst modifier for Storm Totem
@@ -266,7 +273,7 @@ Legendary Non-Set Items
 * Nightclaw: increased Bleed damage modifier for Cadence to 160 / 2s
 * Scion of Noxious Wounds: removed base Poison damage, weapon damage adjusted accordingly. Added 16 Acid damage.
 * Shard of the Eternal Flame: reduced Fire damage modifier for Forcewave to 80
-* The Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
+* The Black Scourge: reduced % Offensive Ability for pets to 6% and removed % Attack Speed and % Total Damage for pets. Skill proc now activates on attack rather than on kill, values adjusted accordingly.
 
 [Back to Table of Contents](#TOC)
 
@@ -329,10 +336,12 @@ Devotion
 * Ghoul: increased Health Regeneration to 8 and % Health Regeneration to 30%
 * Harpy: reduced Energy Regeneration to 1.0
 * Harvestman’s Scythe: increased Health Regeneration to 50 and % Health Regeneration to 60%
+* Huntress: increased Bleed damage to 15 / 3s and % Increased Healing to 12%
 * Hyrian, Guardian of the Celestial Gates: increased % Shield Damage Blocked to 30%
 * Light of Empyrion: increased % Health to 20%
 * Lizard: increased Health Regeneration to 18 and % Health Regeneration to 40%
 * Mantis: reduced Energy Regeneration to 1.0
+* Mogdrogen the Wolf: increased % Increased Healing to 20%
 * Raven: reduced Energy Regeneration to 1.0
 * Scales of Ulcama: reduced Energy Regeneration to 2.5 and incrased Health Regeneration to 30
 * Scarab: increased % Shield Damage Blocked to 16%
@@ -344,6 +353,7 @@ Devotion
 * Ghoulish Hunger: added % Increased Healing (Forgotten Gods only) and added % Cast Speed
 * Giant’s Blood: increased Duration and Health Regeneration scaling with rank
 * Healing Rain: increased Health Regeneration and % Health Regeneration scaling with rank
+* Howl of Mogdrogen: added % Health Regeneration scaling with rank
 * Inspiration: increased Defensive Ability scaling with rank
 * Phoenix Fire: increased Absorption scaling with rank
 * Shield Wall: increased base % Armor by 10%
