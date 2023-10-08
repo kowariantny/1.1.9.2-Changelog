@@ -1,14 +1,9 @@
-**V1.2 is a massive update that changes fundamental aspects of the game. If you’ve never backed up a character for a playtest before, this is the time to do so.**
-
-**Bugs may occur and we will not be responsible for damaged characters!**
-
-Below is the initial changelog for Grim Dawns v1.2 overhaul patch. We expect more changes in future builds, including v1.2 features that are not in testing yet. Nothing is final, until it is. Stay tuned for updates!
-
 Table of Contents
 [Major New Features](#Major)
 [Shattered Realm](#Shattered)
 [Crucible](#Crucible)
 [Modding](#Modding)
+[Tech](#Tech)
 [Art](#Art)
 [Game](#Game)
 [Itemization](#Itemization)
@@ -96,6 +91,14 @@ V1.2.0.0
 
 [Back to Table of Contents](#TOC)
 
+[Tech]
+
+* Fixed an issue where the Arcane Bomb celestial power was not refreshing if reapplied.
+* Fixed some issues with assigning celestial powers to movement skills granted by Augment Runes.
+* Fixed an issue where putting skill points in a modifier that grants pet bonuses would not refresh until the ability was recast.
+
+[Back to Table of Contents](#TOC)
+
 [Art]
 
 * Rock textures have been modernized across the game, particularly in the base game regions.
@@ -113,14 +116,15 @@ V1.2.0.0
 * Hero Monster Archetypes (ex. Burning/Swift/etc) have had their special abilities updated/buffed. The most dangerous hero archetypes now have more prominent visuals to distinguish their presence.
 * Bounty Hero monsters that use a Hero Archetype now correctly include their archetype in their name.
 * Many vanilla Grim Dawn monsters have received a bump to their various abilities to bring them up to speed to modern standards.
-* Increased the Health of most bosses (does not apply to the Crucible).
+* Stun, Freeze, and Petrify effects have been removed from most standard (non-hero/boss) monster abilities.
+* Increased the Health of most bosses at low levels. This change has a minimal impact on endgame boss health with the exception of some vanilla bosses that had underpowered health pools compared to their expansion counterparts. This change does not apply to the Crucible.
 * Reduced Monster Bleeding Resistance on Elite and Ultimate difficulties by 2% and 3%, respectively.
 * Monster auras no longer grant % Damage Absorption unless it is their explicit purpose to be a defensive aura (ex. Defender heroes, Outlaw Skirmishers). This will prevent scenarios where overlapping auras can make monsters unusually tanky. Some auras had their other bonuses buffed to compensate.
 * Monsters abilities no longer apply % Resist Reduction and flat Resist Reduction. Unique monster debuffs that reduced resists continue to do so.
 * Many monster special attacks, particularly melee and breath attacks, now stop tracking the player’s movement past a certain point, making it easier to evade those attacks.
 * Many monster special attacks, particularly those that apply Sunder, have had their animation speeds reduced.
 * Monsters with charge abilities are now significantly slower when charging.
-* Increased Monster % Life Leech Resist. This makes % Attack damage Converted to Health less effective. On Ultimate difficulty, this is roughly a 30% reduction against an average boss. Defensive/healing abilities and Devotions have received a buff to compensate for this change.
+* Increased Monster % Life Leech Resist. This makes % Attack damage Converted to Health less effective. On Ultimate difficulty, this is roughly a 30% reduction against an average boss. Defensive/healing abilities and Constellations have received a buff to compensate for this change.
 * % Damage Reduction debuff effect no longer reduces the intensity of other debuffs (ex. reducing how much % Slow a monster’s attack applies). This was already the case for the new Sunder mechanic and is now consistent for older debuffs.
 * Wendigo-type monsters have had their zoomies reined in and no longer approach you at the speed of sound.
 * Monster health now scales more appropriately in Multiplayer. Mutators that affect monster health are now more clear as to how much % Health they provide.
@@ -186,9 +190,13 @@ Relics
 
 * All Relic Blueprints have been greatly simplified. Relics tiers now follow a linear progression that your character might logically use on their journey to level 100. Some relics had their stats adjusted to accommodate this progression.
 * Belgothian’s Carnage: added 65% Bleed damage
+* Bysmiel’s Domination: increased % Offensive Ability for pets to 20% and increased Chaos damage for pets on the skill proc
+* Dirge of Arkovia: removed % Health for pets and added 28 Vitality damage for pets. Increased Health and Damage of the summoned pet and its attacks now apply % Damage Reduction. The Golem no longer casts Bone Prison.
+* Hysteria: increased Health of the summoned pet
+* Mogdrogen’s Ardor: increased bonuses on the granted skill
 * Terror: added +1 to Occultist Skills and updated crafting bonuses
 * Desolation: added +1 to Shaman Skills and updated crafting bonuses, removed % Lightning Resist
-* Primal Instinct: reduced Max summons to 4 and reduced the health of the summoned pets
+* Primal Instinct: reduced Max summons to 4 and reduced the health and damage of the summoned pets
 
 [Back to Table of Contents](#TOC)
 
@@ -227,6 +235,7 @@ Monster Infrequents
 
 Epic Items
 
+* Bane of Nuram’Siin: reduced Freeze on the granted skill
 * Blightshard Amulet (all versions): updated summoned pet’s damage to Physical from Pierce
 * Chains of Anguish: reduced Cooldown and Duration on the skill proc and added a Retaliation damage penalty to it
 * Core of Gargabol: increased % Vitality dealt as Fire to 50%
@@ -236,6 +245,7 @@ Epic Items
 * Daega’s Raiment: reduced Acid Retaliation damage to 220
 * Desecrator Covenant Set: reduced Chaos damage bonus for pets to 22 and removed % Attack Speed bonus for pets. Reduced % Damage for pets on the granted skill.
 * Mythical Unholy Mantle of the Covenant: reduced % Attack Speed for pets to 8%
+* Mythical Bane of Nuram’Siin: reduced Freeze on the granted skill
 * The Silver Sentinel Set: reduced Crowd Control Resist Reduction on the granted skill to -10%
 * Unholy Covenant Set: reduced Chaos damage bonus for pets to 14
 * Unholy Mantle of the Covenant: reduced % Attack Speed for pets to 6%
@@ -269,6 +279,7 @@ Legendary Non-Set Items
 * Mythical Cinderscorn: replaced bonus to Inferno with +3 to Flame Touched. Replaced modifiers for Vindictive Flame with modifiers for Flame Touched.
 * Mythical Codex of Truths: added +1 Summon Burst modifier for Mortar Trap
 * Mythical Codex of Violent Rifts: added 100% of Fire dealt as Chaos modifier for Judgment
+* Mythical Damnation: added 4% Cooldown Reduction and 12% Cast Speed
 * Mythical Deathdealer’s Sidearm: reduced Physical damage modifiers for Reaping Strike and Smite to 140 and 110, respectively
 * Mythical Deviltongue: added 22 Fire damage
 * Mythical Drakarris: skill proc now activates on attack rather than on kill, values adjusted accordingly
@@ -325,7 +336,7 @@ Legendary Set Items
 * Pyran’s Visage: added +2 Summon Burst modifier for Mortar Trap
 * Radaggan’s Mask: reduced % Damage Absorption modifier for Mark of Torment to 6%
 * Rimetongue Set: reduced % Trap Resist Reduction modifier for Blade Trap to -10%
-* Shard of Lost Souls: added 100% of Fire dealt as Vitality and 100% of Physical dealt as Vitality modifiers for Summon Hellhound
+* Rotgheist Set: increased % Attack damage Converted to Health modifier for Primal Strike to 18%
 * Targo’s Craft Set: reduced Physical damage modifier for Amarasta’s Blade Burst to 300
 * Targo’s Helm: reduced Physical damage modifier for Amarasta’s Blade Burst to 90
 * The Clairvoyant’s Focus Set: increased Aether damage modifier for Doom Bolt to 400
@@ -342,6 +353,12 @@ Legendary Set Items
 * Infernal Knight’s Jacket: replaced bonus to Thermite Mine with +2 to Demon Fire
 * The Mageslayer Set: reduced % Freeze Resist Reduction modifier for Olexra’s Flash Freeze to -10%
 * Trozan’s Skybreak Set: increased Defensive Ability bonus to 140
+* Ultos’ Storm Set: replaced % Lightning Resist bonus with 80 Health Regeneration
+* Ultos’ Stormseeker: replaced Offensive Ability with 30% Health Regeneration
+* Ultos’ Tempest Set: replaced % Lightning Resist bonus with 150 Health Regeneration
+* Mythical Ultos’ Cuirass: added 28% Health Regeneration
+* Mythical Ultos’ Spaulders: added 28% Health Regeneration
+* Mythical Ultos’ Stormseeker: replaced Offensive Ability with 60% Health Regeneration and increased % Physical Resist to 10%
 * Valguur’s Gems: increased Vitality damage modifier for Storm Totem to 80
 * Veilkeeper’s Armor: increased Health Regeneration to 38
 * Veilkeeper’s Crest: increased Health Regeneration to 80
@@ -352,7 +369,7 @@ Legendary Set Items
 
 [Class & Skills]
 
-* Toggled buffs no longer have an energy upkeep. Some Energy Regeneration devotions have had their Energy Regeneration reduced and various Mastery abilities had their Energy Costs increased to compensate.
+* Toggled buffs no longer have an energy upkeep. Some Energy Regeneration Constellations have had their Energy Regeneration reduced and various Mastery abilities had their Energy Costs increased to compensate.
 * Reduced Armor of the high armor pets (Blight Fiends, Briarthorns, and Chillmanes) to bring them more in line with average pets.
 
 Devotion
@@ -424,7 +441,7 @@ Nightblade
 * Lethal Assault: increased Duration to 8s
 * Amarasta’s Quick Cut: increased base % Weapon damage by 10%
 * Belgothian’s Shears: increased Animation Speed by 18% and increased base % Weapon damage by 15%
-* Blade Trap: added % Trap Resist Reduction scaling with rank, up to -40% by rank 12, -45% by max ultimate rank
+* Blade Trap: added % Trap Resist Reduction scaling with rank, up to -35% by rank 12, -45% by max ultimate rank
 * Execution: increased base % Weapon damage by 30%
 * Pneumatic Burst: increased Duration to 60s. Increased Energy Cost, % Heal and Health Regeneration scaling with rank.
 * Breath of Belgothian: increased % Health Regeneration to 50%
@@ -436,7 +453,7 @@ Arcanist
 * Iskandra’s Elemental Exchange: reduced % Energy Regeneration scaling with rank to 60% by rank 12, 95% by max ultimate rank
 * Mirror of Ereoctes: increased Energy Cost scaling with rank
 * Nullification: reduced Cooldown scaling with rank to 18s by rank 10, 8s by max ultimate rank
-* Olexra’s Flash Freeze: added % Freeze Resist Reduction scaling with rank, up to -40% by rank 12, -45% by max ultimate rank
+* Olexra’s Flash Freeze: added % Freeze Resist Reduction scaling with rank, up to -35% by rank 12, -45% by max ultimate rank
 * Wrath of Agrivix: increased % Damage Modified bonus to 180% and added 40% Weapon damage bonus
 
 Shaman
@@ -445,6 +462,8 @@ Shaman
 * Feral Hunger: increased base % Weapon damage by 20%
 * Mogdrogen’s Pact: increased Health Regeneration scaling with rank
 * Heart of the Wild: increased % Health Regeneration scaling with rank
+* Primal Strike: increased % Weapon damage scaling with rank to 315% by rank 16, 395% by max ultimate rank
+* Storm Surge: added +0.6 Radius
 * Upheaval: increased base % Weapon damage by 15%
 * Wendigo Totem: increased base % Heal to 3% and increased Energy Cost scaling with rank
 
@@ -461,7 +480,7 @@ Necromancer
 
 * Call of the Grave: increased Energy Cost scaling with rank
 * Decay: added +1s Duration
-* Mark of Torment: increased Energy Cost scaling with rank. Duration and Cooldown are now fixed at 5s and 12s, respectively. % Damage Absorption now starts at 10% and scales to 30% by rank 10, 45% by max ultimate rank.
+* Mark of Torment: increased Energy Cost scaling with rank. Duration and Cooldown are now fixed at 5s and 16s, respectively. % Damage Absorption now starts at 15% and scales to 35% by rank 10, 50% by max ultimate rank.
 * Necrotic Edge: increased base % Weapon damage by 15%
 * Soul Harvest: increased Duration to 8s
 * Raise Skeletons: increased Health scaling with level by ~ 9%
