@@ -485,6 +485,8 @@ Legendary Set Items
 * Dark One’s Hood: increased Defensive Ability to 40 and increased Vitality damage modifier for Wendigo Totem to 60
 * Dark One’s Mantle: increased Defensive Ability to 40
 * Dark One’s Raiment: increased % Physical Resist to 4%
+* Deathguard Set: reduced Acid damage modifier for Bone Harvest to 180 and added -0.6s Cooldown modifier for it
+* Deathguard Hood: replaced Cooldown Reduction modifier for Bone Harvest with 150 Acid damage modifier for it
 * Devotion of Dreeg Set: increased % Physical Resist bonus to 14%
 * Mythical Black Gem of Dreeg: increased skill bonuses to +3
 * Mythical Mantle of Dreeg: increased skill bonuses to +3
@@ -496,7 +498,7 @@ Legendary Set Items
 * Armor of Ember’s Calling: increased bonus to Dreeg’s Evil Eye to +3
 * Mantle of Ember’s Calling: increased bonus to Dreeg’s Evil Eye to +3 and added +3 to Terrifying Gaze
 * Ghol’s Mantle: increased bonus to Blight Burst to +3 and added +3 to Ground Slam
-* Ghol’s Reach: increased skill bonuses to +3. Reduced Cooldown Reduction modifier for Bone Harvest to -0.4s. Eldritch Spiders from the skill proc now deal 60% Pet Attack damage with their basic attacks, down from 100%.
+* Ghol’s Reach: increased skill bonuses to +3. Eldritch Spiders from the skill proc now deal 60% Pet Attack damage with their basic attacks, down from 100%.
 * Goredrinker Set: increased % Increased Healing bonus to 40%. Replaced Pierce damage modifier for Cadence with 60% Weapon damage modifier for it and increased its Bleed damage modifier to 280 / 2s. Increased Bleed damage modifier for Vire’s Might to 440 / 3s.
 * Goredrinker’s Mask: added -0.4s Cooldown modifier for Vire’s Might
 * Goredrinker’s Ward: increased Pierce damage modifier for Cadence to 110
