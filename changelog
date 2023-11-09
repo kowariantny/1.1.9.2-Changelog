@@ -420,7 +420,7 @@ Legendary Non-Set Items
 * Mythical Mask of Infernal Truth: added +1 Summon Burst modifier for Mortar Trap
 * Mythical Necrolord’s Shroud: increased bonus to Summon Familiar to +3
 * Mythical Night’s Embrace: added +2 to Nightfall and increased bonus to Trozan’s Sky Shard to +3. Reduced Freeze Resist Reduction on the granted skill to -10%.
-* Mythical Nosferattis: removed % Physical Resist for pets
+* Mythical Nosferattis: reduced % Physical Resist for pets to 5%
 * Mythical Oathbearer: reduced % Weapon damage modifier for Righteous Fervor to 14%
 * Mythical Panetti’s Replicating Wand: increased bonuses to Panetti’s Replicating Missile and Profliferation to +4
 * Mythical Plaguebearer of Dreeg: added 70% Acid damage for pets and increased bonuses to Dreeg’s Evil Eye and Vile Eruption to +3
@@ -491,7 +491,7 @@ Legendary Set Items
 * Mythical Barrelsmith’s Crossfire: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
 * Mythical Barrelsmith’s Salvo: replaced % Attack Speed with 9% Total Speed. Increased duration of Energy Leech on the granted skill.
 * Beastcaller’s Shoulderpads: reduced % Health for pets to 6%
-* Beastcaller’s Shroud: reduced % Health for pets to 6%
+* Beastcaller’s Shroud: removed % Health for pets
 * Beastcaller’s Talisman: reduced % Bleed damage for pets to 60% and % Bleed Duration for pets to 50%
 * Belgothian’s Shoulderguard: removed % Physical Resist
 * Black Scorch Covenant: increased Duration modifier for Sigil of Consumption to +3s
@@ -524,6 +524,7 @@ Legendary Set Items
 * Ember’s Calling Set: increased % Damage Modified modifier for Dreeg’s Evil Eye to 28%
 * Armor of Ember’s Calling: increased bonus to Dreeg’s Evil Eye to +3
 * Mantle of Ember’s Calling: increased bonus to Dreeg’s Evil Eye to +3 and added +3 to Terrifying Gaze
+* Ghol’s Malice Set: added 20% Health bonus for pets
 * Ghol’s Mantle: increased bonus to Blight Burst to +3 and added +3 to Ground Slam
 * Ghol’s Reach: increased skill bonuses to +3. Eldritch Spiders from the skill proc now deal 60% Pet Attack damage with their basic attacks, down from 100%.
 * Goredrinker Set: increased % Increased Healing bonus to 40%. Replaced Pierce damage modifier for Cadence with 60% Weapon damage modifier for it and increased its Bleed damage modifier to 280 / 2s. Increased Bleed damage modifier for Vire’s Might to 440 / 3s.
@@ -544,7 +545,7 @@ Legendary Set Items
 * Morgoneth’s Visage: increased Defensive Ability to 60
 * Mythical Beastcaller’s Cowl: increased bonus to Ground Slam to +3
 * Mythical Beastcaller’s Shoulderpads: reduced % Health for pets to 8%
-* Mythical Beastcaller’s Shroud: increased bonuses to Summon Briarthorn and Summon Hellhound to +3 and reduced % Health for pets to 8%
+* Mythical Beastcaller’s Shroud: increased bonuses to Summon Briarthorn and Summon Hellhound to +3 and removed % Health for pets
 * Mythical Beastcaller’s Talisman: added +3 to Ember Claw and reduced % Bleed damage for pets to 90% and % Bleed Duration for pets to 50%. Increased Physical damage modifier for Summon Hellhound to 55.
 * Mythical Mantle of the Black Flame: increased Health to 580
 * Nature’s Avenger Set: reduced Health Regeneration and % Health Regeneration on the skill proc
@@ -557,7 +558,7 @@ Legendary Set Items
 * Rimetongue Set: reduced % Trap Resist Reduction modifier for Blade Trap to -10%
 * Rotgheist Set: increased % Attack damage Converted to Health modifier for Primal Strike to 18%
 * Rotgheist Chestguard: increased bonus to Dreeg’s Evil Eye to +3
-* Shepherd of Lost Souls Set: increased % Health bonus to 14%. Replaced Vitality damage bonus for pets with 22 Physical damage for pets. Reduced % Health modifier for Raise Skeletons to 50%.
+* Shepherd of Lost Souls Set: increased % Health bonus to 14%. Replaced Vitality damage bonus for pets with 22 Physical damage for pets.
 * Beacon of Lost Souls: increased bonuses to Summon Hellhound and Will of the Crypt to +3
 * Mantle of Lost Souls: increased bonuses to Infernal Breath and Undead Legion to +3
 * Mask of Lost Souls: increased bonuses to Summon Hellhound and Raise Skeletons to +3
@@ -614,6 +615,7 @@ Legendary Set Items
 
 * Toggled buffs no longer have an energy upkeep. Some Energy Regeneration Constellations have had their Energy Regeneration reduced and various Mastery abilities had their Energy Costs increased to compensate.
 * Reduced Armor of the high armor pets (Blight Fiends, Briarthorns, and Chillmanes) to bring them more in line with average pets.
+* Increased Health scaling with level for all pets by ~9%, with a few exceptions that received up to a 30% increase (Familiar).
 
 Devotion
 
@@ -632,13 +634,14 @@ Devotion
 * Ghoul: increased Health Regeneration to 16 and % Health Regeneration to 30%
 * Harpy: reduced Energy Regeneration to 1.0
 * Harvestman’s Scythe: increased Health Regeneration to 50 and % Health Regeneration to 60%
-* Huntress: added 25 Health Regeneration. Increased Bleed damage to 15 / 3s and % Increased Healing to 12%. Reduced % Health for pets to 8%.
+* Huntress: added 25 Health Regeneration. Increased Bleed damage to 15 / 3s and % Increased Healing to 12%.
 * Hydra: added 6% Run Speed and 6% Max Run Speed
 * Hyrian, Guardian of the Celestial Gates: increased % Shield Damage Blocked to 30%
-* Ishtak, the Spring Maiden: added 200 Armor for pets and increased Physical damage for pets to 24
+* Ishtak, the Spring Maiden: added 200 Armor for pets and increased Physical damage for pets to 24 and % Defensive Ability for pets to 5%
 * Leviathan: increased % Physical Resist to 5% and added 20% Vitality Resist
 * Light of Empyrion: increased % Health to 20% and added 26 Fire damage for pets
 * Lizard: increased Health Regeneration to 24 and % Health Regeneration to 40%
+* Manticore: added 16 Poison damage / 5s for pets
 * Mantis: reduced Energy Regeneration to 1.0
 * Mogdrogen the Wolf: increased % Increased Healing to 20% and removed Bleed damage for pets
 * Nighttalon: added 8 Health Regeneration
@@ -646,11 +649,9 @@ Devotion
 * Raven: reduced Energy Regeneration to 1.0 and increased Lightning damage for pets to 9
 * Scales of Ulcama: reduced Energy Regeneration to 2.5 and incrased Health Regeneration to 30 and Defensive Ability to 45
 * Scarab: increased % Shield Damage Blocked to 16%
-* Shepherd’s Crook: reduced % Health for pets to 16%
 * Shieldmaiden: increased % Block Chance to 11%
 * Staff of Rattosh: added 12 Physical damage and 80% Aether damage for pets
-* Tree of Life: increased Health Regeneration to 100 and % Health Regeneration to 120%. Reduced % Health for pets to 20%.
-* Typhos, the Jailor of Souls: reduced % Physical Resist for pets to 6%
+* Tree of Life: increased Health Regeneration to 100 and % Health Regeneration to 120%
 * Unknown Soldier: added 30% Disrupt Resist and increased Health to 400
 * Vire, the Stone Matron: increased % Shield Damage Blocked to 30%, % Physical Resist to 5%, % Aether Resist to 15% and % Chaos Resist to 15%. Added 80% Physical Damage. Reduced % Bleed Resist to 15% and removed % Pierce Resist.
 * Wendigo: increased Health to 300 and replaced % Physical Resist with 40 Defensive Ability
@@ -783,5 +784,5 @@ Oathkeeper
 * Vire’s Might: increased Travel Distance
 * Tectonic Shift: increased Bleed damage scaling with rank
 
-[Back to Table of Contents](#TOC)
+[Back to Table of Contents]
 
