@@ -157,7 +157,7 @@ V1.2.0.0
 * Max sell price has been reduced at merchants, but Iron Bits drops have been increased to compensate.
 * Further increased loot drop weights for affixes that match the base item’s damage type (ie. Fire affixes are more likely to roll on baseline Fire items).
 * Tonics of Clarity and Tonics of Tonic of Reshaping no longer drop as loot. They can now be crafted by Celestial Smiths.
-* Crafed consumables have been removed from the loot pool and are now only available via crafting. Some consumable blueprints have been updated.
+* Crafted consumables have been removed from the loot pool and are now only available via crafting. Some consumable blueprints have been updated.
 * All Rare Mastery and Mastery Combination Prefixes have been redesigned with fixed skill bonuses rather than winning the skill bonus lottery.
 * Magic Mastery Prefixes have been removed from the loot pool. New items will no longer roll them. Instead, Caster weapons and Off-hands can now roll % Offensive Ability, % Defensive Ability, and % Spirit prefixes.
 * % Resistance Magic Prefixes that offer 2 of the 3 % Elemental Resistances (ex. Fire + Cold) have been removed from the loot pool at level 70+. Increased the chance of rolling % Elemental Resistance to compensate.
@@ -514,7 +514,7 @@ Legendary Set Items
 * Dark One’s Raiment: increased % Physical Resist to 4%
 * Deathguard Set: reduced Acid damage modifier for Bone Harvest to 180 and added -0.6s Cooldown modifier for it
 * Deathguard Hood: replaced Cooldown Reduction modifier for Bone Harvest with 150 Acid damage modifier for it
-* Devotion of Dreeg Set: increased % Physical Resist bonus to 14%
+* Deception of Dreeg Set: increased % Physical Resist bonus to 14%
 * Mythical Black Gem of Dreeg: increased skill bonuses to +3
 * Mythical Mantle of Dreeg: increased skill bonuses to +3
 * Mythical Runed Dagger of Dreeg: increased bonus to Vile Eruption to +3
@@ -784,5 +784,6 @@ Oathkeeper
 * Vire’s Might: increased Travel Distance
 * Tectonic Shift: increased Bleed damage scaling with rank
 
-[Back to Table of Contents]
+[Back to Table of Contents](#TOC)
+
 
