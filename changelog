@@ -652,6 +652,7 @@ Devotion
 * Shieldmaiden: increased % Block Chance to 11%
 * Staff of Rattosh: added 12 Physical damage and 80% Aether damage for pets
 * Tree of Life: increased Health Regeneration to 100 and % Health Regeneration to 120%
+* Typhos, the Jailor of Souls: reduced % Physical Resist for pets to 6%
 * Unknown Soldier: added 30% Disrupt Resist and increased Health to 400
 * Vire, the Stone Matron: increased % Shield Damage Blocked to 30%, % Physical Resist to 5%, % Aether Resist to 15% and % Chaos Resist to 15%. Added 80% Physical Damage. Reduced % Bleed Resist to 15% and removed % Pierce Resist.
 * Wendigo: increased Health to 300 and replaced % Physical Resist with 40 Defensive Ability
@@ -783,7 +784,5 @@ Oathkeeper
 * Shattering Smash: increased base % Weapon damage by 15%
 * Vire’s Might: increased Travel Distance
 * Tectonic Shift: increased Bleed damage scaling with rank
-
-[Back to Table of Contents](#TOC)
 
 
