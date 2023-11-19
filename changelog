@@ -1,3 +1,19 @@
+V1.2 is dense with new features, mechanics, and quality of life improvements that have been on top of your wishlists. You can look forward to improved leveling, better difficulty skips, new accessibility features, a dedicated evade ability, and much much more! V1.2 is, without a doubt, our labor of love update that will usher in the next era of Grim Dawn before Fangs of Asterkarn is released in 2024!
+
+Could go on and on about the mountain of changes, but it’s best if you see them for yourselves. The full changelog is below:
+
+V1.2.0.1 Hotfix 1
+
+[Tech]
+
+* Fixed an issue with assigning the new Evade ability in the Steam Controller Configuration.
+* Fixed an issue where the player could end up stuck when casting abilities at the same time as casting Evade on a controller.
+* Fixed an issue where skill modifiers could cause a skill to display a negative cooldown.
+
+[Game]
+
+* Fixed an issue with missing text tags in Portuguese.
+* Fixed an issue where the Yugol’s Ichor consumable was only available 1 at a time from…somewhere.
 
 Table of Contents
 [Major New Features](#Major)
