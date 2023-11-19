@@ -1,6 +1,14 @@
-V1.2 is dense with new features, mechanics, and quality of life improvements that have been on top of your wishlists. You can look forward to improved leveling, better difficulty skips, new accessibility features, a dedicated evade ability, and much much more! V1.2 is, without a doubt, our labor of love update that will usher in the next era of Grim Dawn before Fangs of Asterkarn is released in 2024!
+[quote="Zantai, post:1, topic:132117"]
+V1.2.0.2 Hotfix 2
 
-Could go on and on about the mountain of changes, but it’s best if you see them for yourselves. The full changelog is below:
+[Tech]
+
+* Fixed an issue with missing Cooldown Reduction modifiers in masteries and on items.
+
+[Game]
+
+* Fixed an issue where Ansteria could not drop her Legendary unique item on Ultimate difficulty.
+* Fixed an issue with Warden Krieg’s rune traps not spawning.
 
 V1.2.0.1 Hotfix 1
 
@@ -801,4 +809,5 @@ Oathkeeper
 * Shattering Smash: increased base % Weapon damage by 15%
 * Vire’s Might: increased Travel Distance
 * Tectonic Shift: increased Bleed damage scaling with rank
+[/quote]
 
