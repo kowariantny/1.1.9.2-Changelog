@@ -1,11 +1,28 @@
 [quote="Zantai, post:1, topic:132117"]
-Grim Dawn’s most comprehensive free update ever is now available!
-
-![GDX2_V1-2-0-0_ReleaseBanner01](upload://62uC8oUzVacATBSLAG6zwkesXBo)
-
 V1.2 is dense with new features, mechanics, and quality of life improvements that have been on top of your wishlists. You can look forward to improved leveling, better difficulty skips, new accessibility features, a dedicated evade ability, and much much more! V1.2 is, without a doubt, our labor of love update that will usher in the next era of Grim Dawn before Fangs of Asterkarn is released in 2024!
 
 Could go on and on about the mountain of changes, but it’s best if you see them for yourselves. The full changelog is below:
+
+v1.2.0.3 hotfix 3 is now live on Steam. We are in the process of getting this update up on GOG and Xbox.
+
+V1.2.0.3 Hotfix 3
+
+[Tech]
+
+* UI Scale now goes up to 1.25, up from 1.0. Players that had their UI scale set higher than the default 0.5 will find their UI a little larger than it was before v1.2.0.3.
+* Fixed an issue with some wave effects being invisible on low particle settings.
+* Fixed a rare issue where characters could end up missing skill and/or attribute points if they completed quests that reward those points on Normal difficulty before using a Difficulty Merit.
+
+[Game]
+
+* The new Evade and Potion skills can now be assigned to the quickbar, including mouse buttons.
+* Fixed several issues with certain fonts being difficult to read under certain circumstances (ex. on the riftgate map).
+* Fixed several issues with translation text clipping in the Options menu.
+* Fixed another issue with missing Portuguese tags.
+* Fixed an issue with line spacing and inconsistent NPC names in some of the updated Japanese localization.
+* Fixed an issue with Anasteria not spawning her more powerful versions based on player’s reputation status.
+* Fixed an issue where Kubacabra’s breath attack could still hit the player if they repositioned beyond the breath’s visuals.
+* Fixed an issue where bounties for Alkamos and Shar’Zul could not be completed on Ultimate difficulty.
 
 V1.2.0.2 Hotfix 2
 
