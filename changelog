@@ -2,16 +2,14 @@ V1.2.0.4
 
 [Major New Features]
 
-Lancel the Knight now has access to new wares from the Loyalist Item Pack 3! Now you too can don the visages of the gods themselves!
-
+Lancel the Knight now has access to new wares from the Loyalist Item Pack 3! Starting February 27th, you too can don the visages of the gods themselves!
 [Shattered Realm]
 
 Items left on the ground within the Splendors of the Shattered Realm are now automatically cleared out when you decide to collect your rewards.
-
+Reduced the health of the Manifestations of Hunger and Seeker of the Damned encounters.
 [Crucible]
 
 Items left on the ground within the treasure room are now automatically cleared out when it opens.
-
 [Tech]
 
 Fixed an issue where placing the Health and Energy Potions on the quick bar would not save them between sessions.
@@ -22,14 +20,13 @@ Fixed an issue where pets that are regularly resummoned (ex. Wind Devils) could 
 Fixed an issue where undoing points in an exclusive skill could prevent putting points into other exclusive skills.
 Fixed a crash resulting from changing game settings.
 Fixed an editor crash that could occur when scrolling near certain map regions.
-
+Fixed an issue where using a low or no cooldown leap ability would cause it to have a delay if not targeting an enemy.
 [Modding]
 
 Added AreaTrigger.Get(object Id) Lua function to store a TriggerVolume.
 Added AreaTrigger:DestroyItems() Lua function to destroy all items within a TriggerVolume. This is an expensive call based on the size of the volume and number of items that should be used sparingly.
 Added character:GiveAffixItem(string ItemDbr, string prefixDbr, string suffixDbr) Lua function for spawning an item with specific affixes.
 Added item:HasAffix(string affixDbr) Lua function for checking whether an item has a specific affix.
-
 [Game]
 
 Reduced the Magnitude and/or Duration of most monster Fumble effects. The Crucible no longer has additional reduction to those effects.
@@ -39,3 +36,4 @@ Cronley’s Outlaws heroes and mini-bosses now equip various Monster Infrequents
 Rare Prefix - Vindicator: replaced bonus to Storm Spread with +2 to Arcane Empowerment
 Fixed an issue where some accessory affixes could roll on certain Monster Infrequent armor.
 Fixed Lucius’ Blade-Arm having lower than intended base damage.
+Cinderwinds now wait significantly longer before leashing to the player’s position.
