@@ -32,6 +32,7 @@
 
 [aname=Major][b][Major New Features][/b][/aname]
 [LIST]
+[*]Item tooltips now hide detailed information for Components, Augments, and Skills by default, and do not include those factors in tooltip comparisons. By holding ctrl, all of this information is restored and is then included in tooltip comparisons. This was done to dramatically reduce tooltip bloat as much of this information is not required the majority of the time.
 [*]% Physical Resist has been rebalanced across the entire game. Physical Resist is now available in more restricted gear slots, and in smaller amounts. To compensate, monsters now deal less Physical damage. This change was made to narrow the gap between builds capable of stacking excessive amounts of % Physical Resist and those that struggled to get % Physical Resist in the first place.
 [*]Most consumables are now organized into one of three categories: Elixirs, Oils, and Tinctures. These categories share cooldowns and you can only benefit from one Elixir, Oil and Tinctures at any given time. The Aether Cluster and Potion of Clarity are notable exceptions.
 [*]Oil consumables have had their durations increased to 900s. Bonuses updated or redesigned accordingly.
@@ -46,7 +47,6 @@
 
 [aname=Crucible][b][Crucible][/b][/aname]
 [LIST]
-[*]Increased the effectiveness of Sunder on Gladiator difficulty by 15%.
 [*]Reduced Pet bonuses on all Blessings. These are the bonuses that apply to pets even after resummoning.
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
@@ -74,8 +74,8 @@
 [aname=Game][b][Game][/b][/aname]
 [LIST]
 [*]Shields now reduce incoming damage greater than your Shield Block Amount by 100%, up from 70%.
-[*]Increased the effectiveness of Sunder on Ultimate difficulty by 30%.
 [*]Reduced monster % Health Regeneration on Ultimate difficulty.
+[*]Reduced or removed many sources of unique monster % Resist Reduction debuffs, particularly for non-boss monsters and those that reduce all resists. % Physical Resist Reduction has been reduced more than other damage types.
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
@@ -83,7 +83,10 @@
 [LIST]
 [*]Crafted - Emberguard Gauntlets: replaced % Physical Resist with 30 Offensive Ability
 [*]Crafted - Plagueguard Grips: replaced % Physical Resist with 30 Offensive Ability
-[*]Crafted - Stoneplate Greaves: replaced % Physical Resist with 30 Defensive Ability
+[*]Crafted - Stoneplate Greaves: increased % Physical Resist to 5%
+[*]Magic Prefix - Durable: reduced % Physical Resist to 10%
+[*]Magic Prefix - Enduring: reduced % Physical Resist to 6%
+[*]Magic Prefix - Impassable: reduced % Physical Resist to 6%
 [*]Rare Prefix - Destroyer (off-hands): replaced % Physical Resist with +2 to Demon Fire
 [*]Rare Prefix - Dominator: replaced % Physical Resist with % Health
 [*]Rare Prefix - Earthbound: replaced % Physical Resist with % Defensive Ability
@@ -100,7 +103,11 @@
 [*]Rare Prefix - Stonehide (shields): reduced % Physical Resist to 6%
 [*]Rare Prefix - Thunderstruck (off-hands): replaced % Physical Resist with +2 to Raging Tempest
 [*]Rare Prefix - Wraithbound (weapons): replaced % Physical Resist with % Health
+[*]Component - Battered Shell: added % Damage Reduction to the granted skill
+[*]Component - Mark of the Myrmidon: granted skill bonuses updated
+[*]Component - Reinforced Shell: granted skill bonuses updated 
 [*]Component - Seal of Might: replaced % Physical Resist with 8% Armor on the granted skill
+[*]Component - Serrated Shell: added % Damage Reduction to the granted skill
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
@@ -123,6 +130,7 @@
 [LIST]
 [*]Bysmiel's Domination: added 8% Health and removed % Physical Resist
 [*]Citadel: added 15% Shield Damage Blocked and removed % Physical Resist
+[*]Conflagration: increased thickness of the granted skill's beam by 20%, effectively increasingly the area it targets
 [*]Doom: increased Physical damage to 20-28 and removed % Physical Resist
 [*]Dreeg's Affliction: added 8% Health and removed % Physical Resist
 [*]Endurance: increased Health to 620 and removed % Physical Resist
@@ -169,13 +177,10 @@
 [*]Chains of Anguish (all versions): increased Duration and % Physical Resist Penalty on the skill proc. The Skill proc now correctly Modifies Retaliation damage by -25%.
 [*]Corruptor of Souls Set: replaced % Physical Resist bonus for pets with 12% Health bonus for pets
 [*]Dawnguard Gauntlets: removed % Physical Resist
-[*]Dreadnought Footpads: added 80 Health and removed % Physical Resist
 [*]Empowered Bladedancer's Handguards: replaced % Physical Resist with 120 Health
-[*]Empowered Dreadnought Footpads: added 180 Health and removed % Physical Resist
 [*]Empowered Maiven's Lens: removed % Physical Resist
 [*]Empowered Maiven's Tome: increased Health to 560 and removed % Physical Resist
-[*]Empowered Stonewrought Groundbreakers: added 330 Health and removed % Physical Resist
-[*]Hellion Greaves: removed % Physical Resist
+[*]Empowered Stonewrought Groundbreakers: reduced % Physical Resist to 4%
 [*]Luminari Regalia Set: replaced % Physical Resist bonus with 10% Health bonus
 [*]Mythical Apothecary's Injector: removed % Physical Resist
 [*]Mythical Asterkarn Cleaver: replaced % Physical Resist with 50 Defensive Ability
@@ -183,57 +188,38 @@
 [*]Mythical Bladedancer's Handguards: replaced % Physical Resist with 220 Health
 [*]Mythical Burrwitch Peacekeeper: removed % Physical Resist
 [*]Mythical Dawnguard Gauntlets: replaced % Physical Resist with 8% Attack Speed
-[*]Mythical Deadwalker Footpads: replaced % Physical Resist with 15% Bleed Resist
-[*]Mythical Dreadnought Footpads: added 380 Health and removed % Physical Resist
-[*]Mythical Emberstone Treads: replaced % Physical Resist with 4% Health
-[*]Mythical Final March: increased Defensive Ability to 60 and % Chaos Resist to 18% and removed % Physical Resist
-[*]Mythical Grim Harvest Boots: replaced % Physical Resist with 4% health
 [*]Mythical Mark of Broken Oaths: replaced % Physical Resist for pets with 8% health for pets
 [*]Mythical Obsidian Grasp: replaced % Physical Resist with 20% Chaos Resist and reduced Fire damage to 8-11
-[*]Mythical Rift-Torn Greaves: removed % Physical Resist
 [*]Mythical Sphere of Many Blades: removed % Physical Resist
-[*]Mythical Stonewrought Groundbreakers: increased Health to 650 and removed % Physical Resist
+[*]Mythical Stonewrought Groundbreakers: reduced % Physical Resist to 4%
 [*]Mythical Wyrmclaw: replaced % Physical Resist with 6% Health
 [*]Obsidian Grasp: removed % Physical Resist and reduced Fire damage to 5-8
 [*]Stonefather Set: reduced % Physical Resist bonus to 10%
-[*]Stonewrought Groundbreakers: added 120 Health and removed % Physical Resist
+[*]Stonewrought Groundbreakers: reduced % Physical Resist to 4%
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
 [aname=Non-Set][b][i]Legendary Non-Set Items[/i][/b][/aname]
 [LIST]
 [*]Bonescavenger's Deathgrips: removed % Total Speed for pets
-[*]Boneshatter Treads: removed % Physical Resist
-[*]Conduit of Divine Whispers: reduced % Retaliation Damage Modified penalty modifier for Pierce variant of Aegis of Menhir to -60%
-[*]Deathwalker's Grace: replaced % Physical Resist with 280 Health
-[*]Earthshatter Treads: removed % Physical Resist
+[*]Conduit of Divine Whispers: increased % Retaliation Damage Modified penalty modifier for Pierce variant of Aegis of Menhir to -50%
 [*]Empyrion's Mercy: removed % Physical Resist
-[*]Fiendflesh Greaves: replaced % Physical Resist with 300 Health
-[*]Golemborn Greaves: replaced % Physical Resist with 15% Chaos Resist
 [*]Mark of Ulzuin: added 5% Health. Increased Fire damage modifier for Albrecht's Aether Ray to 60 and its Burn damage modifier to 180 / 2s
-[*]Morgoneth's Step: replaced % Physical Resist with 4% Health
 [*]Mythical Aethereach: increased Aether damage modifier for Albrecht's Aether Ray to 24
-[*]Mythical Amatok's Step: replaced % Physical Resist with 67% Pierce damage
 [*]Mythical Beacon of the Winter's Veil: replaced % Physical Resist modifier for Iskandra's Elemental Exchange with 8% Health modifier for it
 [*]Mythical Bonescavenger's Deathgrips: removed % Total Speed for pets
-[*]Mythical Boneshatter Treads: removed % Physical Resist
 [*]Mythical Boneweave Girdle: replaced % Physical Resist with 18% Pierce Resist
-[*]Mythical Boots of Primordial Rage: removed % Physical Resist
 [*]Mythical Codex of Lies: added 440 Health
 [*]Mythical Colossal Grasp: increased Health Regeneration to 30 and removed % Physical Resist
 [*]Mythical Consumption of Agrivix: replaced % Physical Resist with 750 Health
 [*]Mythical Crest of Winter Fortitude: added 100% of Fire dealt as Cold modifier for Blitz and increased its Cold damage modifier to 260
 [*]Mythical Crown of the Revenant King: reduced Vitality damage modifier for Smite to 120 and its % Attack damage Converted to Health modifier to 8%
-[*]Mythical Deathwalker's Grace: replaced % Physical Resist with 560 Health
 [*]Mythical Dracarris: replaced % Physical Resist modifier for Flame Touched with 8% Health modifier for it
 [*]Mythical Dreadweaver: replaced % Physical Resist modifier for Field Command with 6% Health modifer for it
-[*]Mythical Earthshatter Treads: removed % Physical Resist
 [*]Mythical Empyrion's Mercy: removed % Physical Resist and increased Defensive Ability to 60
 [*]Mythical Essence of the Grim Dawn: increased Health to 520 and increased % Attack damage Converted to Health modifier for Albrecht's Aether Ray to 10%
 [*]Mythical Evoker of Elgoloth: reduced % Weapon damage modifier for Savagery to 15%
-[*]Mythical Fiendflesh Greaves: replaced % Physical Resist with 650 Health
 [*]Mythical Gavel of Ravenous Souls: replaced % Vitality damage with % Bleed damage
-[*]Mythical Golemborn Greaves: replaced % Physical Resist with 18% Chaos Resist
 [*]Mythical Guardian of Death's Gates: replaced % Physical Resist for pets with 18% Health for pets
 [*]Mythical Inashkor's Corrupted Head: increased Health to 550
 [*]Mythical Inashkor's Head: increased Health to 550
@@ -241,26 +227,21 @@
 [*]Mythical Olexra's Chill: replaced % Physical Resist modifier for Star Pact with 50% Frostburn and 50% Frostburn Duration modifiers for it
 [*]Mythical Overlord's Iron Grip: replaced % Physical Resist modifier for Primal Bond with 20% Freeze/Stun Resist modifiers for it
 [*]Mythical Riftwarped Grasp: replaced % Physical Resist with 4% Health
-[*]Mythical Runeguard Greaves: replaced % Physical Resist with 22% Poison Resist
 [*]Mythical Scion of Bitter Winds: removed % Physical Resist modifier for Pneumatic Burst and increased its % Heal modifier to 4%
 [*]Mythical Skybreach Bulwark: reduced % Retaliation added to Attack modifier for Aegis of Menhir to 15%
 [*]Mythical Stormseer Sapphire: increased Lightning damage modifier for Albrecht's Aether Ray to 32-122
 [*]Mythical Thread of Mortality: reduced % Health Regeneration to 25% and removed % Physical Resist
-[*]Mythical Timewarped Walkers: increased % Slow Resist to 60% and removed % Physical Resist
 [*]Mythical Tinker's Ingenuity: reduced % Health Regeneration to 35% and reduced % Health Regeneration on the granted skill to 150% and removed % Physical Resist from it
+[*]Mythical Tome of the Arcane Wastes: increased thickness of the granted skill's beam by 20%, effectively increasingly the area it targets
 [*]Mythical Veilpiercer: replaced % Physical Resist for pets with 25% Petrify Resist for pets
-[*]Mythical Windshear Greaves: removed % Physical Resist and reduced % Dodge Chance on the skill proc
+[*]Mythical Windshear Greaves: reduced % Dodge Chance on the skill proc
 [*]Mythical Wraithborne Legwraps: increased Health to 1120
-[*]Mythical Wraithwalkers: removed % Physical Resist
 [*]Noctirn: replaced % Physical Resist modifier for Deadly Aim with 3% Heal modifier for it
-[*]Runeguard Greaves: replaced % Physical Resist with 20% Poison Resist
-[*]Stormbearers: added 20% Slow Resist and removed % Physical Resist
 [*]Stormrend: removed % Physical Resist
 [*]The Grey Knight: reduced % Damage Modified modifier for Forcewave to 100%
-[*]Timewarped Walkers: removed % Physical Resist
 [*]Tinker's Ingenuity: reduced % Health Regeneration to 25%
-[*]Windshear Greaves: removed % Physical Resist and reduced % Dodge Chance on the skill proc
-[*]Wraithwalkers: replaced % Physical Resist with 16% Bleed Resist
+[*]Tome of the Arcane Wastes: increased thickness of the granted skill's beam by 20%, effectively increasingly the area it targets
+[*]Windshear Greaves: reduced % Dodge Chance on the skill proc
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
@@ -325,18 +306,18 @@
 [aname=Occultist][b][i]Occultist[/i][/b][/aname]
 [LIST]
 [*]Blood of Dreeg: reduced Health Regeneration scaling at ultimate ranks
-[*]Aspect of the Guardian: reduced % Physical Resist scaling with rank to 10% by rank 12, 15% by max ultimate rank
+[*]Aspect of the Guardian: reduced % Physical Resist scaling with rank to 10% by rank 12, 13% by max ultimate rank
 [/LIST]
 
 [aname=Nightblade][b][i]Nightblade[/i][/b][/aname]
 [LIST]
-[*]Dual Blades: reduced % Physical Resist scaling with rank to 10% by rank 16, 15% by max ultimate rank
+[*]Dual Blades: reduced % Physical Resist scaling with rank to 10% by rank 16, 13% by max ultimate rank
 [*]Pneumatic Burst: reduced Health Regeneration scaling at ultimate ranks
 [/LIST]
 
 [aname=Arcanist][b][i]Arcanist[/i][/b][/aname]
 [LIST]
-[*]Albrecht's Aether Ray: increased Fire damage scaling rank
+[*]Albrecht's Aether Ray: increased thickness of the beam by 20%, effectively increasingly the area it targets. Increased Fire damage scaling rank.
 [/LIST]
 
 [aname=Shaman][b][i]Shaman[/i][/b][/aname]
@@ -348,7 +329,7 @@
 
 [aname=Inquisitor][b][i]Inquisitor[/i][/b][/aname]
 [LIST]
-[*]Aura of Conviction: reduced % Physical Resist scaling with rank to 10% by rank 12, 15% by max ultimate rank
+[*]Aura of Conviction: reduced % Physical Resist scaling with rank to 10% by rank 12, 13% by max ultimate rank
 [*]Rune of Hagarrad: reduced Arming Time to 1s
 [*]Rune of Kalastor: reduced Arming Time to 1s
 [/LIST]
