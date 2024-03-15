@@ -68,21 +68,25 @@
 [LIST]
 [*]Dreeg's Evil Eye and Blackwater Cocktail now have new visuals when used with skill modifiers that change their damage (ex. when converted to lightning, they will be visually electric).
 [*]Vire's Might's modifier, Volcanic Stride, now has new visuals when the base skill has its damage changed by item modifiers.
+[*]Gazer Man and Miss Gazer Man, the crowning achievements in gazer wear, have gotten a slight post-loyalist pack upgrade.
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
 [aname=Game][b][Game][/b][/aname]
 [LIST]
+[*]Loot weights have been revised to address some situations where drop rates were lower than intended or where farming certain areas on lower difficulties would result in better drop rates. This also addresses a discrepancy where farming vendors could sometimes be more efficient than killing monsters. As a result, the chance of dropping double rare items, particular in Ultimate/Gladiator difficulty, has been increased.
+[*]Physical Resist has been moved to the first page of the Character Sheet. % Stun Resist has been moved to page 3, with other crowd control resists.
 [*]Shields now reduce incoming damage greater than your Shield Block Amount by 100%, up from 70%.
 [*]Reduced monster % Health Regeneration on Ultimate difficulty.
 [*]Reduced or removed many sources of unique monster % Resist Reduction debuffs, particularly for non-boss monsters and those that reduce all resists. % Physical Resist Reduction has been reduced more than other damage types.
+[*]Increased Sunder effects applied by superbosses by 30%.
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
 [aname=Itemization][b][Itemization][/b][/aname]
 [LIST]
-[*]Crafted - Emberguard Gauntlets: replaced % Physical Resist with 30 Offensive Ability
-[*]Crafted - Plagueguard Grips: replaced % Physical Resist with 30 Offensive Ability
+[*]Crafted - Emberguard Gauntlets: replaced % Physical Resist with 60 Defensive Ability
+[*]Crafted - Plagueguard Grips: replaced % Physical Resist with 70 Offensive Ability
 [*]Crafted - Stoneplate Greaves: increased % Physical Resist to 5%
 [*]Magic Prefix - Durable: reduced % Physical Resist to 10%
 [*]Magic Prefix - Enduring: reduced % Physical Resist to 6%
@@ -104,10 +108,22 @@
 [*]Rare Prefix - Thunderstruck (off-hands): replaced % Physical Resist with +2 to Raging Tempest
 [*]Rare Prefix - Wraithbound (weapons): replaced % Physical Resist with % Health
 [*]Component - Battered Shell: added % Damage Reduction to the granted skill
+[*]Component - Bindings of Bysmiel: added 25 Offensive Ability and removed % All damage
+[*]Component - Blessed Whetstone: increased Bleed damage on the granted skill
+[*]Component - Bloody Whetstone: increased Bleed damage on the granted skill
+[*]Component - Devil-Touched Ammo: replaced chance of % All damage with 6% Attack damage Converted to Health. Increased % Weapon damage on the granted skill.
+[*]Component - Haunted Steel: reduced Cooldown and updated bonuses on the granted skill
+[*]Component - Hollowed Fang: increased % Chance of Bleed damage to 100% on the granted skill
+[*]Component - Kilrian's Shattered Soul: added 5% Cast Speed and 10% Bleed Resist, removed % Damage
 [*]Component - Mark of the Myrmidon: granted skill bonuses updated
+[*]Component - Oleron's Blood: increased Internal Trauma damage on the granted skill
 [*]Component - Reinforced Shell: granted skill bonuses updated 
+[*]Component - Rotten Heart: bonuses redesigned
+[*]Component - Runestone: replaced Armor with 12% Poison Resist
 [*]Component - Seal of Might: replaced % Physical Resist with 8% Armor on the granted skill
 [*]Component - Serrated Shell: added % Damage Reduction to the granted skill
+[*]Component - Spellwoven Threads: increased Offensive Ability to 34 and removed % Dot damage
+[*]Component - Unholy Inscription: added 3% Attack damage Converted to Health and removed % Vitality damage
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
 
@@ -145,6 +161,7 @@
 [*]Ascendant Authority: reduced % Total Speed modifier for Summon Guardian of Empyrion to 25%
 [*]Bargoll's Core: replaced % Physical Resist modifier for Call of the Grave with 12% Heal modifier for it
 [*]Bargoll's Root: reduced % Weapon damage modifier for Shattering Smash to 33%
+[*]Basilisk Crest: increased Offensive and Defensive Ability modifiers for Word of Renewal to 60
 [*]Bloodsworn Scepter: replaced bonus to Solael's Witchfire with +3 to Second Rite and increased bonus to Destruction to +3
 [*]Bysmiel-Sect Legguards: replaced % Physical Resist for pets with 6% Health for pets
 [*]Chosen Gaze: replaced % Physical Resist modifier for Ascension with 12% Armor modifier for it
@@ -174,7 +191,7 @@
 [*]Blazeseer Set: reduced Fire damage bonus to 15
 [*]Blazeseer Crest: removed Fire damage
 [*]Burrwitch Peacekeeper: removed % Physical Resist
-[*]Chains of Anguish (all versions): increased Duration and % Physical Resist Penalty on the skill proc. The Skill proc now correctly Modifies Retaliation damage by -25%.
+[*]Chains of Anguish (all versions): increased Duration on the Skill proc. The Skill proc now correctly Modifies Retaliation damage by -25%.
 [*]Corruptor of Souls Set: replaced % Physical Resist bonus for pets with 12% Health bonus for pets
 [*]Dawnguard Gauntlets: removed % Physical Resist
 [*]Empowered Bladedancer's Handguards: replaced % Physical Resist with 120 Health
@@ -212,7 +229,7 @@
 [*]Mythical Codex of Lies: added 440 Health
 [*]Mythical Colossal Grasp: increased Health Regeneration to 30 and removed % Physical Resist
 [*]Mythical Consumption of Agrivix: replaced % Physical Resist with 750 Health
-[*]Mythical Crest of Winter Fortitude: added 100% of Fire dealt as Cold modifier for Blitz and increased its Cold damage modifier to 260
+[*]Mythical Crest of Winter Fortitude: increased Cold damage modifier for Blitz to 260
 [*]Mythical Crown of the Revenant King: reduced Vitality damage modifier for Smite to 120 and its % Attack damage Converted to Health modifier to 8%
 [*]Mythical Dracarris: replaced % Physical Resist modifier for Flame Touched with 8% Health modifier for it
 [*]Mythical Dreadweaver: replaced % Physical Resist modifier for Field Command with 6% Health modifer for it
@@ -230,7 +247,7 @@
 [*]Mythical Scion of Bitter Winds: removed % Physical Resist modifier for Pneumatic Burst and increased its % Heal modifier to 4%
 [*]Mythical Skybreach Bulwark: reduced % Retaliation added to Attack modifier for Aegis of Menhir to 15%
 [*]Mythical Stormseer Sapphire: increased Lightning damage modifier for Albrecht's Aether Ray to 32-122
-[*]Mythical Thread of Mortality: reduced % Health Regeneration to 25% and removed % Physical Resist
+[*]Mythical Thread of Mortality: reduced % Health Regeneration to 25%
 [*]Mythical Tinker's Ingenuity: reduced % Health Regeneration to 35% and reduced % Health Regeneration on the granted skill to 150% and removed % Physical Resist from it
 [*]Mythical Tome of the Arcane Wastes: increased thickness of the granted skill's beam by 20%, effectively increasingly the area it targets
 [*]Mythical Veilpiercer: replaced % Physical Resist for pets with 25% Petrify Resist for pets
@@ -248,6 +265,8 @@
 [aname=Set][b][i]Legendary Set Items[/i][/b][/aname]
 [LIST]
 [*]Beastcaller's Regalia Set: reduced % Physical Resist bonus to 6%
+[*]Black Flame Covenant: reduced % Physical Resist on the granted skill to 22%
+[*]Black Scorch Covenant: reduced % Physical Resist on the granted skill to 24%
 [*]Bysmiel's Trinkets Set: replaced % Physical Resist bonus with 10% Defensive Ability
 [*]Cataclysm's Pact: removed % Physical Resist
 [*]Dagallon's Destruction Set: replaced % Crit damage bonus with 1600 Health bonus
@@ -263,6 +282,8 @@
 [*]Korba's Fury Set: replaced % Physical Resist bonus with 14% Health bonus
 [*]Krieg's Boots: replaced % Physical Resist with 32 Defensive Ability
 [*]Krieg's Grip: removed % Physical Resist
+[*]Markovian's Bastion Set: reduced % Health bonus to 20%
+[*]Mythical Markovian's Platemail: removed % Armor
 [*]Mythical Arcane Shard of Agrivix: replaced % Physical Resist modifier for Vindictive Flame with 8% Health modifier for it
 [*]Nature's Avenger Set: reduced % Health Regeneration bonus to 30%. Reduced % Health Regeneration on the skill proc to 150% and the % Physical Resist to 8%.
 [*]Nature's Call Regalia Set: reduced % Physical Resist bonus to 8%
@@ -284,18 +305,30 @@
 
 [aname=Devotion][b][i]Devotion[/i][/b][/aname]
 [LIST]
+[*]Amatok, the Spirit of Winter: replaced Health with 140 armor
+[*]Assassin: replaced Health with 60 Armor and 4% Dodge Chance
+[*]Attak Seru, the Mirage: added 100 Armor and reduced Health to 300
+[*]Chariot of the Dead: replaced Health with 60 Armor
+[*]Dire Bear: reduced Armor to 90
 [*]Dryad: reduced % Physical Resist to 3%
-[*]Huntress: reduced % Health for pets to 6%
+[*]Huntress: added 60 Armor and reduced Health to 200. Reduced % Health for pets to 6%.
 [*]Ishtak, the Spring Maiden: replaced % Defensive Ability for pets with 5% Physical Resist for pets
+[*]Lion: replaced Health with 30 Armor
+[*]Oleron: reduced Armor to 50
+[*]Rhowan's Scepter: increased Armor to 130
 [*]Shepherd’s Crook: reduced % Health for pets to 16%
 [*]Shieldmaiden: increased % Shield Damage Blocked to 160%
-[*]Turtle: replaced % Physical Resist with 10% Armor
+[*]Turtle: added 80 Armor and 8% Armor. Removed Health and % Physical Resist.
 [*]Typhos, the Jailer of Souls: replaced % Physical Resist with 4% Total Speed
+[*]Ulzuin's Torch: replaced % Health with 120 Armor
+[*]Vire, the Stone Matron: reduced Armor to 130
+[*]Wolverine: replaced Health with 60 Armor
 [/LIST]
 
 [aname=Soldier][b][i]Soldier[/i][/b][/aname]
 [LIST]
-[*]Military Conditioning: increased % Physique scaling at ultimate ranks to 28% by max ultimate rank
+[*]Field Command: reduced % Armor scaling with rank to 15% by rank 12, 25% by max ultimate rank
+[*]Military Conditioning: increased % Physique scaling at ultimate ranks to 28% by max ultimate rank. Reduced % Health scaling to 20% by rank 10, 32% by max ultimate rank.
 [/LIST]
 
 [aname=Demolitionist][b][i]Demolitionist[/i][/b][/aname]
@@ -332,15 +365,18 @@
 [*]Aura of Conviction: reduced % Physical Resist scaling with rank to 10% by rank 12, 13% by max ultimate rank
 [*]Rune of Hagarrad: reduced Arming Time to 1s
 [*]Rune of Kalastor: reduced Arming Time to 1s
+[*]Vigor: added Armor scaling with rank
 [/LIST]
 
 [aname=Necromancer][b][i]Necromancer[/i][/b][/aname]
 [LIST]
 [*]Raise Skeletons: skeletons are now invincible during their summoning animation
+[*]Spectral Binding: increased Health scaling with rank to 1450 by rank 12, 3500 by max ultimate rank
 [/LIST]
 
 [aname=Oathkeeper][b][i]Oathkeeper[/i][/b][/aname]
 [LIST]
+[*]Haven: reduced % Health scaling with rank to 20% by rank 10, 32% by max ultimate rank
 [*]Resilience: reduced % Physical Resist scaling with rank to 10% by rank 12, 15% by max ultimate rank
 [/LIST]
 [right][SIZE=70][jumpto=TOC]Back to Table of Contents[/jumpto][/SIZE][/right]
